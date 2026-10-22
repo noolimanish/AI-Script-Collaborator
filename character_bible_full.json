@@ -1,0 +1,4694 @@
+{
+    "character_archetypes": [
+        {
+            "id": "A01",
+            "name": "Reluctant Protagonist",
+            "core_pattern": "avoids responsibility until circumstances make avoidance impossible.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A02",
+            "name": "Active Protagonist",
+            "core_pattern": "pursues a clear goal and makes consequential choices.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A03",
+            "name": "Passive Drifter",
+            "core_pattern": "lets events and other people determine their path; may need to choose deliberately.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A04",
+            "name": "Underdog",
+            "core_pattern": "starts with fewer resources, status, skill, or support than the opposition.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A05",
+            "name": "Outsider",
+            "core_pattern": "does not fit the social group, institution, family, or world they enter.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A06",
+            "name": "Everyperson",
+            "core_pattern": "recognisable ordinary person facing an unusually demanding situation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A07",
+            "name": "Flawed Achiever",
+            "core_pattern": "capable and successful in one area but undermined by a personal flaw.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A08",
+            "name": "Dreamer",
+            "core_pattern": "imagines a better life but struggles to turn desire into action.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A09",
+            "name": "Idealist",
+            "core_pattern": "acts according to principles, sometimes underestimating practical costs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A10",
+            "name": "Cynic",
+            "core_pattern": "expects selfishness or failure and uses scepticism as protection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A11",
+            "name": "Antihero",
+            "core_pattern": "central figure whose methods or values conflict with conventional heroism.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A12",
+            "name": "Morally Compromised Lead",
+            "core_pattern": "pursues a worthwhile goal through ethically troubling choices.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A13",
+            "name": "Reluctant Leader",
+            "core_pattern": "earns or accepts responsibility despite doubt.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A14",
+            "name": "Natural Leader",
+            "core_pattern": "coordinates people through confidence, competence, empathy, or authority.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A15",
+            "name": "Misunderstood Protagonist",
+            "core_pattern": "others interpret their actions incorrectly; story must distinguish genuine misunderstanding from self-deception.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A16",
+            "name": "Self-Saboteur",
+            "core_pattern": "repeatedly damages their own goals through fear, pride, avoidance, or habit.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A17",
+            "name": "Perfectionist",
+            "core_pattern": "seeks control and excellence at a personal or relational cost.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A18",
+            "name": "People-Pleaser",
+            "core_pattern": "sacrifices honest needs to avoid disapproval.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A19",
+            "name": "Approval-Seeker",
+            "core_pattern": "measures self-worth through recognition and status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A20",
+            "name": "Escapist",
+            "core_pattern": "avoids difficult reality through fantasy, work, substances, humour, romance, or distraction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A21",
+            "name": "Survivor",
+            "core_pattern": "prioritises staying alive or stable after danger, loss, or abuse.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A22",
+            "name": "Reinventor",
+            "core_pattern": "attempts to become a different person, sometimes without addressing the past.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A23",
+            "name": "Late Bloomer",
+            "core_pattern": "discovers ability, purpose, or courage later than expected.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A24",
+            "name": "Reluctant Competitor",
+            "core_pattern": "dislikes rivalry but is forced to define what winning means.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A25",
+            "name": "Obsessive Pursuer",
+            "core_pattern": "narrows life around one objective and risks losing perspective.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A26",
+            "name": "Ordinary Person in Extraordinary Circumstances",
+            "core_pattern": "reveals character through adaptation rather than special powers.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A27",
+            "name": "Chosen-One Figure",
+            "core_pattern": "receives unusual responsibility or destiny; needs individual desires beyond the prophecy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A28",
+            "name": "Gifted but Immature Lead",
+            "core_pattern": "has ability without discipline, emotional insight, or responsibility.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A29",
+            "name": "Competent but Unrecognised Lead",
+            "core_pattern": "does valuable work that others overlook.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A30",
+            "name": "Fallen Hero",
+            "core_pattern": "loses status, trust, or moral authority and must face consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A31",
+            "name": "Returning Protagonist",
+            "core_pattern": "comes home or returns to an old environment changed by experience.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A32",
+            "name": "Double-Life Character",
+            "core_pattern": "maintains conflicting identities, roles, or secrets.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A33",
+            "name": "Reluctant Truth-Seeker",
+            "core_pattern": "wants answers but fears what the truth will cost.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A34",
+            "name": "Idealistic Reformer",
+            "core_pattern": "tries to change a family, workplace, institution, or society.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A35",
+            "name": "Survivor with Agency",
+            "core_pattern": "moves from enduring events to actively shaping their future.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A36",
+            "name": "Tragic Protagonist",
+            "core_pattern": "possesses a quality or flaw that contributes to their downfall.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A37",
+            "name": "Comic Protagonist",
+            "core_pattern": "generates humour through perspective, behaviour, decisions, or social friction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A38",
+            "name": "Ensemble Protagonist",
+            "core_pattern": "shares narrative focus with other central characters.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A39",
+            "name": "Unreliable Protagonist",
+            "core_pattern": "presents a partial, distorted, or deceptive account of events.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "A40",
+            "name": "Anti-destiny Protagonist",
+            "core_pattern": "resists the role others have assigned to them.",
+            "context": "============================================================\nB. ANTAGONISTS, RIVALS, AND OPPOSING FORCES\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B01",
+            "name": "Power-Seeking Antagonist",
+            "core_pattern": "wants control, influence, territory, or status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B02",
+            "name": "Ideological Opponent",
+            "core_pattern": "genuinely believes a different system of values is correct.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B03",
+            "name": "Mirror Antagonist",
+            "core_pattern": "resembles the protagonist but makes different choices.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B04",
+            "name": "Charismatic Villain",
+            "core_pattern": "attracts loyalty through charm, vision, confidence, or performance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B05",
+            "name": "Quiet Strategist",
+            "core_pattern": "controls events through planning, patience, and information.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B06",
+            "name": "Impulsive Threat",
+            "core_pattern": "acts quickly and unpredictably, creating instability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B07",
+            "name": "Controlling Authority Figure",
+            "core_pattern": "maintains order through coercion, fear, or rigid rules.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B08",
+            "name": "Corrupt Official",
+            "core_pattern": "exploits a position meant to serve the public.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B09",
+            "name": "Corporate or Institutional Antagonist",
+            "core_pattern": "represents incentives and systems that harm individuals.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B10",
+            "name": "Intimate Antagonist",
+            "core_pattern": "uses closeness, trust, or shared history to exert control.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B11",
+            "name": "Rival",
+            "core_pattern": "competes for the same goal, recognition, role, love, or resource.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B12",
+            "name": "Respectful Rival",
+            "core_pattern": "creates pressure while recognising the protagonist's ability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B13",
+            "name": "Petty Rival",
+            "core_pattern": "escalates minor comparisons into disproportionate conflict.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B14",
+            "name": "Jealous Rival",
+            "core_pattern": "interprets another person's success as a threat to self-worth.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B15",
+            "name": "Bully",
+            "core_pattern": "establishes dominance by humiliating or intimidating others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B16",
+            "name": "Opportunist",
+            "core_pattern": "changes loyalties according to advantage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B17",
+            "name": "Fanatic",
+            "core_pattern": "subordinates people and evidence to an absolute belief.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B18",
+            "name": "Zealot with a Just Cause",
+            "core_pattern": "pursues a defensible goal through harmful certainty or methods.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B19",
+            "name": "Revenge-Seeker",
+            "core_pattern": "organises life around repayment for a perceived wrong.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B20",
+            "name": "Punisher",
+            "core_pattern": "believes suffering is deserved and appoints themselves judge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B21",
+            "name": "Predator",
+            "core_pattern": "identifies vulnerability and exploits it.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B22",
+            "name": "Manipulator",
+            "core_pattern": "steers choices through guilt, flattery, fear, confusion, or selective truth.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B23",
+            "name": "Gaslighter",
+            "core_pattern": "persistently tries to destabilise another person's trust in their perception of reality.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B24",
+            "name": "Blackmailer",
+            "core_pattern": "uses damaging information as leverage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B25",
+            "name": "Deceiver",
+            "core_pattern": "maintains a false story to protect a goal or identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B26",
+            "name": "False Ally",
+            "core_pattern": "offers help while serving another agenda.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B27",
+            "name": "Sympathetic Antagonist",
+            "core_pattern": "has understandable needs but causes real harm.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B28",
+            "name": "Reluctant Antagonist",
+            "core_pattern": "opposes the lead because of duty, pressure, or limited options.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B29",
+            "name": "Tragic Antagonist",
+            "core_pattern": "becomes destructive through loss, fear, pride, or rigid belief.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B30",
+            "name": "Enforcer",
+            "core_pattern": "carries out another person's will through force or intimidation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B31",
+            "name": "Gatekeeper",
+            "core_pattern": "controls access to a person, opportunity, institution, or truth.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B32",
+            "name": "Bureaucratic Obstacle",
+            "core_pattern": "follows procedures that frustrate urgent human needs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B33",
+            "name": "Social Antagonist",
+            "core_pattern": "embodies group pressure, prejudice, gossip, or exclusion.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B34",
+            "name": "Nature or Environment as Opposition",
+            "core_pattern": "weather, terrain, illness, isolation, or scarcity creates conflict.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B35",
+            "name": "Internal Antagonist",
+            "core_pattern": "the protagonist's addiction, shame, fear, compulsion, or belief acts as opposition.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B36",
+            "name": "Anonymous Threat",
+            "core_pattern": "danger whose identity or motive is initially unknown.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B37",
+            "name": "Benevolent Controller",
+            "core_pattern": "claims to protect others while denying their autonomy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B38",
+            "name": "Failed Reformer",
+            "core_pattern": "once sought improvement but becomes what they opposed.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B39",
+            "name": "Rival-Friend",
+            "core_pattern": "affection and competition coexist.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "B40",
+            "name": "Antagonist Who Wins Temporarily",
+            "core_pattern": "creates credible setbacks and forces adaptation.",
+            "context": "============================================================\nC. COMEDY AND HUMOUR PATTERNS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C01",
+            "name": "Deadpan Observer",
+            "core_pattern": "reacts to absurdity with minimal visible emotion.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C02",
+            "name": "Literal Thinker",
+            "core_pattern": "interprets figurative or indirect speech literally.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C03",
+            "name": "Clueless Questioner",
+            "core_pattern": "asks questions that reveal a gap in awareness or expose an absurd premise.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C04",
+            "name": "Overconfident Fool",
+            "core_pattern": "acts certain despite limited knowledge or ability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C05",
+            "name": "Nervous Talker",
+            "core_pattern": "fills silence with rambling when anxious.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C06",
+            "name": "Nervous Deflector",
+            "core_pattern": "uses jokes to avoid fear, grief, embarrassment, or intimacy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C07",
+            "name": "Compulsive Exaggerator",
+            "core_pattern": "turns small events into dramatic stories.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C08",
+            "name": "Habitual Liar",
+            "core_pattern": "invents explanations and gets trapped by them.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C09",
+            "name": "Bad Improviser",
+            "core_pattern": "tries to bluff through situations and makes them worse.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C10",
+            "name": "Socially Awkward Character",
+            "core_pattern": "misreads timing, cues, boundaries, or expectations.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C11",
+            "name": "Status Pretender",
+            "core_pattern": "performs wealth, sophistication, expertise, or influence they do not possess.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C12",
+            "name": "Status-Anxious Character",
+            "core_pattern": "constantly monitors rank and comparison.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C13",
+            "name": "Pedant",
+            "core_pattern": "insists on technical correctness at socially inconvenient moments.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C14",
+            "name": "Know-It-All",
+            "core_pattern": "needs to display knowledge even when it is irrelevant or wrong.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C15",
+            "name": "Fake Expert",
+            "core_pattern": "uses jargon and confidence to conceal incompetence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C16",
+            "name": "Practical Realist",
+            "core_pattern": "punctures grand claims with mundane facts.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C17",
+            "name": "Sarcastic Critic",
+            "core_pattern": "uses irony to expose vanity, hypocrisy, or frustration.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C18",
+            "name": "Teasing Friend",
+            "core_pattern": "expresses closeness through playful provocation; must respect character-specific boundaries.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C19",
+            "name": "Roaster",
+            "core_pattern": "targets flaws or pretensions through pointed humour; risk of cruelty must be considered.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C20",
+            "name": "Self-Deprecator",
+            "core_pattern": "makes themselves the target to manage insecurity or build connection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C21",
+            "name": "Mischief-Maker",
+            "core_pattern": "creates disorder for fun, revenge, attention, or curiosity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C22",
+            "name": "Accidental Troublemaker",
+            "core_pattern": "causes chaos without intending harm.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C23",
+            "name": "Chaos Agent",
+            "core_pattern": "disrupts routines and forces other characters to improvise.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C24",
+            "name": "Overreactor",
+            "core_pattern": "responds to minor events with disproportionate intensity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C25",
+            "name": "Underreactor",
+            "core_pattern": "responds to major events with strikingly little emotion.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C26",
+            "name": "Dramatic Performer",
+            "core_pattern": "turns everyday events into theatrical performances.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C27",
+            "name": "Petty Grudge-Keeper",
+            "core_pattern": "remembers small slights and seeks absurdly elaborate payback.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C28",
+            "name": "Rule-Bender",
+            "core_pattern": "finds loopholes and takes pride in getting around rules.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C29",
+            "name": "Rule-Obsessed Character",
+            "core_pattern": "follows rules even when the context makes them ridiculous.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C30",
+            "name": "Misguided Helper",
+            "core_pattern": "sincerely helps but misunderstands what help is needed.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C31",
+            "name": "Unwanted Adviser",
+            "core_pattern": "gives unsolicited guidance and often exposes their own flaws.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C32",
+            "name": "Competitive One-Upper",
+            "core_pattern": "must top every story or achievement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C33",
+            "name": "Story Hijacker",
+            "core_pattern": "redirects every conversation toward their own experience.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C34",
+            "name": "Chronic Interruptor",
+            "core_pattern": "interrupts through enthusiasm, anxiety, dominance, or poor listening.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C35",
+            "name": "Awkward Flirt",
+            "core_pattern": "attempts charm but reveals insecurity or poor social timing.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C36",
+            "name": "Romantic Misinterpreter",
+            "core_pattern": "reads ordinary friendliness as romantic interest or misses clear signals.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C37",
+            "name": "Jealous Comic",
+            "core_pattern": "tries to hide jealousy and becomes increasingly obvious.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C38",
+            "name": "Petty Schemer",
+            "core_pattern": "designs complicated plans for trivial rewards.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C39",
+            "name": "Bluffing Coward",
+            "core_pattern": "acts brave until danger becomes real.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C40",
+            "name": "Coward with One Brave Moment",
+            "core_pattern": "fear is genuine, but loyalty eventually overrides it.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C41",
+            "name": "Competent Person Surrounded by Fools",
+            "core_pattern": "humour arises from maintaining standards amid chaos.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C42",
+            "name": "Fool Who Accidentally Sees the Truth",
+            "core_pattern": "ignorance or outsider status lets them notice an obvious contradiction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C43",
+            "name": "Straight Man",
+            "core_pattern": "provides a grounded reaction that makes another character's behaviour funny.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C44",
+            "name": "Comic Foil",
+            "core_pattern": "highlights another character's quirks through contrast.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C45",
+            "name": "Comic Duo: Dominant/Reactive",
+            "core_pattern": "one drives the bit while the other resists, enables, or reacts.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C46",
+            "name": "Comic Duo: Planner/Disaster",
+            "core_pattern": "one creates plans and the other ruins them.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C47",
+            "name": "Comic Duo: Literal/Abstract",
+            "core_pattern": "one wants concrete facts while the other speaks in grand ideas.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C48",
+            "name": "Comic Duo: Optimist/Cynic",
+            "core_pattern": "opposite expectations produce friction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C49",
+            "name": "Comic Duo: Braggart/Verifier",
+            "core_pattern": "boasts meet someone who knows the facts.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C50",
+            "name": "Humourless Character in Absurd Circumstances",
+            "core_pattern": "treats ridiculous events as serious business.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C51",
+            "name": "Socially Powerful Fool",
+            "core_pattern": "gets away with incompetence because of status or connections.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C52",
+            "name": "Childlike Adult",
+            "core_pattern": "approaches the world with curiosity but may lack responsibility.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C53",
+            "name": "Immature Adult",
+            "core_pattern": "avoids accountability despite age or status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C54",
+            "name": "Involuntary Confessor",
+            "core_pattern": "reveals secrets while trying to conceal them.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C55",
+            "name": "Miscommunication Engine",
+            "core_pattern": "creates escalating trouble through incomplete or mistaken information.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C56",
+            "name": "Physical Comic",
+            "core_pattern": "humour depends on movement, timing, spatial mishaps, or bodily reactions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C57",
+            "name": "Reaction Comic",
+            "core_pattern": "facial expressions and silent responses carry the joke.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C58",
+            "name": "Verbal Duelist",
+            "core_pattern": "humour comes from competitive language and fast repartee.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C59",
+            "name": "Absurdist",
+            "core_pattern": "behaves according to an unexpected but internally consistent logic.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C60",
+            "name": "Dark-Humour Character",
+            "core_pattern": "uses humour around uncomfortable or grim realities; tone requires care.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C61",
+            "name": "Gallows-Humour Survivor",
+            "core_pattern": "jokes in danger as a coping strategy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C62",
+            "name": "Bureaucratic Comic",
+            "core_pattern": "treats pointless procedures as sacred.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C63",
+            "name": "Earnest Enthusiast",
+            "core_pattern": "enthusiasm is disproportionate but sincere.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C64",
+            "name": "Failed Seducer",
+            "core_pattern": "mistakes persistence or performance for genuine connection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C65",
+            "name": "Petty Authority",
+            "core_pattern": "enjoys enforcing tiny amounts of power.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C66",
+            "name": "Unreliable Boaster",
+            "core_pattern": "stories grow as evidence weakens.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C67",
+            "name": "Opportunistic Friend",
+            "core_pattern": "helps when convenient and disappears when costly.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C68",
+            "name": "Innocent Instigator",
+            "core_pattern": "asks an honest question that exposes a taboo or contradiction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C69",
+            "name": "Emotional Avoider",
+            "core_pattern": "turns every sincere moment into banter.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "C70",
+            "name": "Situational Comic",
+            "core_pattern": "becomes funny because of a mismatch between person, place, timing, and stakes.",
+            "context": "Comedy safety for scene fit: a comic role can release tension, sharpen tension, reveal character, expose hypocrisy, or undermine emotion. Do not assume comic relief is always beneficial. Check whether the joke targets power, behaviour, circumstance, or a vulnerable person.\n\n============================================================\nD. ROMANCE AND INTIMATE RELATIONSHIPS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D01",
+            "name": "Guarded Lover",
+            "core_pattern": "wants closeness but protects themselves from rejection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D02",
+            "name": "Openly Affectionate Lover",
+            "core_pattern": "expresses care directly and consistently.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D03",
+            "name": "Emotionally Avoidant Lover",
+            "core_pattern": "withdraws when intimacy demands vulnerability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D04",
+            "name": "Anxious Lover",
+            "core_pattern": "seeks reassurance and may misread distance as rejection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D05",
+            "name": "Secure Partner",
+            "core_pattern": "communicates needs and respects boundaries.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D06",
+            "name": "Idealising Lover",
+            "core_pattern": "falls in love with an imagined version of the other person.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D07",
+            "name": "Disillusioned Romantic",
+            "core_pattern": "wants love but distrusts romantic narratives.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D08",
+            "name": "Practical Partner",
+            "core_pattern": "expresses love through reliability and concrete help.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D09",
+            "name": "Grand Gesture Romantic",
+            "core_pattern": "believes dramatic action proves devotion; may overlook everyday needs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D10",
+            "name": "Quietly Devoted Character",
+            "core_pattern": "demonstrates affection through small repeated actions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D11",
+            "name": "Flirt",
+            "core_pattern": "tests mutual attraction through play, attention, and ambiguity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D12",
+            "name": "Awkward Suitor",
+            "core_pattern": "struggles to express interest without self-consciousness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D13",
+            "name": "Unavailable Lover",
+            "core_pattern": "cannot or will not offer the relationship the other person wants.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D14",
+            "name": "Ambivalent Lover",
+            "core_pattern": "feels attraction and resistance simultaneously.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D15",
+            "name": "Fearful Commitment-Avoider",
+            "core_pattern": "treats commitment as a threat to freedom or identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D16",
+            "name": "Overcommitted Rescuer",
+            "core_pattern": "confuses being needed with being loved.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D17",
+            "name": "Jealous Partner",
+            "core_pattern": "interprets uncertainty as threat and may become controlling.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D18",
+            "name": "Possessive Partner",
+            "core_pattern": "treats the other person as an entitlement rather than an autonomous person.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D19",
+            "name": "Boundary-Setter",
+            "core_pattern": "clearly communicates limits and consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D20",
+            "name": "People-Pleasing Partner",
+            "core_pattern": "suppresses disagreement to preserve the relationship.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D21",
+            "name": "Conflict-Avoidant Couple Member",
+            "core_pattern": "delays difficult conversations until resentment grows.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D22",
+            "name": "Honest but Unkind Partner",
+            "core_pattern": "values truth but ignores the impact of delivery.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D23",
+            "name": "Kind but Dishonest Partner",
+            "core_pattern": "avoids immediate pain through concealment.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D24",
+            "name": "Mismatched Communicator",
+            "core_pattern": "one speaks directly while the other relies on hints or silence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D25",
+            "name": "Friends-to-Lovers Catalyst",
+            "core_pattern": "changes an established friendship through new awareness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D26",
+            "name": "Rivals-to-Lovers Partner",
+            "core_pattern": "attraction develops through competition and recognition.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D27",
+            "name": "Second-Chance Lover",
+            "core_pattern": "revisits a relationship with unresolved history.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D28",
+            "name": "Forbidden-Love Partner",
+            "core_pattern": "faces external or internal barriers to intimacy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D29",
+            "name": "Unrequited Lover",
+            "core_pattern": "loves someone who does not reciprocate.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D30",
+            "name": "Rebound Partner",
+            "core_pattern": "enters a relationship while still processing another one.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D31",
+            "name": "Emotional Affair Participant",
+            "core_pattern": "forms an intimate bond that violates existing agreements.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D32",
+            "name": "Honest Breaker",
+            "core_pattern": "ends a relationship clearly despite pain.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D33",
+            "name": "Avoidant Breaker",
+            "core_pattern": "disappears, delays, or creates conflict instead of ending things honestly.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D34",
+            "name": "Recovering Heartbreak Character",
+            "core_pattern": "rebuilds identity after loss.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D35",
+            "name": "Love-Interest with Independent Agency",
+            "core_pattern": "has goals, contradictions, and a life beyond the protagonist.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D36",
+            "name": "Romantic Foil",
+            "core_pattern": "reveals the protagonist's needs by offering a contrasting relationship style.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D37",
+            "name": "False Match",
+            "core_pattern": "looks ideal on paper but exposes incompatibility in practice.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D38",
+            "name": "Unexpected Match",
+            "core_pattern": "forms connection through shared values rather than initial attraction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D39",
+            "name": "Caretaking Lover",
+            "core_pattern": "provides support but risks taking over the partner's life.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "D40",
+            "name": "Transformative Partner",
+            "core_pattern": "encourages change without becoming responsible for the other's entire growth.",
+            "context": "============================================================\nE. FAMILY, HOME, AND INTERGENERATIONAL CHARACTERS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E01",
+            "name": "Protective Parent",
+            "core_pattern": "prioritises safety, sometimes at the cost of independence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E02",
+            "name": "Controlling Parent",
+            "core_pattern": "uses authority, fear, guilt, or resources to direct a child's life.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E03",
+            "name": "Emotionally Absent Parent",
+            "core_pattern": "provides little emotional attention despite physical presence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E04",
+            "name": "Affectionate but Inarticulate Parent",
+            "core_pattern": "cares deeply but struggles to verbalise it.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E05",
+            "name": "Sacrificing Parent",
+            "core_pattern": "gives up personal needs for family; may create guilt or hidden resentment.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E06",
+            "name": "Ambitious Parent",
+            "core_pattern": "treats achievement as security, identity, or family honour.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E07",
+            "name": "Disappointed Parent",
+            "core_pattern": "cannot reconcile a child's reality with their expectations.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E08",
+            "name": "Parent Seeking Redemption",
+            "core_pattern": "acknowledges past harm and attempts repair.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E09",
+            "name": "Childified Parent",
+            "core_pattern": "relies on the child for emotional care or adult responsibilities.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E10",
+            "name": "Golden Child",
+            "core_pattern": "receives disproportionate praise or freedom.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E11",
+            "name": "Scapegoated Child",
+            "core_pattern": "absorbs family blame and tension.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E12",
+            "name": "Responsible Eldest Sibling",
+            "core_pattern": "carries duties beyond their age or role.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E13",
+            "name": "Rebellious Sibling",
+            "core_pattern": "challenges family rules and exposes hidden contradictions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E14",
+            "name": "Rival Siblings",
+            "core_pattern": "compete for approval, inheritance, identity, or attention.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E15",
+            "name": "Protective Sibling",
+            "core_pattern": "supports another while struggling to allow independence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E16",
+            "name": "Estranged Sibling",
+            "core_pattern": "carries unresolved history and distance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E17",
+            "name": "Peacekeeper",
+            "core_pattern": "suppresses conflict to keep the family functioning.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E18",
+            "name": "Truth-Teller",
+            "core_pattern": "names what everyone else avoids.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E19",
+            "name": "Family Mediator",
+            "core_pattern": "translates between incompatible personalities.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E20",
+            "name": "Family Secret-Keeper",
+            "core_pattern": "protects a person or system through concealment.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E21",
+            "name": "Family Black Sheep",
+            "core_pattern": "refuses or fails to meet group expectations.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E22",
+            "name": "Tradition Keeper",
+            "core_pattern": "preserves rituals and identity, sometimes resisting necessary change.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E23",
+            "name": "Tradition Challenger",
+            "core_pattern": "questions inherited expectations and their costs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E24",
+            "name": "Elder with Quiet Authority",
+            "core_pattern": "influences others through experience and trust rather than force.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E25",
+            "name": "Elder Who Refuses Change",
+            "core_pattern": "treats age or status as proof of correctness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E26",
+            "name": "Grandparent as Emotional Anchor",
+            "core_pattern": "offers continuity, warmth, memory, or an alternate viewpoint.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E27",
+            "name": "In-Law as Gatekeeper",
+            "core_pattern": "controls acceptance, access, or family legitimacy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E28",
+            "name": "In-Law as Unexpected Ally",
+            "core_pattern": "sees the protagonist more clearly than their own family does.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E29",
+            "name": "Dutiful Relative",
+            "core_pattern": "fulfils obligations while concealing personal dissatisfaction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E30",
+            "name": "Opportunistic Relative",
+            "core_pattern": "treats family ties as a resource.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E31",
+            "name": "Family Caregiver",
+            "core_pattern": "carries practical and emotional labour, often invisibly.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E32",
+            "name": "Resentful Caregiver",
+            "core_pattern": "loves the person they care for but feels trapped by the role.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E33",
+            "name": "Absent Family Member",
+            "core_pattern": "shapes the story through missing presence, memory, or unresolved loss.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E34",
+            "name": "Chosen Family Member",
+            "core_pattern": "provides belonging outside biological or legal family.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E35",
+            "name": "Family Myth-Maker",
+            "core_pattern": "repeats a selective version of family history.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E36",
+            "name": "Reconciler",
+            "core_pattern": "attempts to repair a broken family relationship.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E37",
+            "name": "Boundary-Breaking Relative",
+            "core_pattern": "assumes closeness grants access or control.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E38",
+            "name": "Financial Provider",
+            "core_pattern": "expresses responsibility through money while struggling with emotional intimacy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E39",
+            "name": "Dependent Adult",
+            "core_pattern": "relies on family support and may resist responsibility.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "E40",
+            "name": "Family Exile",
+            "core_pattern": "is rejected or leaves the family system and must build a new identity.",
+            "context": "============================================================\nF. FRIENDSHIP, GROUPS, AND COMMUNITY\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F01",
+            "name": "Loyal Friend",
+            "core_pattern": "remains present when support becomes costly.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F02",
+            "name": "Fair-Weather Friend",
+            "core_pattern": "enjoys companionship but avoids hardship.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F03",
+            "name": "Honest Friend",
+            "core_pattern": "tells difficult truths without abandoning care.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F04",
+            "name": "Enabling Friend",
+            "core_pattern": "protects someone from consequences and prolongs a problem.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F05",
+            "name": "Competitive Friend",
+            "core_pattern": "mixes affection with comparison.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F06",
+            "name": "Friend Who Wants More",
+            "core_pattern": "experiences romantic or status desires inside a friendship.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F07",
+            "name": "Group Leader",
+            "core_pattern": "organises the group and shapes its decisions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F08",
+            "name": "Social Glue",
+            "core_pattern": "keeps people connected through effort, warmth, or mediation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F09",
+            "name": "Outsider in the Friend Group",
+            "core_pattern": "reveals the group's unspoken rules.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F10",
+            "name": "Newcomer",
+            "core_pattern": "changes established dynamics by entering the group.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F11",
+            "name": "Old Friend as Living Memory",
+            "core_pattern": "reminds the protagonist of an earlier identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F12",
+            "name": "Drifting Friend",
+            "core_pattern": "grows away through changing priorities rather than one dramatic betrayal.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F13",
+            "name": "Betraying Friend",
+            "core_pattern": "violates trust through fear, ambition, resentment, or self-interest.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F14",
+            "name": "Guilty Friend",
+            "core_pattern": "struggles after causing harm.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F15",
+            "name": "Friend Who Outgrows the Protagonist",
+            "core_pattern": "exposes stagnation or divergent values.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F16",
+            "name": "Friend Who Refuses to Grow",
+            "core_pattern": "preserves familiarity at another person's expense.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F17",
+            "name": "Carefree Companion",
+            "core_pattern": "encourages spontaneity and escape from routine.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F18",
+            "name": "Responsible Companion",
+            "core_pattern": "manages logistics and consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F19",
+            "name": "Group Scapegoat",
+            "core_pattern": "absorbs jokes, blame, or frustration.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F20",
+            "name": "Group Status-Seeker",
+            "core_pattern": "constantly ranks members and competes for attention.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F21",
+            "name": "Mediator Friend",
+            "core_pattern": "de-escalates disputes.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F22",
+            "name": "Instigator Friend",
+            "core_pattern": "pushes the group into risky or revealing situations.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F23",
+            "name": "Quiet Supporter",
+            "core_pattern": "helps without seeking credit.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F24",
+            "name": "Opportunistic Networker",
+            "core_pattern": "treats friendship as access to influence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F25",
+            "name": "Community Elder",
+            "core_pattern": "holds memory, informal authority, or local knowledge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F26",
+            "name": "Gossip Carrier",
+            "core_pattern": "moves information through a community, altering its meaning.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F27",
+            "name": "Rumour Victim",
+            "core_pattern": "suffers from a story others circulate.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F28",
+            "name": "Neighbour as Witness",
+            "core_pattern": "observes private life from the edge of the household.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F29",
+            "name": "Community Conformist",
+            "core_pattern": "enforces group norms to preserve belonging.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "F30",
+            "name": "Community Dissenter",
+            "core_pattern": "challenges accepted norms and faces social costs.",
+            "context": "============================================================\nG. MENTORS, GUIDES, AND AUTHORITY FIGURES\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G01",
+            "name": "Wise Mentor",
+            "core_pattern": "offers perspective but should not solve every problem for the protagonist.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G02",
+            "name": "Practical Mentor",
+            "core_pattern": "teaches through tasks, discipline, and consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G03",
+            "name": "Reluctant Mentor",
+            "core_pattern": "resists teaching because of exhaustion, fear, or past failure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G04",
+            "name": "Flawed Mentor",
+            "core_pattern": "offers valuable knowledge while embodying unresolved problems.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G05",
+            "name": "Fallen Mentor",
+            "core_pattern": "loses credibility and forces the student to reassess their beliefs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G06",
+            "name": "Manipulative Mentor",
+            "core_pattern": "uses guidance to create dependence or control.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G07",
+            "name": "Tough Coach",
+            "core_pattern": "pushes performance through demanding standards.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G08",
+            "name": "Compassionate Teacher",
+            "core_pattern": "recognises potential and provides encouragement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G09",
+            "name": "Unfair Teacher",
+            "core_pattern": "uses authority arbitrarily or humiliates students.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G10",
+            "name": "Gatekeeping Expert",
+            "core_pattern": "controls access to specialised knowledge or opportunity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G11",
+            "name": "Apprenticing Student",
+            "core_pattern": "learns by imitation, failure, and observation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G12",
+            "name": "Rebellious Student",
+            "core_pattern": "challenges the mentor's assumptions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G13",
+            "name": "Rival Mentor",
+            "core_pattern": "competes with another guide for influence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G14",
+            "name": "Accidental Mentor",
+            "core_pattern": "teaches through ordinary behaviour rather than formal instruction.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G15",
+            "name": "Peer Mentor",
+            "core_pattern": "helps through shared experience rather than hierarchy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G16",
+            "name": "Institutional Authority",
+            "core_pattern": "represents a school, workplace, court, or organisation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G17",
+            "name": "Ethical Authority",
+            "core_pattern": "uses power transparently and accepts accountability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G18",
+            "name": "Insecure Authority",
+            "core_pattern": "demands obedience because they fear losing status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G19",
+            "name": "Benevolent Bureaucrat",
+            "core_pattern": "tries to help within rigid procedures.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G20",
+            "name": "Rule-Bound Official",
+            "core_pattern": "values compliance over context.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G21",
+            "name": "Whistleblower",
+            "core_pattern": "exposes wrongdoing at personal risk.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G22",
+            "name": "Reformer Inside the System",
+            "core_pattern": "attempts change from within.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G23",
+            "name": "Disillusioned Professional",
+            "core_pattern": "once believed in the institution but now doubts it.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G24",
+            "name": "Protector with Limits",
+            "core_pattern": "wants to help but cannot control the outcome.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "G25",
+            "name": "Authority Who Admits Error",
+            "core_pattern": "models accountability and changes the power dynamic.",
+            "context": "============================================================\nH. WORKPLACE, CAREER, AND SOCIAL STATUS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H01",
+            "name": "Ambitious Climber",
+            "core_pattern": "pursues promotion, prestige, or influence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H02",
+            "name": "Quiet Expert",
+            "core_pattern": "possesses deep skill without self-promotion.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H03",
+            "name": "Impostor",
+            "core_pattern": "fears being exposed as less capable than others believe.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H04",
+            "name": "Credit Thief",
+            "core_pattern": "claims another person's work.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H05",
+            "name": "Exploitative Boss",
+            "core_pattern": "extracts labour while withholding respect or resources.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H06",
+            "name": "Insecure Boss",
+            "core_pattern": "controls details to hide their own uncertainty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H07",
+            "name": "Supportive Manager",
+            "core_pattern": "creates conditions for others to succeed.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H08",
+            "name": "Burned-Out Professional",
+            "core_pattern": "has lost energy or meaning after prolonged demands.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H09",
+            "name": "Idealistic Newcomer",
+            "core_pattern": "expects fairness and discovers institutional reality.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H10",
+            "name": "Veteran Cynic",
+            "core_pattern": "understands the system but may discourage change.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H11",
+            "name": "Office Politician",
+            "core_pattern": "manages alliances and perceptions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H12",
+            "name": "Competent Undervalued Worker",
+            "core_pattern": "delivers results without recognition.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H13",
+            "name": "Rule-Following Employee",
+            "core_pattern": "prioritises safety and predictability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H14",
+            "name": "Creative Disruptor",
+            "core_pattern": "challenges process to find better solutions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H15",
+            "name": "Shortcut-Taker",
+            "core_pattern": "chooses speed over quality and transfers risk to others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H16",
+            "name": "Ethical Dilemma Character",
+            "core_pattern": "must choose between livelihood and principle.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H17",
+            "name": "Career Sacrificer",
+            "core_pattern": "gives up relationships or health for advancement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H18",
+            "name": "Reluctant Entrepreneur",
+            "core_pattern": "starts a venture from necessity rather than passion.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H19",
+            "name": "Failed Entrepreneur",
+            "core_pattern": "confronts debt, identity, and public judgement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H20",
+            "name": "Passionate Craftsperson",
+            "core_pattern": "values the work itself more than status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H21",
+            "name": "Inherited Successor",
+            "core_pattern": "receives an opportunity and must prove or redefine themselves.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H22",
+            "name": "Nepotistic Beneficiary",
+            "core_pattern": "gains access through connections and may ignore the resulting unfairness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H23",
+            "name": "Union or Collective Organiser",
+            "core_pattern": "coordinates people around shared interests.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H24",
+            "name": "Exploited Worker",
+            "core_pattern": "faces unequal power and limited options.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H25",
+            "name": "Customer-Facing Mask",
+            "core_pattern": "performs friendliness despite private frustration.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H26",
+            "name": "Service Worker as Observer",
+            "core_pattern": "sees many social worlds while remaining overlooked.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H27",
+            "name": "Failed Artist",
+            "core_pattern": "negotiates ambition, compromise, and identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H28",
+            "name": "Commercially Successful Artist",
+            "core_pattern": "struggles between audience demand and personal vision.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H29",
+            "name": "Perfectionist Collaborator",
+            "core_pattern": "improves quality but can delay or exhaust a team.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H30",
+            "name": "Deadline Gambler",
+            "core_pattern": "relies on last-minute effort and luck.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H31",
+            "name": "Competent Crisis Manager",
+            "core_pattern": "becomes effective when others panic.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H32",
+            "name": "Workplace Scapegoat",
+            "core_pattern": "receives blame for systemic failures.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H33",
+            "name": "Quiet Saboteur",
+            "core_pattern": "undermines a colleague while maintaining plausible deniability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H34",
+            "name": "Mentor-Colleague",
+            "core_pattern": "supports another's growth without formal authority.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "H35",
+            "name": "Career Changer",
+            "core_pattern": "gives up a stable identity to pursue a different life.",
+            "context": "============================================================\nI. EMOTIONAL, PSYCHOLOGICAL, AND INTERNAL PATTERNS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I01",
+            "name": "Emotionally Repressed Character",
+            "core_pattern": "suppresses feelings to maintain control or safety.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I02",
+            "name": "Emotionally Expressive Character",
+            "core_pattern": "makes feelings visible and may struggle to regulate their expression.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I03",
+            "name": "Shame-Driven Character",
+            "core_pattern": "hides parts of themselves they believe make them unworthy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I04",
+            "name": "Guilt-Driven Character",
+            "core_pattern": "seeks punishment, repair, or absolution after perceived wrongdoing.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I05",
+            "name": "Grief-Struck Character",
+            "core_pattern": "reorganises life around a loss.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I06",
+            "name": "Numb Character",
+            "core_pattern": "experiences reduced emotional access after stress or loss.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I07",
+            "name": "Hypervigilant Character",
+            "core_pattern": "constantly scans for danger or rejection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I08",
+            "name": "Avoidant Character",
+            "core_pattern": "escapes discomfort through distance, distraction, or minimisation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I09",
+            "name": "Anxious Anticipator",
+            "core_pattern": "rehearses possible failures and struggles to act under uncertainty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I10",
+            "name": "Control-Seeker",
+            "core_pattern": "reduces uncertainty by managing people, routines, or details.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I11",
+            "name": "Perfectionistic Self-Critic",
+            "core_pattern": "interprets mistakes as evidence of personal inadequacy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I12",
+            "name": "Self-Deceiver",
+            "core_pattern": "maintains a story that protects identity from painful evidence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I13",
+            "name": "Rationaliser",
+            "core_pattern": "explains questionable actions as necessary or justified.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I14",
+            "name": "Projection-Prone Character",
+            "core_pattern": "attributes their own unwanted motives or feelings to others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I15",
+            "name": "Denier",
+            "core_pattern": "refuses to acknowledge a reality that threatens stability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I16",
+            "name": "Compartmentaliser",
+            "core_pattern": "keeps incompatible parts of life psychologically separate.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I17",
+            "name": "Dissociative or Detached Character",
+            "core_pattern": "experiences disconnection; portrayal should be researched and not used as a generic twist.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I18",
+            "name": "Obsessive Fixator",
+            "core_pattern": "cannot disengage from a thought, person, task, or perceived threat.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I19",
+            "name": "Compulsive Pleaser",
+            "core_pattern": "seeks safety through compliance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I20",
+            "name": "Resentful Martyr",
+            "core_pattern": "sacrifices while keeping an unspoken ledger of debts.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I21",
+            "name": "Envious Character",
+            "core_pattern": "experiences another person's success as evidence of their own inadequacy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I22",
+            "name": "Proud Character",
+            "core_pattern": "protects dignity even when humility would help.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I23",
+            "name": "Humiliated Character",
+            "core_pattern": "reorganises behaviour around a perceived public loss.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I24",
+            "name": "Identity-Seeking Character",
+            "core_pattern": "tries on roles while discovering personal values.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I25",
+            "name": "Self-Forgiving Character",
+            "core_pattern": "learns to accept responsibility without defining the entire self by a mistake.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I26",
+            "name": "Self-Punishing Character",
+            "core_pattern": "believes suffering is required to balance wrongdoing.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I27",
+            "name": "Emotionally Literate Character",
+            "core_pattern": "can name feelings and distinguish them from actions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I28",
+            "name": "Emotionally Illiterate Character",
+            "core_pattern": "feels strongly but cannot identify or communicate the feeling.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I29",
+            "name": "Boundary-Learning Character",
+            "core_pattern": "learns to distinguish care from control and responsibility from self-erasure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I30",
+            "name": "Relapse-Prone Character",
+            "core_pattern": "makes progress, returns to an old pattern, and must confront its triggers.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I31",
+            "name": "Grief-Avoiding Character",
+            "core_pattern": "stays busy or angry to avoid mourning.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I32",
+            "name": "Survivor's Guilt Character",
+            "core_pattern": "struggles with having survived when others did not.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I33",
+            "name": "Hopeful Realist",
+            "core_pattern": "acknowledges hardship while retaining practical possibility.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I34",
+            "name": "Learned Helplessness Pattern",
+            "core_pattern": "expects effort to fail; portray with nuance, not as laziness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I35",
+            "name": "Emotional Contagion Character",
+            "core_pattern": "strongly absorbs the moods of people around them.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I36",
+            "name": "Empathic Observer",
+            "core_pattern": "notices emotional shifts others miss.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I37",
+            "name": "Low-Empathy Strategist",
+            "core_pattern": "understands reactions intellectually but gives little weight to others' suffering.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I38",
+            "name": "Moral Injury Character",
+            "core_pattern": "struggles after participating in or witnessing actions that violate core values.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I39",
+            "name": "Identity in Crisis",
+            "core_pattern": "loses a role, belief, or relationship that previously organised life.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "I40",
+            "name": "Person in Recovery",
+            "core_pattern": "rebuilds routines and relationships after a destructive pattern.",
+            "context": "Note: These are narrative patterns, not clinical diagnoses. If a story includes a mental-health condition, research it specifically and avoid equating a diagnosis with villainy or comic relief.\n\n============================================================\nJ. MYSTERY, CRIME, THRILLER, AND INVESTIGATION\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J01",
+            "name": "Relentless Investigator",
+            "core_pattern": "follows evidence despite pressure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J02",
+            "name": "Intuitive Investigator",
+            "core_pattern": "notices patterns but must test assumptions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J03",
+            "name": "Rule-Breaking Detective",
+            "core_pattern": "bends procedure for results and risks harming the case.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J04",
+            "name": "By-the-Book Investigator",
+            "core_pattern": "protects evidence and due process but may be inflexible.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J05",
+            "name": "Haunted Investigator",
+            "core_pattern": "carries unresolved personal history into a case.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J06",
+            "name": "Amateur Sleuth",
+            "core_pattern": "investigates through curiosity, proximity, or personal stakes.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J07",
+            "name": "Reluctant Witness",
+            "core_pattern": "knows something important but fears the consequences of speaking.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J08",
+            "name": "Unreliable Witness",
+            "core_pattern": "gives incomplete or distorted testimony, intentionally or otherwise.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J09",
+            "name": "Hidden Witness",
+            "core_pattern": "observes events without initially being recognised as important.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J10",
+            "name": "False Suspect",
+            "core_pattern": "appears guilty because of misleading evidence or bias.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J11",
+            "name": "Red-Herring Character",
+            "core_pattern": "draws attention away from the actual explanation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J12",
+            "name": "Secret-Keeper",
+            "core_pattern": "protects a truth for love, fear, loyalty, or self-interest.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J13",
+            "name": "Informant",
+            "core_pattern": "trades information for protection, money, status, or revenge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J14",
+            "name": "Double Agent",
+            "core_pattern": "serves competing sides and must manage conflicting loyalties.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J15",
+            "name": "Forensic Specialist",
+            "core_pattern": "interprets physical or digital evidence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J16",
+            "name": "Pattern Analyst",
+            "core_pattern": "connects incidents that appear unrelated.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J17",
+            "name": "Journalist Investigator",
+            "core_pattern": "pursues a story against institutional resistance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J18",
+            "name": "Amateur Hacker or Technical Investigator",
+            "core_pattern": "uncovers information through technical skill; avoid magical competence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J19",
+            "name": "Corrupt Investigator",
+            "core_pattern": "uses the investigation for personal gain.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J20",
+            "name": "Procedural Obstructionist",
+            "core_pattern": "delays truth through bureaucracy or manipulation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J21",
+            "name": "Confession-Seeker",
+            "core_pattern": "believes an admission matters more than corroborating evidence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J22",
+            "name": "Innocent Person Under Suspicion",
+            "core_pattern": "reveals the costs of accusation and social judgement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J23",
+            "name": "Criminal with a Code",
+            "core_pattern": "follows personal rules that may conflict with law or morality.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J24",
+            "name": "Professional Criminal",
+            "core_pattern": "treats crime as work governed by skill, risk, and loyalty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J25",
+            "name": "Desperate Offender",
+            "core_pattern": "commits wrongdoing under pressure and faces escalating consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J26",
+            "name": "Opportunistic Criminal",
+            "core_pattern": "exploits openings without a grand ideology.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J27",
+            "name": "Mastermind",
+            "core_pattern": "coordinates a complex plan but should have credible limits and blind spots.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J28",
+            "name": "Accomplice with Doubts",
+            "core_pattern": "begins questioning the plan or its morality.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J29",
+            "name": "Enforcer with a Conscience",
+            "core_pattern": "carries out violence while struggling with its consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J30",
+            "name": "Crime Victim with Agency",
+            "core_pattern": "has choices, knowledge, and life beyond the crime.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J31",
+            "name": "Survivor Who Refuses Silence",
+            "core_pattern": "acts to reclaim voice or prevent recurrence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J32",
+            "name": "Vigilante",
+            "core_pattern": "bypasses institutions to impose personal justice.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J33",
+            "name": "Obsessive Pursuer",
+            "core_pattern": "confuses investigation with possession or revenge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J34",
+            "name": "Anonymous Caller",
+            "core_pattern": "provides clues while concealing identity and motive.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J35",
+            "name": "Narrator Who Misleads",
+            "core_pattern": "shapes audience belief through selective information.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J36",
+            "name": "Person Who Knows Too Much",
+            "core_pattern": "becomes vulnerable because of their knowledge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J37",
+            "name": "Investigator with Conflict of Interest",
+            "core_pattern": "has personal ties that compromise judgement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J38",
+            "name": "Innocent Accomplice",
+            "core_pattern": "helps without understanding the full plan.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J39",
+            "name": "Cover-Up Architect",
+            "core_pattern": "coordinates concealment after a mistake or crime.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "J40",
+            "name": "Truth Revealer",
+            "core_pattern": "discloses the key fact, perhaps too late to prevent harm.",
+            "context": "============================================================\nK. HORROR, SUPERNATURAL, AND THE UNCANNY\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K01",
+            "name": "Sceptic",
+            "core_pattern": "rejects supernatural explanations and seeks ordinary causes.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K02",
+            "name": "Believer",
+            "core_pattern": "interprets events through spiritual or supernatural frameworks.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K03",
+            "name": "Ambiguous Witness",
+            "core_pattern": "reports experiences that remain open to multiple explanations.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K04",
+            "name": "Isolated Protagonist",
+            "core_pattern": "lacks reliable support or external verification.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K05",
+            "name": "Vulnerable Newcomer",
+            "core_pattern": "enters a place with hidden rules and history.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K06",
+            "name": "Keeper of Local Lore",
+            "core_pattern": "knows stories, taboos, and warnings.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K07",
+            "name": "Warning Ignorer",
+            "core_pattern": "dismisses danger because of pride, disbelief, or urgency.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K08",
+            "name": "Protective Parent in Horror",
+            "core_pattern": "tries to keep a child safe while facing disbelief or uncertainty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K09",
+            "name": "Possessed or Influenced Character",
+            "core_pattern": "experiences agency being compromised; rules must be consistent.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K10",
+            "name": "Haunted Survivor",
+            "core_pattern": "carries a past event that intrudes on the present.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K11",
+            "name": "Monster with Human Motive",
+            "core_pattern": "threat has recognisable needs, grief, hunger, or injustice.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K12",
+            "name": "Unknowable Entity",
+            "core_pattern": "resists human explanation and may be frightening precisely because it cannot be understood.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K13",
+            "name": "False Medium",
+            "core_pattern": "exploits belief for control or profit.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K14",
+            "name": "Genuine Medium or Seer",
+            "core_pattern": "receives information with limitations and consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K15",
+            "name": "Rational Caregiver",
+            "core_pattern": "seeks medical, practical, or environmental explanations while protecting others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K16",
+            "name": "Contagion Carrier",
+            "core_pattern": "spreads a threat without initially understanding it.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K17",
+            "name": "Group Denier",
+            "core_pattern": "keeps the group functioning by refusing to acknowledge danger.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K18",
+            "name": "Panic Spreader",
+            "core_pattern": "amplifies fear through rumour and impulsive action.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K19",
+            "name": "Sacrificial Protector",
+            "core_pattern": "accepts danger for another person, with meaningful cost.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K20",
+            "name": "Survivor Who Breaks the Pattern",
+            "core_pattern": "discovers how to stop a recurring threat.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K21",
+            "name": "Ritual Keeper",
+            "core_pattern": "follows rules whose purpose may be protective, coercive, or misunderstood.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K22",
+            "name": "Transgressor",
+            "core_pattern": "breaks a taboo and triggers consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K23",
+            "name": "Cursed Heir",
+            "core_pattern": "inherits a threat along with family history.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K24",
+            "name": "Skeptical Investigator of the Paranormal",
+            "core_pattern": "gathers evidence while remaining open to uncertainty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "K25",
+            "name": "Human Monster",
+            "core_pattern": "ordinary person whose cruelty is more disturbing than supernatural spectacle.",
+            "context": "============================================================\nL. ACTION, ADVENTURE, WAR, AND SURVIVAL\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L01",
+            "name": "Tactical Planner",
+            "core_pattern": "wins through preparation and contingency thinking.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L02",
+            "name": "Instinctive Fighter",
+            "core_pattern": "reacts quickly but may lack long-term strategy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L03",
+            "name": "Reluctant Warrior",
+            "core_pattern": "avoids violence until circumstances force a decision.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L04",
+            "name": "Honour-Bound Fighter",
+            "core_pattern": "follows a code that may become a weakness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L05",
+            "name": "Pragmatic Survivor",
+            "core_pattern": "chooses what works over what looks noble.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L06",
+            "name": "Protector",
+            "core_pattern": "prioritises another person's safety.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L07",
+            "name": "Lone Wolf",
+            "core_pattern": "avoids dependence and must confront the limits of isolation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L08",
+            "name": "Team Specialist",
+            "core_pattern": "contributes a specific skill and depends on coordination.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L09",
+            "name": "Reckless Daredevil",
+            "core_pattern": "confuses risk-taking with courage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L10",
+            "name": "Disciplined Professional",
+            "core_pattern": "relies on training, procedure, and composure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L11",
+            "name": "Veteran Haunted by Conflict",
+            "core_pattern": "carries memories and moral costs from earlier violence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L12",
+            "name": "New Recruit",
+            "core_pattern": "learns under pressure and confronts idealised beliefs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L13",
+            "name": "Disillusioned Soldier",
+            "core_pattern": "questions the mission or institution.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L14",
+            "name": "Loyal Commander",
+            "core_pattern": "balances mission and the lives of subordinates.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L15",
+            "name": "Ruthless Commander",
+            "core_pattern": "treats people as expendable resources.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L16",
+            "name": "Medic or Caregiver Under Fire",
+            "core_pattern": "protects life amid chaos.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L17",
+            "name": "Civilian Caught in Conflict",
+            "core_pattern": "reveals war's effects beyond combatants.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L18",
+            "name": "Negotiator",
+            "core_pattern": "uses communication to prevent or limit violence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L19",
+            "name": "Hostage with Agency",
+            "core_pattern": "acts strategically despite constrained choices.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L20",
+            "name": "Captive Who Adapts",
+            "core_pattern": "learns to survive through observation and resourcefulness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L21",
+            "name": "Reluctant Sacrifice",
+            "core_pattern": "faces a cost that cannot be avoided without harming others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L22",
+            "name": "Resourceful Improviser",
+            "core_pattern": "uses available objects and knowledge creatively.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L23",
+            "name": "Guide Through Dangerous Terrain",
+            "core_pattern": "knows the environment but has personal limits.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L24",
+            "name": "Expedition Rival",
+            "core_pattern": "competes for credit, resources, or discovery.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L25",
+            "name": "Survival Group Mediator",
+            "core_pattern": "manages conflict that threatens collective survival.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L26",
+            "name": "Survival Hoarder",
+            "core_pattern": "accumulates resources because scarcity has become psychological.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L27",
+            "name": "Selfless Leader",
+            "core_pattern": "prioritises others but risks neglecting sustainability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L28",
+            "name": "Mission-First Operator",
+            "core_pattern": "values objective completion above personal bonds.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L29",
+            "name": "Loyalty-Tested Partner",
+            "core_pattern": "must choose between the team and personal ethics.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "L30",
+            "name": "Former Enemy Turned Ally",
+            "core_pattern": "cooperation develops without instantly erasing history.",
+            "context": "============================================================\nM. POLITICAL, SOCIAL, AND HISTORICAL DRAMA\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M01",
+            "name": "Reformist Leader",
+            "core_pattern": "seeks structural change and faces compromise.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M02",
+            "name": "Populist Performer",
+            "core_pattern": "gains support through emotional identification and spectacle.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M03",
+            "name": "Quiet Organiser",
+            "core_pattern": "builds power through networks and sustained work.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M04",
+            "name": "Idealistic Activist",
+            "core_pattern": "begins with moral clarity and encounters strategic complexity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M05",
+            "name": "Burned-Out Activist",
+            "core_pattern": "struggles to sustain commitment after repeated setbacks.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M06",
+            "name": "Opportunistic Politician",
+            "core_pattern": "treats public office as personal advantage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M07",
+            "name": "Principled Politician",
+            "core_pattern": "accepts political costs to preserve a core value.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M08",
+            "name": "Kingmaker",
+            "core_pattern": "influences decisions without holding the visible top position.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M09",
+            "name": "Power Broker",
+            "core_pattern": "trades access, loyalty, money, or information.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M10",
+            "name": "Propagandist",
+            "core_pattern": "shapes public perception through selective narratives.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M11",
+            "name": "Public Dissenter",
+            "core_pattern": "challenges a dominant story in front of others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M12",
+            "name": "Private Dissenter",
+            "core_pattern": "disagrees internally but fears the cost of public resistance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M13",
+            "name": "Bureaucratic Reformer",
+            "core_pattern": "changes systems through procedure and persistence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M14",
+            "name": "Whistleblower",
+            "core_pattern": "exposes hidden wrongdoing.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M15",
+            "name": "Compromised Idealist",
+            "core_pattern": "makes incremental concessions until values are at risk.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M16",
+            "name": "Revolutionary",
+            "core_pattern": "seeks fundamental change and faces questions about means and aftermath.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M17",
+            "name": "Counterrevolutionary",
+            "core_pattern": "defends an existing order for conviction, interest, or fear.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M18",
+            "name": "Community Mobiliser",
+            "core_pattern": "converts shared frustration into coordinated action.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M19",
+            "name": "Symbolic Figurehead",
+            "core_pattern": "represents a movement larger than personal identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M20",
+            "name": "Reluctant Symbol",
+            "core_pattern": "becomes a public symbol without choosing the role.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M21",
+            "name": "Historical Witness",
+            "core_pattern": "preserves memory that powerful groups would rather erase.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M22",
+            "name": "Survivor of Oppression",
+            "core_pattern": "negotiates survival, agency, and the consequences of injustice.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M23",
+            "name": "Beneficiary of an Unjust System",
+            "core_pattern": "must decide whether to defend or challenge their advantage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M24",
+            "name": "Enforcer of Social Norms",
+            "core_pattern": "polices behaviour through shame, gossip, or exclusion.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M25",
+            "name": "Tradition Defender",
+            "core_pattern": "protects continuity but may deny others freedom.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M26",
+            "name": "Tradition Reformer",
+            "core_pattern": "changes practices while preserving valued identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M27",
+            "name": "Opportunistic Revolutionary",
+            "core_pattern": "uses a cause to acquire personal power.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M28",
+            "name": "Public Servant Under Pressure",
+            "core_pattern": "balances duty, limited resources, and political demands.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M29",
+            "name": "Cynical Citizen",
+            "core_pattern": "expects institutions to fail and disengages.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "M30",
+            "name": "Re-engaged Citizen",
+            "core_pattern": "moves from cynicism to meaningful participation.",
+            "context": "============================================================\nN. COMING-OF-AGE, EDUCATION, AND IDENTITY\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N01",
+            "name": "Identity Explorer",
+            "core_pattern": "experiments with roles, values, and belonging.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N02",
+            "name": "High Achiever Under Pressure",
+            "core_pattern": "appears successful but fears failure or disappointing others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N03",
+            "name": "Academic Underperformer with Hidden Skill",
+            "core_pattern": "is underestimated because ability does not match institutional metrics.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N04",
+            "name": "Rebel Student",
+            "core_pattern": "challenges authority but may not know what they want instead.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N05",
+            "name": "Rule-Follower Who Awakens",
+            "core_pattern": "discovers that compliance and morality are not identical.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N06",
+            "name": "Peer Conformist",
+            "core_pattern": "changes behaviour to maintain group acceptance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N07",
+            "name": "Social Outsider",
+            "core_pattern": "is excluded or self-isolates because of difference.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N08",
+            "name": "Popular Student with Private Insecurity",
+            "core_pattern": "maintains status while fearing exposure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N09",
+            "name": "Bully with Fragile Status",
+            "core_pattern": "uses aggression to protect a threatened identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N10",
+            "name": "Former Bully Seeking Repair",
+            "core_pattern": "faces the limits of apology and the need for changed behaviour.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N11",
+            "name": "First-Generation Achiever",
+            "core_pattern": "navigates opportunity, family expectations, and unfamiliar institutions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N12",
+            "name": "Student Who Fears the Future",
+            "core_pattern": "delays choices because each option closes others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N13",
+            "name": "Young Caregiver",
+            "core_pattern": "takes on adult duties prematurely.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N14",
+            "name": "First Love Idealist",
+            "core_pattern": "confuses intensity with compatibility.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N15",
+            "name": "Emerging Adult with No Plan",
+            "core_pattern": "discovers that freedom can feel like paralysis.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N16",
+            "name": "Talented Procrastinator",
+            "core_pattern": "relies on last-minute ability until consequences accumulate.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N17",
+            "name": "Mentor Peer",
+            "core_pattern": "helps another student through shared struggle.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N18",
+            "name": "Friend Group Divider",
+            "core_pattern": "changes alliances through status, romance, or secrets.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N19",
+            "name": "Identity Concealer",
+            "core_pattern": "hides an aspect of self to avoid rejection or danger.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N20",
+            "name": "Self-Accepting Character",
+            "core_pattern": "moves toward integration rather than constant performance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N21",
+            "name": "Departing Child",
+            "core_pattern": "leaves home and renegotiates family ties.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N22",
+            "name": "Returning Adult",
+            "core_pattern": "sees the hometown and family differently after experience.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N23",
+            "name": "First Failure Character",
+            "core_pattern": "discovers that failure is survivable but consequential.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N24",
+            "name": "Moral Awakening Character",
+            "core_pattern": "recognises complicity in harm and must act.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "N25",
+            "name": "Coming-of-Age Foil",
+            "core_pattern": "represents an alternative way to mature or avoid maturity.",
+            "context": "============================================================\nO. FANTASY, SCIENCE FICTION, AND SPECULATIVE STORIES\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O01",
+            "name": "Reluctant Chosen One",
+            "core_pattern": "resists a role imposed by prophecy or circumstance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O02",
+            "name": "Scholar of the Unknown",
+            "core_pattern": "seeks knowledge that may carry danger.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O03",
+            "name": "Inventor",
+            "core_pattern": "solves problems through creation but may underestimate consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O04",
+            "name": "Scientist with Ethical Conflict",
+            "core_pattern": "balances discovery, responsibility, and competition.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O05",
+            "name": "Engineer-Pragmatist",
+            "core_pattern": "makes systems work under constraints.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O06",
+            "name": "Artificial Intelligence Seeking Purpose",
+            "core_pattern": "explores agency, learning, obedience, or identity; avoid reducing it to one familiar trope.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O07",
+            "name": "Artificial Being Seeking Personhood",
+            "core_pattern": "confronts how others define life and rights.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O08",
+            "name": "Human Who Fears Technology",
+            "core_pattern": "sees innovation as threat to identity or safety.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O09",
+            "name": "Technological Evangelist",
+            "core_pattern": "believes innovation can solve social problems, sometimes ignoring harm.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O10",
+            "name": "Time-Traveller with Regret",
+            "core_pattern": "tries to alter a past event and confronts unintended consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O11",
+            "name": "Time-Loop Learner",
+            "core_pattern": "changes through repeated exposure to the same events.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O12",
+            "name": "World-Weary Immortal",
+            "core_pattern": "struggles with accumulated loss, boredom, or detachment.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O13",
+            "name": "Newly Empowered Character",
+            "core_pattern": "gains power before developing judgement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O14",
+            "name": "Power-Addicted Character",
+            "core_pattern": "increasingly sacrifices values to retain ability or control.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O15",
+            "name": "Guardian of Forbidden Knowledge",
+            "core_pattern": "restricts information for protection or dominance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O16",
+            "name": "Rule-Breaking Mage",
+            "core_pattern": "experiments beyond accepted limits.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O17",
+            "name": "Reluctant Heir to a Throne or Legacy",
+            "core_pattern": "inherits power without certainty of worthiness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O18",
+            "name": "Exiled Royal",
+            "core_pattern": "rebuilds identity outside inherited status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O19",
+            "name": "Diplomat Between Worlds",
+            "core_pattern": "translates conflicting values and avoids simplistic good-versus-evil framing.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O20",
+            "name": "Alien Outsider",
+            "core_pattern": "reveals human assumptions through a genuinely different perspective.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O21",
+            "name": "Human Raised Outside Society",
+            "core_pattern": "learns social conventions while exposing their arbitrariness.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O22",
+            "name": "Clone or Duplicate",
+            "core_pattern": "confronts individuality, memory, and ownership.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O23",
+            "name": "Memory-Altered Character",
+            "core_pattern": "cannot trust their own history.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O24",
+            "name": "Post-Apocalyptic Community Builder",
+            "core_pattern": "creates social order after collapse.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O25",
+            "name": "Survivalist Who Hoards Knowledge",
+            "core_pattern": "controls information as a survival resource.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O26",
+            "name": "Utopian Idealist",
+            "core_pattern": "believes a perfect system is possible.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O27",
+            "name": "Dystopian Collaborator",
+            "core_pattern": "cooperates with oppressive systems for safety or advantage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O28",
+            "name": "Dystopian Dissident",
+            "core_pattern": "resists control and must consider consequences for others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O29",
+            "name": "Magical Trickster",
+            "core_pattern": "uses ambiguity and loopholes to expose rigid assumptions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O30",
+            "name": "Mythic Guide",
+            "core_pattern": "helps the hero cross thresholds but has their own limits.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O31",
+            "name": "Creature Learning Humanity",
+            "core_pattern": "explores empathy, language, and belonging.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O32",
+            "name": "Human Becoming the Threat",
+            "core_pattern": "power or fear transforms the protagonist.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O33",
+            "name": "Guardian of Balance",
+            "core_pattern": "resists extremes but may preserve an unjust status quo.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O34",
+            "name": "Explorer Driven by Wonder",
+            "core_pattern": "seeks discovery and must respect consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "O35",
+            "name": "Scientist Who Crosses a Boundary",
+            "core_pattern": "prioritises discovery over ethical limits.",
+            "context": "============================================================\nP. HISTORICAL, PERIOD, AND CULTURAL DRAMA\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P01",
+            "name": "Tradition-Bound Heir",
+            "core_pattern": "inherits duties that conflict with personal desire.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P02",
+            "name": "Reforming Heir",
+            "core_pattern": "uses inherited power to change the institution.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P03",
+            "name": "Displaced Person",
+            "core_pattern": "loses home, status, or community through historical change.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P04",
+            "name": "Cultural Bridge",
+            "core_pattern": "navigates competing social worlds.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P05",
+            "name": "Keeper of Oral History",
+            "core_pattern": "carries memory beyond official records.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P06",
+            "name": "Assimilation-Seeker",
+            "core_pattern": "changes outward identity to gain acceptance or safety.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P07",
+            "name": "Cultural Preservationist",
+            "core_pattern": "protects language, ritual, craft, or memory.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P08",
+            "name": "Pragmatic Survivor of Upheaval",
+            "core_pattern": "adapts without embracing a clear ideology.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P09",
+            "name": "Resistance Courier",
+            "core_pattern": "moves information or resources under danger.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P10",
+            "name": "Informant Under Coercion",
+            "core_pattern": "betrays trust under threat.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P11",
+            "name": "Divided-Loyalty Character",
+            "core_pattern": "is pulled between family, community, and political allegiance.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P12",
+            "name": "Forbidden Scholar",
+            "core_pattern": "pursues knowledge prohibited by the prevailing order.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P13",
+            "name": "Social Climber in a Rigid Hierarchy",
+            "core_pattern": "attempts to move through a stratified system.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P14",
+            "name": "Noble with a Conscience",
+            "core_pattern": "recognises injustice within a privileged position.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P15",
+            "name": "Commoner Who Challenges Authority",
+            "core_pattern": "exposes the gap between official legitimacy and lived reality.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P16",
+            "name": "Colonised or Occupied Subject",
+            "core_pattern": "navigates survival, resistance, identity, and imposed systems.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P17",
+            "name": "Collaborator",
+            "core_pattern": "cooperates with power for conviction, survival, or gain.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P18",
+            "name": "Exile",
+            "core_pattern": "carries a lost homeland as memory, obligation, or longing.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P19",
+            "name": "Returning Exile",
+            "core_pattern": "confronts a homeland that has changed.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "P20",
+            "name": "Historical Figure Reinterpreted",
+            "core_pattern": "dramatizes a public legacy while separating documented facts from invention.",
+            "context": "============================================================\nQ. SUPPORTING ROLES AND NARRATIVE FUNCTIONS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q01",
+            "name": "Catalyst",
+            "core_pattern": "triggers the central change or forces a decision.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q02",
+            "name": "Foil",
+            "core_pattern": "highlights the protagonist's traits through contrast.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q03",
+            "name": "Confidant",
+            "core_pattern": "receives private thoughts and reveals the protagonist's self-understanding.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q04",
+            "name": "Emotional Anchor",
+            "core_pattern": "provides stability, care, or continuity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q05",
+            "name": "Challenger",
+            "core_pattern": "questions the protagonist's assumptions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q06",
+            "name": "Gatekeeper",
+            "core_pattern": "controls access to the next stage, person, or resource.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q07",
+            "name": "Herald",
+            "core_pattern": "announces a change, threat, opportunity, or call to action.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q08",
+            "name": "Mentor",
+            "core_pattern": "offers tools, knowledge, perspective, or challenge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q09",
+            "name": "Trickster",
+            "core_pattern": "disrupts certainty and exposes hidden rules.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q10",
+            "name": "Shapeshifter",
+            "core_pattern": "appears to change allegiance or identity, creating uncertainty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q11",
+            "name": "Witness",
+            "core_pattern": "observes and later confirms, contests, or reframes events.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q12",
+            "name": "Messenger",
+            "core_pattern": "carries information that changes decisions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q13",
+            "name": "Secret-Keeper",
+            "core_pattern": "withholds information whose disclosure has consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q14",
+            "name": "Sacrifice Figure",
+            "core_pattern": "loss or risk clarifies what matters to others.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q15",
+            "name": "Victim with Agency",
+            "core_pattern": "has goals and choices beyond suffering.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q16",
+            "name": "Innocent",
+            "core_pattern": "exposes the moral cost of others' decisions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q17",
+            "name": "Scapegoat",
+            "core_pattern": "receives blame that belongs partly or wholly elsewhere.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q18",
+            "name": "Decoy",
+            "core_pattern": "draws attention away from a more important person or truth.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q19",
+            "name": "Mirror",
+            "core_pattern": "reflects a possible future or alternative self.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q20",
+            "name": "Temptation",
+            "core_pattern": "offers a shortcut, pleasure, status, or power that tests values.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q21",
+            "name": "Moral Witness",
+            "core_pattern": "forces others to confront the human impact of their actions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q22",
+            "name": "Consequence-Bearer",
+            "core_pattern": "suffers from choices made by more powerful characters.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q23",
+            "name": "Connector",
+            "core_pattern": "brings separate people or storylines together.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q24",
+            "name": "Disruptor",
+            "core_pattern": "breaks a stable pattern and creates new possibilities.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q25",
+            "name": "Resolution Agent",
+            "core_pattern": "makes a final action possible but should not erase the protagonist's agency.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q26",
+            "name": "Exposition Carrier",
+            "core_pattern": "provides necessary information; make them feel like a person rather than a lecture.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q27",
+            "name": "World-Builder Character",
+            "core_pattern": "reveals the rules of a setting through lived experience.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q28",
+            "name": "Stakes Embodiment",
+            "core_pattern": "makes abstract consequences personal.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q29",
+            "name": "Deadline Enforcer",
+            "core_pattern": "creates time pressure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q30",
+            "name": "Opportunity Provider",
+            "core_pattern": "opens a door the protagonist must choose whether to enter.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q31",
+            "name": "Consequence Reminder",
+            "core_pattern": "shows the cost of a decision after its immediate excitement fades.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q32",
+            "name": "Relationship Test",
+            "core_pattern": "forces two characters to demonstrate whether trust is real.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q33",
+            "name": "Group Representative",
+            "core_pattern": "embodies one part of a larger community without standing for every member.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q34",
+            "name": "False Solution",
+            "core_pattern": "offers an apparently easy answer that creates a deeper problem.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "Q35",
+            "name": "Final Witness",
+            "core_pattern": "sees the protagonist's transformation or failure.",
+            "context": "============================================================\nR. MORAL, ETHICAL, AND PHILOSOPHICAL CHARACTERS\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R01",
+            "name": "Principled Idealist",
+            "core_pattern": "maintains values under pressure.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R02",
+            "name": "Ends-Justify-Means Pragmatist",
+            "core_pattern": "accepts harm if the outcome seems worthwhile.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R03",
+            "name": "Moral Relativist",
+            "core_pattern": "judges actions by context rather than fixed rules.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R04",
+            "name": "Rigid Moral Absolutist",
+            "core_pattern": "applies rules without considering context.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R05",
+            "name": "Hypocrite",
+            "core_pattern": "demands standards from others that they do not follow.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R06",
+            "name": "Repentant Wrongdoer",
+            "core_pattern": "accepts responsibility and seeks repair.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R07",
+            "name": "Unrepentant Wrongdoer",
+            "core_pattern": "rationalises harm and rejects accountability.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R08",
+            "name": "Forgiver",
+            "core_pattern": "releases resentment, sometimes wisely and sometimes prematurely.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R09",
+            "name": "Refuser of Forgiveness",
+            "core_pattern": "maintains a boundary or remains unable to heal.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R10",
+            "name": "Restorative Justice Advocate",
+            "core_pattern": "prioritises accountability, repair, and prevention.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R11",
+            "name": "Punitive Justice Advocate",
+            "core_pattern": "prioritises punishment and deterrence.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R12",
+            "name": "Complicit Bystander",
+            "core_pattern": "allows harm through silence, fear, or convenience.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R13",
+            "name": "Courageous Bystander",
+            "core_pattern": "intervenes despite risk.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R14",
+            "name": "Self-Interested Altruist",
+            "core_pattern": "helps partly for praise, status, or self-image.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R15",
+            "name": "Quietly Ethical Person",
+            "core_pattern": "does the right thing without public recognition.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R16",
+            "name": "Corrupted Idealist",
+            "core_pattern": "gradually compromises values through small decisions.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R17",
+            "name": "Tempted Honest Person",
+            "core_pattern": "faces a meaningful opportunity to betray their principles.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R18",
+            "name": "Loyal but Wrong Character",
+            "core_pattern": "follows a person or group into harmful action.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R19",
+            "name": "Disobedient Conscience",
+            "core_pattern": "refuses an order that violates core values.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R20",
+            "name": "Ethical Doubter",
+            "core_pattern": "questions whether any available choice is clean.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R21",
+            "name": "Person Who Confuses Intent and Impact",
+            "core_pattern": "insists good intentions erase harm.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R22",
+            "name": "Accountability-Seeker",
+            "core_pattern": "demands clear ownership of consequences.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R23",
+            "name": "Moral Performer",
+            "core_pattern": "publicly signals virtue but privately avoids its costs.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R24",
+            "name": "Compassionate Judge",
+            "core_pattern": "combines standards with understanding.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "R25",
+            "name": "Principled Enemy",
+            "core_pattern": "opposes the protagonist while maintaining a coherent ethical code.",
+            "context": "============================================================\nS. DECEPTION, SECRETS, AND SOCIAL PERFORMANCE\n============================================================",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S01",
+            "name": "Secret Identity Keeper",
+            "core_pattern": "protects an alternate identity.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S02",
+            "name": "Image Manager",
+            "core_pattern": "curates how others perceive them.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S03",
+            "name": "Social Chameleon",
+            "core_pattern": "changes manner and values to fit the room.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S04",
+            "name": "Chronic People-Pleaser",
+            "core_pattern": "mirrors others to avoid rejection.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S05",
+            "name": "Strategic Liar",
+            "core_pattern": "lies selectively to achieve a goal.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S06",
+            "name": "Protective Liar",
+            "core_pattern": "conceals information to spare someone pain; consequences still matter.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S07",
+            "name": "Self-Deceiver",
+            "core_pattern": "believes their own convenient explanation.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S08",
+            "name": "Confessor",
+            "core_pattern": "discloses a secret to seek relief, forgiveness, or leverage.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S09",
+            "name": "Accidental Revealer",
+            "core_pattern": "exposes a secret through a slip, habit, or misunderstanding.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S10",
+            "name": "Black Sheep with a Secret",
+            "core_pattern": "hides a truth that would change group status.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S11",
+            "name": "Public Persona / Private Self",
+            "core_pattern": "behaves differently in public and intimate settings.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S12",
+            "name": "False Humblebragger",
+            "core_pattern": "disguises status-seeking as modesty.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S13",
+            "name": "Performative Victim",
+            "core_pattern": "uses the appearance of harm to avoid accountability; do not confuse with genuine victims.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S14",
+            "name": "Genuine Victim Who Is Disbelieved",
+            "core_pattern": "suffers additional harm because others distrust their account.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S15",
+            "name": "Reputation Protector",
+            "core_pattern": "prioritises public standing over truth.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S16",
+            "name": "Conflicted Insider",
+            "core_pattern": "knows a secret that implicates their group.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S17",
+            "name": "Secret-Sharer",
+            "core_pattern": "reveals information to create intimacy or recruit an ally.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S18",
+            "name": "Rumour Manipulator",
+            "core_pattern": "alters information to control group perception.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S19",
+            "name": "Double-Crosser",
+            "core_pattern": "violates a specific trust or agreement.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "S20",
+            "name": "Truth-Teller at the Wrong Time",
+            "core_pattern": "reveals something true but causes avoidable harm through timing or delivery.",
+            "context": "============================================================\nT. CHARACTERS DEFINED BY CONTRADICTION\n============================================================\n\nT01. Brave in Public, Fearful in Private.\nT02. Kind to Strangers, Cruel to Family.\nT03. Generous with Money, Stingy with Attention.\nT04. Honest About Facts, Dishonest About Feelings.\nT05. Confident at Work, Insecure in Love.\nT06. Independent in Principle, Dependent in Practice.\nT07. Wants Freedom, Fears Responsibility.\nT08. Wants Recogn",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U01",
+            "name": "Positive Growth Arc",
+            "core_pattern": "confronts a flaw or false belief and changes behaviour.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U02",
+            "name": "Negative Fall Arc",
+            "core_pattern": "makes increasingly destructive choices.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U03",
+            "name": "Corruption Arc",
+            "core_pattern": "trades values for power, safety, status, or revenge.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U04",
+            "name": "Disillusionment Arc",
+            "core_pattern": "loses an idealised belief and must find a more mature one.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U05",
+            "name": "Redemption Arc",
+            "core_pattern": "takes responsibility and attempts meaningful repair; forgiveness is not guaranteed.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U06",
+            "name": "Recovery Arc",
+            "core_pattern": "rebuilds after loss, addiction, burnout, or harmful behaviour.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U07",
+            "name": "Acceptance Arc",
+            "core_pattern": "stops fighting an unchangeable reality and chooses how to respond.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U08",
+            "name": "Identity Integration Arc",
+            "core_pattern": "reconciles conflicting parts of self.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U09",
+            "name": "Maturity Arc",
+            "core_pattern": "learns responsibility, patience, or empathy.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U10",
+            "name": "Courage Arc",
+            "core_pattern": "acts despite fear rather than eliminating fear.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U11",
+            "name": "Boundary Arc",
+            "core_pattern": "stops confusing love with unlimited access or self-sacrifice.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U12",
+            "name": "Accountability Arc",
+            "core_pattern": "shifts from excuses to ownership of impact.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U13",
+            "name": "Trust Arc",
+            "core_pattern": "learns to trust carefully or rebuilds trust through consistent action.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U14",
+            "name": "Relationship Repair Arc",
+            "core_pattern": "acknowledges harm and changes the pattern between people.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U15",
+            "name": "Liberation Arc",
+            "core_pattern": "exits a controlling system or relationship.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U16",
+            "name": "Reconciliation Arc",
+            "core_pattern": "reconnects with a person or past while accepting limits.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U17",
+            "name": "Tragic Repetition Arc",
+            "core_pattern": "recognises a pattern too late or refuses to change it.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U18",
+            "name": "Static Character Arc",
+            "core_pattern": "remains consistent while changing the people around them.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U19",
+            "name": "Testing Arc",
+            "core_pattern": "values remain stable but are repeatedly tested.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U20",
+            "name": "Disintegration Arc",
+            "core_pattern": "pressure fragments the character's identity or functioning.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U21",
+            "name": "Recommitment Arc",
+            "core_pattern": "doubts a goal, then chooses it with clearer understanding.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U22",
+            "name": "Surrender Arc",
+            "core_pattern": "abandons an impossible or harmful objective.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U23",
+            "name": "Ambiguous Arc",
+            "core_pattern": "change occurs but its meaning or durability remains uncertain.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U24",
+            "name": "False Growth Arc",
+            "core_pattern": "claims to change while preserving the same behaviour.",
+            "context": "",
+            "tone_risk": "Unknown - needs manual review."
+        },
+        {
+            "id": "U25",
+            "name": "Circular Arc",
+            "core_pattern": "returns to an earlier situation with a changed or unchanged perspective.",
+            "context": "============================================================\nV. SCENE-LEVEL BEHAVIOUR MODIFIERS\n============================================================\n\nThese are not full character types. Combine them with any type to predict scene behaviour.\n\nV01. Deflects with humour.\nV02. Goes silent under pressure.\nV03. Talks excessively under pressure.\nV04. Becomes excessively practical during emotion.\nV05. Asks literal questions during abstract conversations.\nV06. Changes the subject when exposed.\nV0",
+            "tone_risk": "Unknown - needs manual review."
+        }
+    ]
+}
