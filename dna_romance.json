@@ -1,0 +1,55 @@
+{
+    "last_updated": "2026-10-28T15:32:48",
+    "rules": [
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by contrasting high-stakes parental anxiety with a protagonist's serene, literal-minded deflection and innocent physical posing during a reprimand.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use chronological cultural markers and technological milestones as narrative temporal anchors to immediately ground the audience in a specific era of youth culture.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes using jarring juxtaposition, transitioning from external chaotic audio to a localized setting, then escalate tension across three beats before ending on a visual or internal voiceover punchline.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose chronic underachievement and defensive apathy by having the character internally critique authority figures while externally maintaining a mask of complete blankness.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Channel existential career pressure and societal status anxiety into mundane, high-pressure environments like cramped vehicle interiors where escape is impossible.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes with a mundane, repetitive physical labor or routine that grounds the environment before a sudden intrusion disrupts the physical equilibrium.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize devastating emotional realizations and moral compromises through sensory objects, recurring culinary motifs, or silent physical proximity rather than verbose expositions.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deepest character contradictions when individuals attempt to completely abandon their core identity, only to have past loyalties violently yank them back into conflict.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Structure high-stakes verbal confrontations with deceptive calm and minimal dialogue, reserving emotional outbursts strictly for moments of physical or psychological cornering.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive tragicomic or tense interactions through stubborn preservation of false fronts, where characters maintain rigid composure while managing chaotic physical disasters beneath the surface.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        }
+    ]
+}

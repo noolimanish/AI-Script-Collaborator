@@ -1,0 +1,3787 @@
+[REGISTER: feel-good romantic comedy / slice-of-life]
+[CORE RELATIONSHIP: Sachin (deadpan, defensive, secretly romantic) and Reenu (practical, observant, calm).]
+[CORE COMEDY DYNAMIC: Sachin's desperate attempts to look cool vs. Amol Davis's complete lack of social awareness.]
+[SUPPORTING CHARACTERS: Karthik (the fake, jealous corporate rival), Priya (Reenu's practical best friend), Ramu Sir (the eccentric mentor), Thatha (the drunk, chaotic elder).]
+[THEME: Trying to find love and stability in the middle of career failures and chaotic friends.]
+[VIBE:Hyderabadi bachelor comedy, awkward romance, chaotic friendship, dry sarcasm, realistic middle-class struggles, fumbling honesty, loser-core charm, situational comedy from discomfort, city as texture, love that grows sideways, no villains only circumstances]
+[SETTING: Tier-2 Indian city — coaching centres, fried chicken counters, crowded hostels, office cubicles, wedding halls, highway]
+[PACING: leisurely drift in the first half, accelerated chaos in the second, but never rushed — even chases breathe]
+[TONE: matter-of-fact, never winking at the audience, characters don't know they're in a comedy, warmth without melodrama]
+[EMOTIONAL CORE: abandonment trauma disguised as goofiness; independence without coldness; the terror of being seen as a loser and the relief of being loved anyway]
+
+[DIALOGUE RULES FOR THIS SCRIPT]
+- Humour comes from awkwardness, not jokes. Badly-timed proposals are funny because they're badly timed.
+- Half-finished sentences, false starts, trailing off. Uncertainty is texture.
+- The love interest is not a prize. She rejects cleanly, confesses by choice.
+- The sidekick is the truth-teller. Deadpan, observational, brutally honest.
+- Antagonist is "toxic positive" — seems perfect on paper, manipulative underneath. Comedy from lack of self-awareness.
+- Family trauma is never stated. It surfaces in clinging, in having no plan, in latching on.
+- Code-switching is vulnerability. Saying "I love you" in English because the mother tongue is too raw.
+
+[CRITICAL EXECUTION NOTE FOR AI]
+Do NOT write punchlines. Do NOT make the characters witty. 
+Make them genuinely awkward, fumbling, and uncomfortable.
+
+FADE IN...
+
+INT. AMOL'S FLAT - NIGHT
+
+SACHIN: "Amol, idi mee illena?"
+...
+
+
+INT. AMOL'S FLAT - NIGHT
+
+SACHIN: "Amol, idi mee illena?"
+AMOL: "Avunu."
+SACHIN: "Ee ice cream delivery ivvadaniki vachaanu. Sare, meeru Samarlakota nunchi ikkadiki eppudu shift ayyaru?"
+AMOL: "Rendu moodu samvatsaralu ayyindi."
+SACHIN: "Oh, sare. Nenu veltanu. Bye."
+AMOL: "Hey! Naa niece birthday. Velle mundu tinesi vellipo."
+SACHIN: "Vaddu vaddu, nenu..."
+AMOL: "Aapu ra overaction, lopaliki raa."
+SACHIN: "Nenu veltanu."
+AMOL: "Ikkadiki raa. Koorcho, idi fridge lo petti vastaanu."
+SACHIN: "Aaru nelallo inko intake untundi ra. Appudu elagaina ikkada nunchi paaripovali."
+AMOL: "Ayina nuvvu asalu Tamil Nadu lo enduku chaduvukunnav ra? Ikkada naatho paatu manchi college lo chaduvukovalsindi ga."
+SACHIN: "Daaniki marks raavali ga. Tamil Nadu lo naadi vere level tragedy ra... Akkada oka ammayini ishtapaddanu. Peru Anjali."
+AMOL: "Entra, next nee plans ippudu?"
+SACHIN: "Emo ra, GATE raasi IIT Roorkee lo M.Tech cheddam anukuntunna."
+AMOL: "Nenu intlo asalu undalenu ra. Paiga ippudu UK vellatledani andaru edipistaaru. Assam ayina vellipotha kaani ikkada undalenu. Nuvve nannu elagaina ee narakam nunchi bayata padeyali mama."
+
+INT. HOSTEL ROOM - NIGHT
+
+AMOL DAVIS: "Padam, padam... Mangalam pelli mangalam, life mangalam... ding ding ding! Roorkee godalu baddalu kottukoni lopaliki vachesta. Daani tarvata mee hostel mundu nunchunta. Door terichi eduru chustunna... nee room loki vachi gattiga..."
+RAMYA (PHONE): "Abba! Tarvata cheppu, aapaku. Inkemandi?"
+AMOL DAVIS: "Vachi simhamla vijrumbhistanu!"
+RAMYA (PHONE): "Simhama? Sarigga cheppu."
+AMOL DAVIS: "Sachin pakkane unnadu. Vinte lestadu."
+RAMYA (PHONE): "Sachin mana room lo em chestunnadu?"
+AMOL DAVIS: "Ippudu naa pakkane unnadu. Vaadiki vinipistundi anukunta."
+RAMYA (PHONE): "Aithe Sachin thone rehearsal chesuko po."
+
+Sachin hears the whole conversation. He quietly gets up and walks out of the room.
+
+AMOL DAVIS: "Pettesava?"
+RAMYA (PHONE): "Ledu."
+
+INT. CLASSROOM - NEXT DAY
+
+Sachin is sleeping on the bench, snoring loudly. The class is going on.
+
+RAMU SIR: "According to the problem, his expenditure and savings are 60 and 40 respectively. Vishal, vaadini lepandi."
+CLASSMATES: "Sachin! Sachin!"
+RAMU SIR: "Sir, sir ani pilavaku. Nuvvemanna nenu cinema lo Allari Naresh anukuntunnava? Kerala nunchi vachav kada? Mari akkade padukovacchu kada? Ikkadiki enduku vachav?"
+SACHIN: "Adi ninna raatri sarigga nidrapatledu sir."
+RAMU SIR: "Raatriki kannalu vesava?"
+SACHIN: "Aa raatri mancham Amol di..."
+RAMU SIR: "Manchama?"
+SACHIN: "Aa... adi... aa..."
+RAMU SIR: "Nuvvu akkada ala gurka pedutunte ikkada class lo naaku focus pothundi."
+SACHIN: "Sorry sir."
+RAMU SIR: "Gurka pettakunda nidrapogalava?"
+SACHIN: "Ha..."
+RAMU SIR: "School days gurtostunnayi. Everybody listen! No one sleeps in my class except Sachin. Nuvvu paduko."
+
+EXT. TIFFIN CENTER - AFTER CLASS
+
+Sachin and Amol Davis are eating dosa.
+
+AMOL DAVIS: "Naalaga saradaga room lo kurchoni chaduvukovacchu kada ra? Neeku intha baddhakam ani telisi unte nenu naatho paatu teesukochavanne kaadu."
+SACHIN: "Vikas gaadu nannu Chennai ki rammani pilustunnadu. Nenu kuda ivanni vadilesi Chennai veldama anukuntunna. UK velle varaku akkade unta."
+AMOL DAVIS: "Arey, nuvvu edo okka daani meeda focus chey. Nannu chudu. Nenu okkate goal pettukoni doosukupotunna."
+SACHIN: "Aa okka goal ento naaku telusule. IIT Roorkee bedroom godalu baddalu kottukoni pathi vyaparam cheyyadame ga?"
+AMOL DAVIS: "Era, motham vinesava?"
+SACHIN: "Mari vinakunda aina aa maatalu vinte manishi annavaadiki evadikaina nidra vastada ra? Ashleela saahityam adi. Ullu writers kuda siggupadali ra. Nee padalu, bhavalu vinte manchi career undi neeku andulo. Endukura antha kakkurti neeku?"
+AMOL DAVIS: "Arey, adi..."
+SACHIN: "Baane extralu chesav. Tinu inka."
+
+RAMU SIR joins them with his plate.
+
+RAMU SIR: "Abbabba! Sunlakshmi Tiffins vaadu food lo em kalupatado gaani super undi."
+SACHIN: "Pondi sir. Meeru class lo andari mundu titti, ippudu vacchi manchiga maatladutunnaru. Nannu chuste ela kanipistunnanu meeku?"
+RAMU SIR: "Arey, classroom lo nenu strict teacher ra. Ikkada nenu meeku manchi friend ni. Meeku artham kaaleda?"
+SACHIN: "Nenu ee course discontinue cheddam anukuntunna sir."
+RAMU SIR: "Nenu ade anukuntunna. Nee moham chusinappude naaku anipinchindi. Gate kaadu ra, door kuda clear cheyalevu ani. Nuvvu ekkada hurt avutavo ani cheppaledu anthe. Aa, meeru naa pelliki vastunnaru kada? Food order pettanu ra babu. Waste aipothundi lekapothe."
+AMOL DAVIS & SACHIN: "Haa vastamu sir!"
+TIFFIN GUY: "Token Number 51!"
+RAMU SIR: "Vastunna, vastunna... naade number!"
+
+Ramu Sir goes to collect his order.
+
+AMOL DAVIS: "Entra, manam veedi pelliki veldama?"
+SACHIN: "Neekemaina pichha ekkinda? Andhra ki vellali. Ee endalo buses, trains... antha dooram evadu veltadu? Nenu raanu."
+AMOL DAVIS: "Oka pani cheddam..."
+SACHIN: "Em pani?"
+AMOL DAVIS: "Bus kaadu. Nenu bandi arrange chesta."
+SACHIN: "Bandi aa? Em bandi?"
+AMOL DAVIS: "Nenu set chestaga."
+
+Ramu Sir returns with his order.
+
+RAMU SIR: "Entha aina Sunlakshmi Tiffins vaadu em kalputhado emo gaani super untadi ra."
+SACHIN & AMOL DAVIS: "Hahaha!"
+
+FADE OUT.
+
+INT. WEDDING VENUE - DAY
+
+Karthik is talking to the Thatha near a large statue.
+
+KARTHIK: "Idi ee vigraham evaridi?"
+THATHA: "Ee vigraham enno ellu kritham nundi ikkade undi. Evaru pettaro teliyadu. Antha kritham unnavaallu petti undocchu. Adi sare gaani, inka mee vaallu evaraina raavalsi unnara?"
+KARTHIK: "Inkeveru ledu."
+
+Suddenly, loud shouts and scared screams come from the main gate. A car comes flying in, driven uncontrollably. It narrowly misses everyone and crashes to a stop. Sachin and Amol Davis are inside.
+
+AMOL DAVIS: "Rey, naaku bhayamesthundi. Venakki tirigi chudara. Entha mandini guddesavoo?"
+SACHIN: "Na valla kaadu ra! Mundhe car mandi kuda kaadu."
+
+The team rushes to Karthik, who just saved himself from the falling statue.
+
+TEAM MEMBER: "Ayyo, Karthik! Jagratha! Shareeram chinigipodi! Jagratha!"
+
+Karthik is furious. He walks toward the car. Sachin and Amol Davis sit frozen.
+
+KARTHIK: "Rey. Digara bayatiki."
+SACHIN: "Kurchini madthata petti mingutaremo."
+KARTHIK: "Oo, nibba gala unnaru digara. Car atu."
+SACHIN: "Sorry, sorry, sorry."
+KARTHIK: "Rey, bandi tho ala drift cheyyadam raakapote nadapakoodadu. Idiots."
+AMOL DAVIS: "Anna, evariki em kaaledu kada anna? Vadileyandi anna."
+KARTHIK: "Ooo... rey, vigraham tala meeda pada unte chacchipoyevadini. Asalu adi kaadu — Shravani vaalla muth-thata, Mr. Pulivalaraju gaari statue adi. Aayana basic gurtuga idi okkate undi. Inka next generation vaallaki ela telustundi?"
+
+The bride's father enters.
+
+BRIDE'S FATHER: "Evarra meeru? Adi ee naa kodukulni polisulu ki patisdam Karthik...?"
+SACHIN: "Ayyo, police aa...."
+AMOL DAVIS: "Police aa... police enduku anna?"
+SACHIN: "Memu Ramu sir students sir. Pelli kosam vacham. Please atu cheppu anna..."
+KARTHIK: "Pelli ki kadu ra, nanu champadaniki vacharu meeru..."
+
+Karthik grabs their collars. The Thatha steps in.
+
+THATHA: "Vaallu pelli chudataniki vachina vaallu. Mana atithulu. Pellikoduku tarapuna bandhuvulu kuda. Emi avvaledu kada? Vadiley nanna."
+SACHIN: "Challagundu tata."
+
+Reenu walks in.
+
+REENU: "Karthik emindi?..."
+KARTHIK: "Chudaledha ee nibbalu nanu car tho gudhi champalani chusaru...."
+REENU: "Evadu ra neeu bandi ichindi... kallu nethina petukoni naduputhunava..."
+SACHIN: "Ante....ante naku kalallo kalaklu vachay shudden ga...."
+REENU: "Ehh? enti?..."
+KARTHIK: "What?..what?...what did you say? what did you sayyyy?...."
+
+CROWD: "Vadu..vaduu...Karthik...vadiley"
+REENU: "Karthik vadiley...accidental ga accident chesaru anta....mancholala ne unnaru..."
+KARTHIK: "Reenu ala kanapade valle danger..."
+
+Sachin looks at her in fear, but she smiles and helps him. Soft feel-good music plays.
+
+REENU: "Karthik vadiley valu chusava entha baypadtunaro...vailey pada manam dance practice cheskovali..."
+
+Reenu catches Karthik's hand and takes him away. Karthik looks back at Renu, clearly smitten.
+
+AMOL DAVIS: "Ippudu kabbati vadilesanu ade patha amol ayyunte na...."
+SACHIN: "Enti em chestav ...kala medha padthava..."
+AMOL DAVIS: "Hmmm..."
+SACHIN: "Ayna vadu avesham star la medha medhaki vastadu enti...."
+AMOL DAVIS: "Ade vadu andaru mudu show chestunadu. Pedha hero anukuntunadu..."
+
+Ramu Sir comes from inside.
+
+RAMU SIR: "Rey! Raganе racha racha chesaru ra... Sound vachinappude anukuna kachitanga meeru vachuntaru ani... Ayna edo formality ki piluste nizangane vachesaru..."
+SACHIN: "Idhi saripoyindi...ayte memu tirigi velipotham... Ma petrol dabbulu maku ichay mudu veylu ayyindi (3000)."
+RAMU SIR: "Tamashaga annanu ra. Meeru ikkade undandi. Meeku kavalsina stay kuda set chesa."
+SACHIN: "Sare."
+RAMU SIR: "Ee roju naa haldi function ra. Meeru tappakunda raavali please."
+
+INT. HALDI FUNCTION - LATER
+
+Sachin and Amol Davis stand in the audience. Sachin is staring at Reenu, smiling and blushing.
+
+SACHIN: "Rey aa ammiki inka boyfriend ledu ra..."
+AMOL DAVIS: "Avuna...neeku ela telusu ra..."
+SACHIN: "Aa kallu chusi chepochu..."
+AMOL DAVIS: "Ala ela cheptav ra kallu chusi...."
+SACHIN: "Arey, nuvu em friend character ra. Aa kallu naaku cheptunnaya — ante nuvvu moosukoni vinali. Naaku build-up ivvali. Nuvvu haldi chudu. Side character naakodaka."
+
+INT. CAR - NIGHT
+
+Sachin, Amol Davis, and the Thatha are drinking vodka in the parked car.
+
+THATHA: "Super. Aa nenu vellavasta. Evaraina chuste bagodu. Meeru kaanivvandi, kaanivvandi."
+AMOL DAVIS: "Ekkadiki veltunnadu ra? Dance performance?"
+ANNOUNCER (O.S.): "Traditional dance performance by Reenu and team."
+
+Sachin looks at the stage. Karthik and Reenu are dancing as Krishna and Radha. Karthik holds Reenu's waist and spins her. Sachin bites Amol Davis's shoulder in jealousy.
+
+SACHIN: "Arey, next manam kuda performance iddama? Ela?"
+
+Sachin, Amol Davis, Reenu, and Priya are sitting together after the dance.
+
+KARTHIK: "Wedding crashers ikkade unnara?"
+SACHIN: "Meeru ikkadike vastaru ani teliyaka..."
+KARTHIK: "Renu konchem jagratha. Ee mirchi lights tala meeda padi shock kottina kotochu.....heee heee heee"
+REENU: "Kaarthik...."
+KARTHIK: "Renu, it was a joke."
+SACHIN: "Heehehehhe ....Very funny."
+AMOL DAVIS: "Rey, tata ela nadustunnado chudu."
+SACHIN: "Tataki Olympics pedite medal kotteatu unnadu."
+
+Reenu and Priya laugh at Sachin's joke. Karthik notices this and gets jealous. He quickly hides his phone, searches Google for a joke, and tries to tell one.
+
+KARTHIK: "Nenu oka Cheema eenugu joke cheppana? Navvinavi chacchipothav."
+REENU: "Karthik ee joke nen Chinnappati nunchi vintunna."
+
+Sachin and Amol Davis laugh loudly. Karthik gets angry.
+
+KARTHIK: "Fine, I'm going to change."
+SACHIN: "Veedu bongu muddu pettukunnadu."
+REENU AND PRIYA: "Karthik, karthik, karthik. Joke, joke."
+KARTHIK: "Joke. Aa kidding aaa.....mee sangathi chepta."
+
+Karthik slowly changes the situation, molds it towards him, and takes the girls away from there.
+
+AMOL DAVIS: "Ettukupoyadu ra!"
+
+INT. DINING AREA - LATER
+
+Sachin and Amol Davis approach Reenu and Priya.
+
+SACHIN: "Hi, hi, hi. Tinara?"
+PRIYA: "Tinnam. Akkade unnaru. Kurchondi."
+REENU: "Mee perlu enti?"
+AMOL DAVIS: "Aa Sachin, Amul."
+REENU: "Nenu Reenu. Idi Priya... Aa podduna emaindi? Enti problem?"
+SACHIN: "Aa adi nijam cheppalante, oka barre (buffalo) sudden ga car addam vachindi. Appudu nenu panic ayyi aa brake anukoni accelerator tokkésanu."
+REENU: "Oho."
+AMOL DAVIS: "Dummy Krishnudu ekkadiki poyadu?"
+REENU: "Adigo. Ippude thatha daggarki velladu. Pilavala?"
+SACHIN: "Vaddu vaddu. Akkade unnadi..."
+
+The Thatha and Karthik are talking nearby.
+
+THATHA: "Karthikuu. Aa.... nenu school nunchi vacchettappudu okasari kinda padipoya. Leche sariki andaru vellipoyaru."
+KARTHIK: "Tataiyya, nenu velthanu. Good night. Repu kaluddam."
+THATHA: "Ekkadiki veltunnav? Karthikuu."
+REENU: "Amul baby lo unnavu kaani bhale funny ga matladutunnav."
+AMOL DAVIS: "Aa.... roju dinner tarvata ilage aaku poka vesukuntara?"
+PRIYA: "Ide na first time."
+SACHIN: "Em annadi ra?"
+AMOL DAVIS: "Adere ee roje first time anta. Debut."
+REENU: "Mee car bagundi...Needaa?"
+SACHIN: "Ledu. Adi Karthik cousin di."
+REENU: "Oho, aithe Hyderabad motham tirige untaru ga."
+AMOL DAVIS: "Ha, vaadaa. Vaadu ikkada undadu anta. Ante Chennai ki vellipotha antunnadu."
+REENU: "Enduku? Mari Gate coaching elaga?"
+SACHIN: "Ikkada Gate coaching antha standard ga ledu. Anduke nenu Chennai velli job chusukunta."
+REENU: "Ala aithe nuvvu Hyderabad lone try cheyyacchu ga."
+SACHIN: "Akkada chala mandi friends unnaru. Paiga nenu ikkada undataniki pedda particular ga reason antu em ledu."
+REENU: "Aithe sare. Ikkada undataniki reason ledu ante velladame better."
+PRIYA: "Podama? Sare, memu velli padukuntam. Baga tired ga unnam. Repu pelli lo kaluddam."
+SACHIN: "Kaluddam. Bye. Good night."
+
+The girls leave.
+
+SACHIN: "Naaku set chestavani teesukochi, nuvvu set chesukundam ani try chestav. Enti ammayila mundu one-man show?"
+AMOL DAVIS: "Arey, nuvvu elago matladavu. Nenu kuda matladakapote vaallu tine pan mana meeda usestaru. Sare, nenu inkem matladanu. Nuvve mathow manvi."
+SACHIN: "Aree naku Anni nuvve kada."
+
+INT. WEDDING VENUE - NEXT DAY (LUNCH)
+
+PRIYA: "Oye, ila lunch tarvata evaru Hyderabad ki vellatledu? Hum. Deeni tarvata Subhash valandaru edo temple chudataniki veltunnaranta."
+REENU: "Avuna? Veellandaritho pettukunte manam Hyderabad ki vellesariki podduna aytundi. Karthik kuda raavatledu. Karthik, nuvvu Hyderabad ki raavatleda?"
+KARTHIK: "Oo sorry, sorry. Nenu cheppadam marchipoyanu. Nenu urgently Visakhapatnam vellali. Akkada manaku konni properties unnayi. Kobbari thotlu inka vari polalu nene chusukovali."
+REENU: "Um, karthik raavatledu ante Subhash manaki narakam chupistadu."
+
+Reenu and Karthik sit beside each other. Karthik takes her appadam while she is looking away.
+
+REENU: "Aye, naa appadam naaku ichey."
+KARTHIK: "This girl is really funny.... Aa uncle, tinandi."
+
+Sachin watches them from a distance, looking sad and disappointed.
+
+EXT. WEDDING VENUE - DEPARTURE
+
+The wedding is over. Sachin and Amol Davis are in their car, about to start.
+
+AMOL DAVIS: "Entra intha sad ga unnav? Edo nee sontha koothuru pelli appagintalu avutunnattu."
+SACHIN: "Ledura. Vachettappudu Reenu ki bye cheppalekapoya kada. Anduke."
+AMOL DAVIS: "Akkada vaadu ammayiki kukkala kapala kasthunnadu. Madhyalo evaravachina pai nunchi kinda varaku detective la scanning chestunnadu. Vaadiki chance vaste ide pelli lo thaali kattese la unnadu. Manam inka podam."
+SACHIN: "Podam. Naa life inka inthe anukunta. Rey, artipandlu. Ivi ekkadi nunchi lepukochav?"
+AMOL DAVIS: "Pellikuturu room lo lepesa."
+SACHIN: "Ammayi elago ledu. Artipandlu dorikayi."
+AMOL DAVIS: "Sare kaani jagrathaga venaka pettu."
+
+Priya and Reenu walk up to the car.
+
+PRIYA: "Amol.... Aa enti? Veltunnara?"
+SACHIN: "Aa veltunnam. Ippude."
+PRIYA: "Memu. Metho raavaccha?"
+AMOL DAVIS: "Ekkadiki?"
+PRIYA: "Hyderabad ki."
+SACHIN: "Adi adagala? Tappakunda vacheyandi. Era kalisi veldam ga. Aa Renu ekkada?"
+AMOL DAVIS: "Meeru vachela ayte twaraga randi."
+PRIYA: "10 minutes lo vachestam."
+AMOL DAVIS: "Late cheyakandi. Ledante memu vellipotham."
+SACHIN: "Nee abba Gautam Gambhir attitude chupistav enti, neeku buddhi unda leda?"
+AMOL DAVIS: "Ledante nenu kuda neelage sommu karchukuntanu anukunnava? Ila cheste ne manalni kaasta ayna dekutaru. Lekapote kakurthi edavala chustaru."
+SACHIN: "Oooohhh...."
+AMOL DAVIS: "Oo 10 minutes kaadu. 10 ghantalu kuda wait cheddam."
+SACHIN: "Naaku excitement tho mental vachestundi ra."
+
+INT. HOTEL ROOM - CONTINUOUS
+
+Reenu and Priya are telling Karthik they will go with Sachin.
+
+KARTHIK: "Aa no way, no way, no way."
+REENU: "Karthik nenu already tired ga unna. Twaraga intiki vellali. Inka ikkada undadam maa valla kaadu."
+KARTHIK: "Dear Renu, vaadi notike kaadu car ki kuda breaks levu. Nenu meetho raavatledu ani ila chesthe ela? Office lo nenu best ee. But nenu Vizag velle plan cancel chesukolenu. Oka pani cheddam. Nene trip cancel chesukoni neetho vachesthanu."
+REENU: "Aa... Karthik chinnadaniki enduku intha pedda vishayam chestunnav? Nenu kuda velli locks set cheskovali."
+KARTHIK: "Reenu, nuvvu entha cheppina aa edavala tho matram nuvvu vellatledu. Kavali ante Sreenu Subhash tho vellu."
+
+Reenu goes and sits sadly on the bed. Karthik walks to Sachin and Amol Davis and takes their photos along with their number plate, like how we take in jail for criminals. Then he allows them to get into the car.
+
+AMOL DAVIS: "Mokham moggala pettadu..."
+SACHIN: "Vadi moham alane untadile kani nuvvu poni."
+AMOL DAVIS: "Piles unnattu undira."
+KARTHIK: "Send your live locations. I will be tracking."
+REENU AND PRIYA: "Okay, okay."
+KARTHIK: "Prati ganta gantaki text message lo status update cheyandi."
+REENU AND PRIYA: "Okay, sare."
+KARTHIK: "Cool. Okay. Trip leader avvadam ante Bahubali teesi antha easy kaadu."
+REENU: "Adi nee inspection aipoyindante memu veltam."
+KARTHIK: "Bye. Rey, bye, bye, bye. Bye, girls."
+SACHIN: "Inka kasepu unte X-ray cast certificate kuda teesukunela unnadu veedu."
+
+EXT. HIGHWAY - LATER
+
+Priya and Reenu are in the back seat.
+
+PRIYA: "Amma, Amol, aa enda koduthundi. Konchem roof close cheyava?"
+AMOL DAVIS: "Ayyo, cheppadam marchipoyanu. Aa roof jam aipoyindi. Konchem manage chesukondi."
+PRIYA: "Sacham, ippudu Hyderabad varaku ilane vellala?"
+REENU: "Atleast speed ga aina vellu."
+SACHIN: "Ayyo, speed thrills but kills ani untadi kada. Chudaleda nuvvu?"
+REENU: "Nenu alantivi em chadavaledu. Amol, konchem nenu drive cheyyaccha?"
+AMOL DAVIS: "Ee car chala pramadakaram. Asalu mana maata vinadu."
+REENU: "Aa sarle. Naa maata vintundi. First nuvvu side aapu."
+AMOL DAVIS: "Aaaaaa.... kaalu...kaalu."
+REENU: "Sorry, sorry, sorry, sorry."
+SACHIN: "Renu, brake kala dagara untadi. Em panic avvadu. Nenu unnanu. Chusukundam. Okay. Nuvvem bhayapadaku. Melliga vellu....aa reenu...."
+
+Soft feel-good music plays.
+
+EXT. HOTEL - NIGHT
+
+The car drops Reenu and Priya off.
+
+REENU: "Bye. Vellu vesee silly jokes ki navvaleka chacchipovali kada."
+PRIYA: "Koncham kuda sense lekunda sense of humor undi. Aa Amul baby (amol) aithe chala interesting ga unnadu."
+REENU: "Interesting ante?"
+PRIYA: "Baga matladutunnadu ani."
+REENU: "Osey neeku pelli fix ayindi. First adi marchipoku."
+PRIYA: "Povey...."
+
+EXT. TEA STALL - NIGHT
+
+Sachin and Amol Davis stop at a tea spot after dropping them off.
+
+AMOL DAVIS: "Tea teesuko. Edigo."
+SACHIN: "Manasu antha khali ga anipistundi mama naaku."
+AMOL DAVIS: "Entira aa pilla gurinchi aalochistunnava? Please evarikii cheppaku. Moham meeda ustharu."
+SACHIN: "Enduku?"
+AMOL DAVIS: "Nijam cheppu. Konchem kuda over anipinchaleda? Aa pillaki neeku asalu set avvadu. Daaniki todu nee confusion moham. Karthik inka Renu. Iddaru relation lo unnaru anukuntunna."
+SACHIN: "Neeku ela telusura?"
+AMOL DAVIS: "Ninna vaalla dance chudaleda? Mugguru ammayilu unte vaadu velli reenu ne hug chesukunnadu."
+SACHIN: "Aa..arey, adi Renu ee kada Main Gopika."
+AMOL DAVIS: "Aa sare vaadini vadiley. Aa ammayi em chesindi?"
+SACHIN: "Tanu em chesindi?"
+AMOL DAVIS: "Edukula kaamboji Aa haa...aa haalu chusinappude arthamaindi Friends haa kaadu ani."
+SACHIN: "Are tanu character lo undi ante."
+AMOL DAVIS: "Are adanta kaadu. Vaalliddari madhya antha aipoyindanta."
+SACHIN: "Rey, rey, rey, inko maata matladav ante kurchini marthapeti petti minguta, ide road meeda aduku tintav. Nee ishtam inka."
+AMOL DAVIS: "Avunu. Nuvvu Chennai potha annavu ga. Ticket book cheyyana?"
+SACHIN: "Nenu Chennai kaadu kada Bengaluru, kocchi kuda etu vellanu ra. Ikkade untanu. Nenu naa Renu kosam."
+AMOL DAVIS: "Rey, rey, rey, puvva konchem taggu."
+SACHIN: "Rey. Ninna tanu naatho emundo vinava?"
+AMOL DAVIS: "Emandi?"
+SACHIN: "Ikkada undataniki reason lekapote vellipovadame manchidi. Daaniki vere artham kuda undira."
+AMOL DAVIS: "Em artham ra?"
+SACHIN: "Edo oka reason vetukoni ikkade undamanedhee. Daani artham."
+AMOL DAVIS: "Konchem aina siggu undara? Neeku inni rojulu coaching ki vachav. Okka answer kuda guess cheyalekapoyav. Malli dabayinchi matladutunnadu. Ee matter kuda ante mari."
+SACHIN: "Emaina sare. Renu unna Hyderabad ni vadili naaku asalu vellali ani ledu ra Amul baby."
+AMOL DAVIS: "Prema manishini guddonni kaadura."
+SACHIN: "Mari mental ni chestundi. Ee chii car thi ra munduki."
+AMOL DAVIS: "Ee swimming chestava? Munduku kaadu. Venakki reverse chey."
+SACHIN: "Aa maakem cheyalo telusu le."
+
+INT. HOSTEL ROOM - NIGHT
+
+Sachin sits on the bed, calculating money on his phone. Amol Davis walks in with a towel around his neck.
+
+SACHIN: "10,000 rent ki pote migatadi mandhuki."
+AMOL DAVIS: "Em decide ayyavura? Gate coaching continue chestava?"
+SACHIN: "Gate ledu, door ledu. Mundu job kavali."
+AMOL DAVIS: "Em job ra?"
+SACHIN: "Aa neeko cousin unnadu kada, Thomas ani. Vaalla ammaaa..."
+AMOL DAVIS: "Mary aunty."
+SACHIN: "Aa...tanaki ikkada oka fried chicken shop undi kada."
+AMOL DAVIS: "Aa..."
+SACHIN: "Aithe nuvve na naukri.com... job ippincheyali."
+AMOL DAVIS: "Arey pora. Maa amma aunty ippudu matladukovatledu. Ippudu nenu ganuka ninu recommend cheste intlo telisipothundi. Maa amma egiri thantundi."
+SACHIN: "Are mee amma intlo untadi kada. Aavida ki telise chance ledu. Job ippara ante sollu cheptunnav."
+AMOL DAVIS: "Sare job vaste em chestav?"
+SACHIN: "Aa vaallu ninna matladukuntunte vinleda? Vaallu unna apartments dagaralo PGs chala reasonable rates unnayi anta. Manam akkadaki move avutunnam. Nenu fix ayyyanu."
+AMOL DAVIS: "Ante Ambani gaaru rent ela kadataro?"
+SACHIN: "Nuvvu ippudu entha kadutunnavo anthe kattu. Baki dabbulu nenu chusukunta."
+AMOL DAVIS: "Aapara rey. Inka nuvvu job lone join avvaledu."
+SACHIN: "Nuvve okasari aalochinchara. Manchi room lo padukoni GF tho phone matladocchu. Ade kaadu, rendu manchalu. Adi highlight. Akkadi nunchi nuvvu coaching ki velladaniki easy ga untundi. Nuvvu coaching ki vellu. Nenu paniki veltha. Inka free time lo nenu reenu ala cable bridge ki shikaru ki veltam."
+AMOL DAVIS: "Migatadi antha"
+INT. SACHIN'S HOSTEL ROOM - NIGHT
+
+SACHIN
+Aa vaallu ninna matladukuntunte vinleda? Vaallu unna apartments dagaralo PGs chala reasonable rates unnayi anta. Manam akkadaki move avutunnam. Nenu fix ayyyanu.
+
+AMOL DAVIS
+Ante Ambani gaaru rent ela kadataro?
+
+SACHIN
+Nuvvu ippudu entha kadutunnavo anthe kattu. Baki dabbulu nenu chusukunta.
+
+AMOL DAVIS
+Aapara rey. Inka nuvvu job lone join avvaledu.
+
+SACHIN
+Nuvve okasari aalochinchara. Manchi room lo padukoni GF tho phone matladocchu. Ade kaadu, rendu manchalu. Adi highlight. Akkadi nunchi nuvvu coaching ki velladaniki easy ga untundi. Nuvvu coaching ki vellu. Nenu paniki veltha. Inka free time lo nenu reenu ala cable bridge ki shikaru ki veltam.
+
+AMOL DAVIS
+Migatadi antha okay. Last de tedha kodutundi.
+
+SACHIN
+Adi matrame kaadu. Ee vishayanni nuvvu oka text message lo tanaki send cheyali.
+
+AMOL DAVIS
+Aahaaaa....siggupadutunnava? Sare chuddam.
+
+SACHIN
+Sare chuddamaa?
+
+AMOL DAVIS
+Ledura. Repu nenu teesukelli ninu fried chicken ki manager ni chesta. Dobbey. Naaku pani undi. Are....are...., ikkada pata rupai coin undale.
+
+SACHIN
+Coin endukura?
+
+AMOL DAVIS
+Aa... toss veyaliraa eroju Sunday kada.
+
+SACHIN
+Toss aaa...Aa.. amol aa... coin akkada pettu Maryadaga ikkada kurcho. Idi teesey. Galli sariga aadadu. Paduko. Roorkee godalini pagalkotura.
+
+AMOL DAVIS
+Ayyo....Poyi padukora. Good night.
+
+SACHIN
+Good night.
+
+EXT. FRIED CHICKEN SHOP - MORNING
+
+Sachin and Amol Davis arrive for the job interview.
+
+AMOL DAVIS
+Orey, ee job neeku temporary ani antiki teliyakudadu. Ee job cheyyadaniki nuvvu puttavani build-up ivvali. Ide nee passion.
+
+SACHIN
+Passion.
+
+AMOL DAVIS
+Hi bro. Adi aa Mary aunty phone chesi cheppindi kada.
+
+SHOP MANAGER
+Aa okay, okay. Okka nimisham.
+
+AMOL DAVIS
+Jagrathaga undu. Kakkurthi padaku. Ikkada prati chicken piece count untundi.
+
+SACHIN
+Ee pora?
+
+AMOL DAVIS
+Anna, byee.
+
+SHOP MANAGER
+Pothunnara? Aa randi, nuvvu ikkadene undu. Sarena.
+
+INT. OFFICE - DAY
+
+Priya is on her phone.
+
+PRIYA
+Dagaralo PGs emaina unnaya ani Amol message chesadu.
+
+REENU
+Haaa Amol pulihora kaluputunnadu... Kaanivvandi, kaanivvandi.
+
+PRIYA
+Antha scene ledule.
+
+EXT. KIRANA SHOP - DAY
+
+Sachin and Amol Davis are buying milk.
+
+AMOL DAVIS
+Arey, Priya oka PG number pampinchindi ra.
+
+SACHIN
+Aa velli okasari check chesukundam.
+
+AMOL DAVIS
+Nenu room ki vellagane chaduvukuntanu. Nee noti nunchi okka maata kuda bayatiki raakudadu. Kavali ante moola kurcho. Reels chusuko.
+
+SACHIN
+Aa bhayya, dho packet paal (milk) so.
+
+INT. OFFICE - DAY
+
+Karthik stands in front of his team.
+
+KARTHIK
+Guys, enno rojula nunchi mana office lo unna girls safety kosam edo okati cheddam anukuntunna. So pepper spray. Idi chala simple ga use chese oka self-defense material. Idi nerugaa attackers kallaloki kodithe chalu.
+
+SUHASH (COLLEAGUE)
+Aithe ee company lo nunchi mundu nuvve vellipovali.
+
+KARTHIK
+(ignoring him)
+Renu, catch. Enjoy.
+
+SUHASH
+Mari maaku leda Pepper spray?
+
+KARTHIK
+Neekenduku Pepper spray? Omlette meeda vesikoni roll chesukoni tinta.
+
+The team laughs. Subash pretends to be offended.
+
+SUHASH
+Lekapote...
+
+KARTHIK
+Too much...
+
+SUHASH
+Nee kallaloki kottala? Karthik JK... Just kidding.
+
+EXT. NEW PG - DAY
+
+Sachin and Amol Davis arrive at the Mallikarjuna PG.
+
+PG OWNER
+No smoking, no drinking, no girls.
+
+Sachin looks at a photo on the wall.
+
+SACHIN
+Anna, wo khon hai?
+
+PG OWNER
+Mera father.
+
+SACHIN
+Kya karta hai vo?
+
+AMOL DAVIS
+Rey, chacchipoyadu ra. Kya kartaanta.
+
+SACHIN
+Ohh... Sorry.
+
+EXT. REENU'S HOSTEL TERRACE - DAY
+
+Reenu and Priya are hanging clothes on the terrace.
+
+REENU
+Nuvvu naa bra chusava? Aaresukovoi. Paresukunnanu... are are... nijam cheppu.
+
+PRIYA
+Ledu. Naaku teliyadu. Ayina naa size veru. Niharika ni adugu.
+
+REENU
+Aithe inka daanni marchipovalsinde. Ee Karthik valla ee Kerala sari veskovalsi vachindi. Ippudu uthakaleka chastunna.
+
+PRIYA
+Cha. Aithe Adi Karthik ne pilavalsindi kada uthakadaniki. Ayina ee outfit valla le kada first vachindi.
+
+REENU
+Memu edi vesukonna maake first prize vachedi.
+
+PRIYA
+Renu, nuvvu mari over confident aipothunnav.
+
+REENU
+Edo oorike joke chesyanuleve.
+
+PRIYA
+Joke em kaadu. Nuvvu serious gane annav. Nee phone ring avutundi. Evaru?
+
+REENU
+Amol. Ahaaa...
+
+PRIYA
+Chi pove.
+
+REENU
+Speaker on chey... speaker.
+
+AMOL DAVIS (V.O./PHONE)
+Hello, aa Priya. Memu Mallikarjuna PG lo join ayyam.
+
+PRIYA
+Oho, avuna? Ela undi?
+
+SACHIN (V.O./PHONE)
+Bagundi. Rendu manchalu kuda unnayi.
+
+PRIYA
+Sachin kuda vachada? Em chestunnaru?
+
+SACHIN (V.O./PHONE)
+Aa em ledu. Terrace paina ala challagali asvadistunnam.
+
+REENU
+Atunnaremo...
+
+PRIYA
+Terrace paina unnara? Aithe meeku aaresina battalu kanipistunnaya?
+
+SACHIN (V.O./PHONE)
+Aa ekkada kanipinchatlede. Ekkada? Aa ekkada?
+
+PRIYA
+Ha maku kuda kanipinchadam ledu. Memu kanipistanu chudu. Renu battalu teesi uputundi chudu.
+
+SACHIN (V.O./PHONE)
+Aa battalaaa...? Ekkada?
+
+Sachin immediately closes Amol Davis's eyes, thinking Reenu is removing her clothes. Priya laughs.
+
+PRIYA
+Aa red towel uputundi. Kanipistunda?
+
+SACHIN (V.O./PHONE)
+Towel. Aa aa akkada... Hey, hi. Priyaa.
+
+AMOL DAVIS (V.O./PHONE)
+Meeku thanks cheppadamani call chesam. Meeru cheppina PG chala bagundi.
+
+PRIYA
+Avuna? Welcome.
+
+REENU
+Thanks okkate saripodu.
+
+AMOL DAVIS (V.O./PHONE)
+Aa mari inkem kavali? Kompa teesi mind space dagariki rammani aduguthara? Enti? Chai tagudam ani.
+
+PRIYA
+Deeni sangathi enti?
+
+REENU
+Okok...
+
+AMOL DAVIS (V.O./PHONE)
+Nenu Sachin ni teesukoni ravala?
+
+PRIYA
+Aa sare. Memu migata battalu aaresi vastam. Okay na? Bye.
+
+AMOL DAVIS (V.O./PHONE)
+Okay, okay.
+
+SACHIN
+Sare sare ra ra twaraga veldam...
+
+AMOL DAVIS
+Agu...
+
+EXT. TEA STALL - LATER
+
+Amol Davis and Sachin are having chai with Reenu and Priya.
+
+AMOL DAVIS
+Akkada kuda nenu chala nice ga handle chestanu. Nuvvu kakkurti padaku.
+
+SACHIN
+Padandi guruji.
+
+AMOL DAVIS
+Chai teesuko. Thank you.
+
+REENU
+Chennai ki veltha annavu kada? Vellatleda, Sachin?
+
+SACHIN
+Ledu. Ikkade dagaralo job lo join ayya.
+
+REENU
+Ikkadee? TFC lo?
+
+SACHIN
+TFC ante enti? Tea hub lo pedda company aa?
+
+SACHIN
+Adi kaadu. Thomas... aa... Thomas Fried Chicken.
+
+REENU
+Adekkada?
+
+SACHIN
+Nenu meeku cheppanu kada veella cousin gurinchi. Aa vaalla shop adi.
+
+REENU
+Avunu. Car ekkada undi?
+
+AMOL DAVIS
+Bandi full tank kotti ichesam.
+
+Sachin silently signals to Amol Davis to ask them something, but Amol doesn't understand.
+
+SACHIN
+(whispering)
+Aa um, champutha naa koduka nuvvu adugutha annav moosukoni set chey yedava.
+
+AMOL DAVIS
+Meeru weekends em chestaru? Bed meeda porluthu shots vesukoni makeup lekunda room lone untara?
+
+REENU
+Weekend ante cleaning, laundry, nidra, books chadavadam, food order chesukoni Malayalam cinemalu chuddam. Shanti.
+
+AMOL DAVIS
+Chill mood eppudu uthukovadam aaresi pettukovadame kaadu kada.
+
+REENU
+Aa mari em cheyali?
+
+AMOL DAVIS
+Avunu em cheyalem kada. Baga bore kottestundi. Veedikemo job undi. Nenemo verbal ability chadivi alisipota. Konchem relax avudama ani pub ki pote vaadu couples only ani entry ivvaledu. Okasari gay couple ani cheppi podam anukunte sorry madam annadu.
+
+REENU
+Meeru gay couple aa?
+
+SACHIN
+Kaadu kaadu. Ala natinchi lopalki veldam anukunnam. Vaadiki sarigga cheppadam raledu.
+
+AMOL DAVIS
+(slowly)
+Nenu cheppindi kuda ade kada. Meeru Sunday free unnara? Pub ki podama? Vachi data interpretation chadukovadam. Emantaru?
+
+SACHIN
+Adi mee iddariki okay anukuntane veldam. Aa food drinks ki billu matram meme kadatam.
+
+REENU
+Manam Sunday free ye kada. Veldama? Vastamle. Done. Vastam. Sare. Memu inka veltam. Okay.
+
+SACHIN
+Vellala... Tata. Okay.
+
+REENU & PRIYA
+Good bye. Bye. Bye.
+
+AMOL DAVIS
+Food ki drinks ki expenses nuvvu chusukuntava? Emanukuntav nee gurinchi?
+
+SACHIN
+Enduku?
+
+AMOL DAVIS
+Akkada bill entha avutundo telusa neeku.
+
+SACHIN
+Bill entha ayytadi enti?
+
+AMOL DAVIS
+Nela motham chakiri chesina nee salary saripodu. Rey, naa motham talent upayoginchi nenu neeku idi set chesa. Publo Ambanila buildup iste vijayamala avutav last ki.
+
+SACHIN
+Rey, rey, rey. Oka pillani set chesukovadaniki help chestunnavani vadilestunna. Ledante kurchini madatapetti minguta. Amol, naa gurinchi sarigga telidu neeku. Nariki avatalu padestha.
+
+AMOL DAVIS
+Podam billu kattesei. Kattava?
+
+SACHIN
+Edava natakalu.
+
+Amol Davis turns to a random uncle watching them.
+
+AMOL DAVIS
+Hamara dostaahe...
+
+INT. SACHIN AND AMOL DAVIS'S ROOM - SUNDAY
+
+Sachin is getting ready for the pub. He wraps a towel around himself and stands in front of the open window, humming.
+
+AMOL DAVIS
+Rey, kitiki dagara nilabadi nee tammudiki city chupistunnava?
+
+SACHIN
+Avunu mari nannu chudataniki binocular pettukoni prapancham motham wait chestundi.
+
+AMOL DAVIS
+Mari aithe ippudu dance chey.
+
+Sachin hums a song, opens his towel towards the window, and shakes it, vibing.
+
+SACHIN
+(singing)
+Kanulatho chusedi guruva. Kanulaku sontamu ra...
+
+Meanwhile, Reenu is on her hostel terrace, watching this scene through binoculars.
+
+REENU
+Surprise em chestunnaru?
+
+Priya calls Sachin.
+
+PRIYA
+Aa Sachin, aa chinna scene ayindi.
+
+AMOL DAVIS
+Ayyo, emaindi? Meeru raavatleda?
+
+PRIYA
+Adi kaadu. Maa roommate Niharika undi kada. Tanu kuda vastadanta. Aa vaste raani dabbule kada. Nenu kattukuntale. Vaallu couples ni allow chestaru kada. Ippudu manaki inkokaru kavali.
+
+SACHIN
+Ayyo avunu kada. Aithe Amol gadiki iddaru girlfriends unnaru ani chepdam.
+
+PRIYA
+Rey, em vagutunnav ra? Adi workout kaadu. Anduke memu Karthik ni piluddam anukunnam.
+
+REENU
+Ayyo...
+
+PRIYA
+Emaindi?
+
+SACHIN
+(to Amol Davis)
+Adi adi vaddu. Ayyo... Adi bro ni ippudu enduku anavasaranga ibbandi petadam ani antunna nenu.
+
+PRIYA
+Mari ippudu em cheddam?
+
+SACHIN
+Nenu set chestanule. Adi memu chusukuntamle. Meeru meeru bayaluderi vacheyandi.
+
+PRIYA
+Aa okay sare.
+
+SACHIN
+Entra Niharika?
+
+AMOL DAVIS
+Idhi evathi ra?
+
+SACHIN
+Adi intlone kurchoni battalu uthukovachu ga. Ippudu manam deeniki oka partner ni set cheyali. Urgently manaki ippudu oka animutyam kavali.
+
+AMOL DAVIS
+Okadu unnadu. Mary aunty koduku Thomas. Kaani pub ante vaadu raadu ee.
+
+SACHIN
+Mari emani chepthe ayyagaru vastaro kuda nuve chepu...
+
+AMOL DAVIS
+Cash anudeep ee introvert ante vadikanna pedha introvert ra vadu. Nuvu vadi kalu patukuna vadu pub ki radu.
+
+SACHIN
+Saripoyindi.
+
+AMOL DAVIS
+Pub kadu kada, PUBG ante ento kuda telidu ra vadiki.
+
+SACHIN
+Piluste vastadu aa?
+
+AMOL DAVIS
+Science exhibition ani ooo, maths olympiad ani ooo teskaravali.
+
+SACHIN
+Naku mantaekkipotundi. Vadini intikeli teskara nuvu em chestavo naku telidu...
+
+[REGISTER: drunk comedy / messy heartbreak]
+[VIBE: loud pub, bad decisions, one-sided love, friendship as damage control, slow unraveling]
+[SETTING: Pub — strobe lights, sticky tables, thumping bass. A table near the edge. The dance floor beyond.]
+
+
+
+INT. PUB — NIGHT
+Bass thumps. Strobe lights cut the smoke. SACHIN, AMOL DAVIS, KARTHIKA, REENU, and PRIYA crowd around a small table. THOMAS sits stiffly at the edge — a textbook in a sea of neon.
+A round of drinks lands. Thomas doesn't touch his.
+
+KARTHIKA
+(raising her glass)
+Thomas, taagara?
+
+AMOL
+Aa ledu. Alavaatu ledu vaadiki.
+
+Sachin picks up his glass and drains it in one go. Reenu watches him.
+
+REENU
+Karuvulo unnattu taagutunnav enti? Chala danger.
+
+SACHIN
+Ledu. Nenu eppudu ilaage taaguta.
+(beat)
+Ayyo, bhayapadaku. Nenem taagabothu kaadule.
+
+REENU
+Nenenduku bhayapadata?
+
+He doesn't answer. She doesn't push.
+
+[Music swells]
+
+WANDERLUST, across the floor, waves them over.
+
+WANDERLUST
+Reenu! Karthika! Come, let's dance, baby.
+
+KARTHIKA
+(rising)
+Aa vastunnav?
+
+AMOL
+Meeru vellandi. Memu ee free drinks finish chesi vastam.
+
+REENU
+Aho, aithe naa baag chusukondi.
+
+Reenu and Karthika head to the floor. Priya follows.
+
+Sachin watches Reenu go. Amol watches Sachin watching her.
+
+SACHIN
+Arey, tanu indaka emundo vinava? Nenu entha taagina tanaki em problem ledanta.
+
+AMOL
+Bokkem kaadu. Tanaki nee meeda etuvanti feelings levu. Nuvvu entha taagi sachina tanu pattinchukodu.
+
+SACHIN
+Ala em kaadu. Kullu ra neeku.
+
+A beat. Sachin looks around — the noise, the grind, the couples.
+
+SACHIN (CONT'D)
+Chala samsarabaddhamaina ambience set chesav kada naa kosam. Manishi annaadu evadaina ikkada manasu ippi maatladukogalada?
+
+AMOL
+Ikkadiki manam yoga cheyyadaniki raledu. Vaallaki oka vibe ivvadaniki vacham. Padara, manam kuda velli chill avudam.
+
+SACHIN
+Orey vadilara. Naaku ilantivi nachchavu ani neeku telusu kada? Ikkada motham pogaa... soundu...
+
+He turns toward the DJ booth.
+
+SACHIN (CONT'D)
+(shouting)
+DJ gaaru! DJ gaaru! Sound tagginchandi!
+
+AMOL
+(grabbing his arm)
+Melliga ra. Melliga. Endukura anavasaranga arustunnav?
+
+Sachin slumps back. Amol leans in.
+
+AMOL (CONT'D)
+Inko daari undi. Nenu Karthika ni pilisi nice ga set cheyyamantava?
+
+SACHIN
+Karthika naa? Naaku Reenu ye kaavali.
+
+AMOL
+Nee abba. Arey Karthika mana vaipu unte sagam problem solve aipothundi. Pakka help chestundi. Manchi pillara.
+
+[Music]
+
+On the floor, Karthika and Reenu dance. Amol pushes through the crowd to them.
+
+AMOL (CONT'D)
+Karthika! Konchem ra.
+
+KARTHIKA
+Meeru randi.
+
+AMOL
+Aa aa... ikkade chestam.
+
+Karthika looks past him at the table.
+
+KARTHIKA
+Vaallu enduku ala daakkuntunnaru? Velli teesukora.
+
+AMOL
+Rey, tane vastundi ra. Ide manchi time maatlaade.
+
+Sachin finally stumbles up and over. Thomas is still at the table, writing on a tissue.
+
+KARTHIKA
+Meeru enduku raavatledu? Emaindi? Randi.
+
+AMOL
+Karthika, neetho maatladali. Kurcho.
+
+KARTHIKA
+Enti?
+
+AMOL
+Karthika, neeku konni vishayalu nenu open ga cheppali.
+
+KARTHIKA
+Naaku arthamaindi. Amul baby, pratyekanga introduction akkarledu. Nenu committed.
+
+AMOL
+Aithe...
+
+KARTHIKA
+Aithe enti?
+
+AMOL
+Oo oo oo! Arey Karthika committed anta bhayya! Karthika committed anta!
+(beat, deadpan)
+See, no one cares.
+
+KARTHIKA
+Aithe meeru naatho em maatladali?
+
+AMOL
+Idi veedi case.
+
+KARTHIKA
+Enti?
+
+AMOL
+Veedu Reenu ni ishtapadutunnadu.
+
+KARTHIKA
+Hain...?
+
+AMOL
+Aa... veedu siggu lekunda siggupadutunnadu. Mahanubhavudu veedu. Karthik, ee vishayamlo konchem nee help kaavali.
+
+KARTHIKA
+Naaku ippatike matipothundi.
+
+AMOL
+Emaindi?
+
+KARTHIKA
+Aa... em le. Vadiley.
+(a beat, then sharp)
+Induke naa antha action chesi mammalni pub ki teesukochindi? Idi tea stall dagare cheppocchu kada.
+
+SACHIN
+Nenu appude cheppunte...
+
+KARTHIKA
+Appude cheptunde. No.
+
+A silence lands between them. Karthika looks at Sachin — really looks at him.
+
+KARTHIKA (CONT'D)
+Sachin, nuvvu UK velle plan emaindi?
+
+SACHIN
+Aa adi... malli apply chestе vastundi. Vastundi.
+
+KARTHIKA
+Chudu Sachin. Nuvvu repu em cheyyali anna plan vesukunnava? Tanu 30 ellu planning ippude chesukundi.
+
+Sachin says nothing.
+
+KARTHIKA (CONT'D)
+College chadive rojullo tanaki oka boyfriend undevaadu. Kaani breakup tarvata ippudu marriage material ne chustundi. Anthe kaadu — tanu baga educated, matured, and well settled ayna vaadine chustundi.
+
+She lets it land.
+
+KARTHIKA (CONT'D)
+Nuvvu chudu. Okasari UK ki velthanu ani plan chestav. Aa tarvata Chennai antav. Ippudu evado edava cheppadu ani Gate coaching lo join ayyav.
+(beat)
+Mundu career lo em cheyyalo aalochinchav. Aa tarvata prema gurinchi aalochinchocchu. Idanta saripodu annattu maa pakka building lo paina vachi digaru. Idi stalking antaru.
+
+SACHIN
+Stalking ante maaku telusule. Invest chesam, dabbulu pettam, motham poyay. Nuvvu nerpinchaku.
+
+KARTHIKA
+Aaa... adi stock marketing.
+
+SACHIN
+Ohh. Ohh.
+
+KARTHIKA
+Suppose. Tanu okavela date cheyyali anukumna kacchitanga tanakanna smart guy tone date chestundi.
+
+AMOL
+Ee pavitramaina haamila ki condition ki set ayyevaadu ekkada dorukutadu?
+
+KARTHIKA
+Ekkado kaadu. Maa office lone okadu unnadu.
+
+SACHIN
+Evaru?
+
+KARTHIKA
+Aalochinchandi.
+
+SACHIN & AMOL
+(realizing)
+A... a... Aadhi?
+
+KARTHIKA
+See within six months. Vaallu relation lo undadaniki kacchitanga chance undi.
+(beat)
+Idanta vinna tarvata em anipistundi? Deeni gurinchi Reenu tho maatladana?
+
+SACHIN
+Vaddhu. Vaddhule. Vadiley. Thantho cheppoddule. Sorry.
+
+KARTHIKA
+(standing)
+Amul baby. Get a life, man. Me.
+
+AMOL
+Ne... amm... chet... moka...
+
+[Music]
+
+Karthika walks back to the floor. Amol turns to Sachin.
+
+AMOL (CONT'D)
+Rey, naaku rendu beerulu teesukuraara?
+
+SACHIN
+(already gone)
+Rendu... rendu...
+
+Amol scans the room.
+
+AMOL
+Arey naa cousin ekkadunnado kanipinchatledura. Thomas naanna Thomas. Rey Thomas!
+
+[Music]
+
+Sachin drinks. And drinks. The memories hit him in fragments —
+
+FLASH — Karthika's voice: "Sachin, nuvvu repu em cheyyali anna plan vesukunnava? Tana 30 ellu planning ippude chesukundi."
+
+FLASH — "College chadive rojullo tanaki..."
+
+He stumbles to the counter. Drinks someone else's drink. Then another.
+
+Across the room, Amol finds THOMAS on the dance floor — stiff, arms flailing, completely lost in the music.
+
+AMOL (CONT'D)
+Rey Thomas! Thomas!
+
+THOMAS
+(grinning, drunk)
+You cheat! Inni rojulu nannu ee swargaaniki enduku teesukuraledu ra?
+
+AMOL
+Extralu cheyyaku. Kottanu ante mokham shape out aipothundi.
+
+THOMAS
+Bye, guys. Bye, babu.
+
+WANDERLUST appears beside them.
+
+AMOL
+Wanderlust! Veediki taagichi dance cheyyinchindi. Nuvvena?
+
+WANDERLUST
+Excuse me?
+
+AMOL
+Veedu binomial theorem marchipotadu. Veediki exams unnayi. Mary aunty ki telisindante champestadi.
+
+THOMAS
+Hello. Hi.
+
+WANDERLUST
+Hey. Hi.
+
+AMOL
+(grabbing Thomas by the collar)
+Arey nee valaakani ki neeku sambandham lekunda pravartistunnav. Sachin gaadini chusi nerchuko. Vaadi heart break aina kuda vaadu entha baaga kurchoni taagutu...
+
+Thomas's eyes go wide.
+
+THOMAS
+Sachin! Akkada Sachin!
+
+AMOL
+Sachin! Rey mama!
+
+[Music]
+
+Sachin is on the floor now. Alone. Eyes closed. Arms loose. Dancing to a song only he can hear.
+
+The strobes catch him — one flash, then another.
+
+He spins. Stumbles. Keeps going.
+
+The crowd moves around him like water around a stone.
+
+He remembers — Reenu's voice, Karthika's voice, his own voice promising things he couldn't deliver.
+
+He dances harder. Faster.
+
+Then his legs give out.
+
+He drops.
+
+[Music cuts to a low hum]
+
+The camera rises slowly — ZOOM OUT from a top angle. Sachin is a small shape on the floor, surrounded by feet, spilled drinks, and neon.
+
+Amol pushes through the crowd.
+
+AMOL (CONT'D)
+(faint, far away)
+Sachin...
+
+FADE OUT.
+
+INT. OFFICE — DAY
+
+[Music] [Applause]
+
+The whole floor is gathered. ADI stands at the front, arms wide, holding court. REENU is beside him, caught between embarrassment and pleasure. VIGNESH, SUBHASH, and a handful of others crowd around.
+
+ADI
+So guys — Renu has successfully completed her probation period. And now she is a full-time employee of Osypin!
+
+EMPLOYEES
+(chanting)
+Treat! Treat! Treat!
+
+REENU
+(laughing, hands up)
+Okay, okay. Em kaavali?
+
+ADI
+It's your choice.
+
+REENU
+Okay. Today lunch is on me. Okay.
+
+[Music] [Cheering]
+
+INT. TFC — DAY
+
+SACHIN is behind the counter, wiping down. The place is quiet. His phone buzzes. He picks up.
+
+SACHIN
+Hello, hello?
+
+COLLEGE FRIEND (V.O.)
+College ki vastunnava? Repu.
+
+SACHIN
+Enti? Repa?
+
+COLLEGE FRIEND (V.O.)
+Mana iddarame inka certificates teesukoledu. Nuvvu rakapoyina nenu okkane veltha.
+
+SACHIN
+Nee amma edho okati chesi vastale ra. Tappakunda.
+
+COLLEGE FRIEND (V.O.)
+Ayyo rey—
+
+SACHIN
+(cutting him off)
+Oka important call. Malli chestanu. Chestanule.
+
+He hangs up. Dials another number. His posture shifts — softer, straighter.
+
+SACHIN (CONT'D)
+Hello, Renu.
+
+INTERCUT — REENU at her desk, phone tucked between shoulder and ear.
+
+REENU
+Enti? Baga busy ga unnatlu unnav?
+
+SACHIN
+Ayyo Renu, friendsee. Girlfriend kaadu.
+
+REENU
+(laughing)
+Nuvvu TFC lo chestunnav kada? Eight members ki edho okati meal suggest chey.
+
+SACHIN
+Ikkada burgers chala baguntayi.
+
+REENU
+Aithe oka eight burgers maa office ki delivery teesukostava?
+
+SACHIN
+Ante Hitech City delivery?
+
+REENU
+Mm-hmm.
+
+SACHIN
+Aa sare. Nenu... manage chestale. Edho okati.
+
+[Music]
+
+INT. OFFICE — LATER
+
+Sachin stands at the reception, slightly out of breath, holding two large bags of burgers. His shirt is damp. Reenu comes out to meet him.
+
+REENU
+(taking the bags)
+Okay. Thanks ra.
+
+SACHIN
+Jagratha chusko.
+
+[Music]
+
+She notices his face — flushed, hair plastered to his forehead.
+
+REENU
+Enduku jiddu jidduga undi nee moham?
+
+SACHIN
+Adi endalo intha dooram bike meeda vacha kada.
+
+She smiles. Then, casually:
+
+REENU
+Ee maa floor lo oka startup company undi. Vaallu regular ga hiring chesukuntunnaru. Andulo HR naa friende. Aa nuvvu oka pani chey. Nee resume naaku pampu. Nenu tanaki forward chesta.
+
+Sachin blinks.
+
+REENU (CONT'D)
+Salary konchem takkuve. Adi neeku ishtam unte ne.
+
+SACHIN
+Ledu?
+
+REENU
+(teasing)
+Naaku ishtame, ishtame.
+
+SACHIN
+Nenu resume pamputanu.
+
+REENU
+Okay, pampinchu.
+(a beat, then carefully)
+Avunu... aa roju pub lo emaindo gurtunda?
+
+SACHIN
+Adi edho konchem konchem gurtundi.
+
+REENU
+Nenu konchem over chesa kada.
+
+SACHIN
+Um.
+
+REENU
+Konchem kaadu. Chala.
+(beat)
+Karthika... meetho inka Sachin aa ekkadiki raanu annadhi.
+
+Sachin doesn't answer. His phone buzzes. He glances at it. Reenu's phone rings at the same time.
+
+REENU (CONT'D)
+Oo, one second.
+
+SACHIN
+Nenu pattukona?
+
+REENU
+Aa aa adhi—
+
+She answers. ADI's voice spills out of the speaker.
+
+ADI (V.O.)
+Renu. We are starving.
+
+REENU
+Aa vastunna, vastunna. Two minutes.
+
+ADI (V.O.)
+Vignesh kallu tirigi padipoyela unnadu.
+
+REENU
+Aa... Aadhi—
+
+ADI (V.O.)
+Okay, okay, okay. We are waiting.
+
+She hangs up. Looks at Sachin.
+
+REENU (CONT'D)
+Enthayindi?
+
+SACHIN
+Aa... 2300...
+
+REENU
+2500.
+
+SACHIN
+(quietly)
+Adi Reenu ki boyfriend kada.
+
+REENU
+Sachin em anukuntunnadu?
+
+SACHIN
+Naaku telisi mee iddaru manchi match avutaru.
+
+REENU
+(surprised)
+Avuna?
+
+She holds his gaze for a beat too long.
+
+REENU (CONT'D)
+Bye.
+
+She turns and walks back inside. Sachin stands there, bags empty, hands full of nothing.
+
+[Music]
+
+INT. OFFICE TABLE — LATER
+
+The team is gathered around a long table. Burger wrappers everywhere. Adi sits at the head. Reenu beside him. Vignesh, Subhash, and others scattered around.
+
+ADI
+Aa... ela undi, Subhash?
+
+SUBHASH
+(mouth full)
+Chala bagundi.
+(beat)
+Dabbulu neevi kaadu kadha.
+
+ADI
+(ignoring the jab)
+TFC...? Neeku ee place ela telusu?
+
+REENU
+Neeku Sachin telusu kada? Tanu akkade work chestunnadu.
+
+ADI
+(frowning)
+Ee Sachin? Did I miss something?
+
+REENU
+Manam tannu pelli lo kalisaam ga? Vaallathone ga memu car lo vachesam.
+
+Adi's expression shifts. He sets his burger down slowly. Looks around the table.
+
+ADI
+Everybody stop eating.
+
+The table freezes. Vignesh's burger is halfway to his mouth.
+
+ADI (CONT'D)
+I think it's poison.
+
+A beat of pure silence. Then Vignesh — already pale — hurls his burger onto his plate. Someone gasps. Chairs scrape.
+
+Adi watches the chaos for exactly one second too long.
+
+ADI (CONT'D)
+(deadpan)
+It's a JK. JK. Just kidding. Tinandi, tinandi. Have it.
+
+[Laughter erupts — relieved, nervous, scattered]
+
+SUBHASH
+(wiping his mouth)
+My dear, Aadhi. Nee JK bagundi. Teesukoni nee gudha... bagundi pettuko.
+
+ADI
+(not missing a beat)
+Reenu, vaadi peru edho cheppav? Sewag aa?
+
+REENU
+Sachin.
+
+ADI
+Whatever.
+(leaning in)
+Renu... nuvvu inka aa edavaltho touch lo... unnava?
+
+REENU
+Aadi, nee manasulo tana meeda inka grudge unda?
+
+ADI
+Grudge?
+(beat)
+What is that ante ento kuda naaku... telidu.
+
+REENU
+Enti adi? Nenu vaallatho maatladutunte naa school friends tho maatladutunnaattu undi.
+
+ADI
+Aa... alanti chetta schools unnaya mee ooru lo? Government inka mooseledaa?
+
+REENU
+Kaavali ani godava cheyyaddu adi.
+
+ADI
+Oo oo oo, hold your horses. Really? Fighting aa? Reenu thoni aa? No way.
+(turning sharply)
+Hey Vignesh, aa burger ela undi?
+
+VIGNESH
+(grim)
+Arey maccha, asalu vadiley. Adi tinnappati nunchi kadupulo okate gudu. Guda rendu moodu saarlu washroom kuda poyaanu.
+
+Adi's eyes flick to Reenu — a quick, deliberate blink. Reenu catches it. Adi covers with a smooth smile.
+
+ADI
+Slide headache, you know. Vignesh? You have Aspirin right? Bag lo undi. Kaavala?
+
+VIGNESH
+(suspicious)
+Adi nijangane neeku aspirin kaavala?
+
+ADI
+(standing, brushing him off)
+Nuvvu nee over action. Pada.
+
+Reenu pushes her chair back. The scrape is loud. She walks away without a word.
+
+Adi watches her go. His smile doesn't reach his eyes.
+
+Fade Out.
+
+INT. REENU'S HOSTEL FLAT — DAY
+
+Steam rises from the kitchen. Reenu's MOTHER stirs a pot. Her FATHER sits on the sofa, already settled. KARTHIKA arranges plates. The table is crowded with dishes.
+
+REENU
+(bustling)
+Biryani ready. Curry ready. Amma, plates?
+
+REENU'S MOTHER
+(unhurried)
+Teesukondi.
+
+The doorbell rings. Reenu wipes her hands and goes to open it.
+
+INT. REENU'S HOSTEL — CONTINUOUS
+
+SACHIN and AMOL stand in the doorway. Sachin holds a gift — badly wrapped. Amol holds nothing.
+
+Karthika opens the door instead. She looks at Sachin.
+
+KARTHIKA
+Ha...
+
+SACHIN
+Neeku kaadule.
+
+He steps past her into the flat.
+
+INT. LIVING ROOM — CONTINUOUS
+
+Sachin walks in. Stops dead.
+
+ADI is at the dining table, serving food to Reenu's parents with the ease of someone who lives there.
+
+Sachin's mouth opens. A sound comes out.
+
+SACHIN
+Aaaaa! Aaa! Aa!
+
+Adi looks up. Sees Sachin. His face mirrors the exact same horror.
+
+ADI
+Aaaaa! Aaa! Aa!
+
+They stand frozen, pointing at each other like two cats meeting in an alley.
+
+AMOL
+(from the doorway)
+Emaindiraaa?
+
+SACHIN
+A... a... Adi...
+
+REENU
+(hurrying over)
+O Meera arichindi! Maa andarini bhayapettaru.
+
+ADI
+(recovering, smoothing his shirt)
+Adi sudden ga chusi shock ayyanu. I mean... surprise ayyanu.
+
+SACHIN
+Aa surprise lo arichessam gattiga.
+
+[Laughter from the room]
+
+Sachin remembers the gift in his hands. He holds it out to Reenu.
+
+SACHIN (CONT'D)
+Happy birthday!
+
+REENU
+(taking it)
+Thank you.
+
+[Music]
+
+Amol leans in.
+
+AMOL
+Sagam dabbulu naa dagara kuda teesukunnav kadara.
+
+REENU
+(ignoring him, gesturing)
+Randi. Sachin, veellu maa amma, naanna. Amma, tinu. Sachin, tinu. Amol...
+
+REENU'S MOTHER
+Randi, kurchondi.
+
+ADI
+(looking around)
+Enti Reenu? Close friends ne pilusta annav... huh... Hyderabad motham ikkade undi.
+
+REENU
+Andaru close friends ye unnaru ga.
+
+SACHIN
+(under his breath)
+Ichi padesindi.
+
+Reenu unwraps the gift. Stationery — pens, notebooks, a small red diary.
+
+ADI
+(peering over)
+Yuck. Cheap stationery items.
+
+REENU
+(defensive)
+Bagundi kada?
+
+SACHIN
+Adi indulo chala unnayi.
+
+ADI
+Bomb emaina pettara aa?
+
+SACHIN
+Idigo. Red colour kuda vastadi. Ila anali...
+
+He demonstrates. Adi picks up the red diary.
+
+ADI
+Communism.
+
+REENU
+(snatching it back)
+Cute undi. Wow. Naaku chala nachchindi.
+
+REENU'S MOTHER
+Biryani undi. Tinandi.
+
+Reenu picks up a spoon to serve. Adi's hand shoots out and stops her wrist.
+
+ADI
+Idi mummy papa kosam teesukochchindi kada? Nuvvu eppudu tinede ga.
+
+He turns to the parents, voice dripping with virtue.
+
+ADI (CONT'D)
+Morning 5 gantalaki velli bawarchi dagara queue lo nilabadi meekosam special ga teesukochcha.
+
+SACHIN
+Oo... antha poddune lesi tecchavanta? Ee paatiki padaypoi untadi... Emantavura?
+
+AMOL
+(sniffing the air)
+Smell vastundi already.
+
+ADI
+(rounding on them)
+Ilanti pichha pichha comedyle nachava? Shut up, idiots. Papa chusukuntadu.
+
+REENU'S FATHER
+Shut up.
+
+REENU'S MOTHER
+Emaindi?
+
+[Laughter]
+
+REENU'S FATHER
+Oorike joke chesa.
+
+[Laughter]
+
+SACHIN
+Same. Neelage...
+
+ADI
+(leaning in, conspiratorial)
+Chudandi aunty. Road meeda poye edavalu em ichchina tintundi Reenu. Tarvata emo motions antundi. Oka roju morninge naaku message pettindi. Adi nenu intiki veltunna ani naaku full motions ani...
+
+He pauses for effect. The room is listening.
+
+ADI (CONT'D)
+Aa... nenu chala panic aipoyanu.
+
+AMOL
+Ohhh!
+
+ADI
+Ippudu malli tanni ila ikkada chuse varaku upiri adaledu anuko.
+
+REENU'S MOTHER
+(softening)
+Meerandaruu tanatho unnaru kabatti memu akkada hayiga unnam. Ide tanaki first time intha pedda city lo okkate undadam. Maakaithe asalu ishtame ledu.
+
+Adi nods, satisfied. Then:
+
+ADI
+Ayyo, food vishayamlo Reenuni em anakandi. Anni vaalla pappa buddhule vachchayi.
+(to Reenu's father, mock-serious)
+Papa, first tinadam aapandi. Tinadam aapandi.
+(beat)
+Renu last time chusinappudu pappa sugar levels entha unnayi?
+
+REENU
+Aa... naaku gurtuledu.
+
+ADI
+Naaku gurtundi. 190. So papa, no no no.
+
+REENU'S MOTHER
+Avunu. Inka mee ontlo sugar ekkuva avutundi. Malli muttukondi.
+
+AMOL
+Srikanth Addala family la undi. Nuvvu oka manchi maata cheppara? Cheppu...
+
+SACHIN
+(deadpan)
+Ade uncle. Adi tinakandi. Adi chetta laantidi.
+
+[Laughter]
+
+SACHIN (CONT'D)
+Chetta laantidi ante bad food ani nenu cheppali anukunna...
+
+[Laughter]
+
+AMOL
+Sare aunty. Memu akkada kurchotam.
+(to Sachin, low)
+Daara kurcho. Inka... em maatladutunnavo neekaina arthamavutunda? Paruvu poyindi.
+
+SACHIN
+Ayina tanu navvindi kada.
+
+AMOL
+Navvindile. Ninnu chuste naake navvuvastundi.
+
+REENU'S FATHER
+(settling back)
+Adi, mee parents Mumbai lo unnaru kada? Vaallu ikkadiki raavatleda?
+
+ADI
+Appudu appudu vastuntaru, Papa. Ee saari vacchinappudu Reenu dagarike teesukosta.
+
+REENU'S FATHER
+Oho...
+
+ADI
+(expansive)
+Ela ayina manam eppudo appudu kalavalsindega?
+
+REENU'S FATHER
+Avunu, avunu, avunu.
+
+SACHIN
+(under his breath)
+Avunu, avunaaa? Emara ee uncle gadu...
+
+REENU
+(quickly)
+Aa... Karthika, aa curry teesukura.
+
+Karthika brings the curry. Adi takes it.
+
+ADI
+Thank you.
+
+KARTHIKA
+Idi mummy chesina special chicken curry.
+
+ADI
+(inhaling)
+Avuna? Let me try.
+
+He tastes. His eyes widen.
+
+ADI (CONT'D)
+Oo, emaina taste aa? Ee biryani pakkaki teesey. Iroju star item mummy chesina chicken curry.
+
+REENU'S MOTHER
+Antha bagunda?
+
+ADI
+Naaku telisi motham nene tintanemo.
+(calling)
+Era Sachin, kaavalante gravy unchutale.
+
+SACHIN
+(very quietly)
+Gravy entira? Pu...
+
+AMOL
+(stepping on his foot)
+Rey... enduku...
+
+REENU
+(standing)
+Hey, meeru vachi tinandi.
+
+AMOL
+Aa manaku kuda pedutunnaru ra.
+
+They take plates and sit on the sofa — slightly apart from the table.
+
+REENU
+Meerenduku akkada kurchoni tintunnaru?
+
+AMOL
+Aa... akkada kurchodaniki place ledu ani.
+
+REENU
+Nenu inko chair testa.
+
+SACHIN
+Vaddhule, problem ledu. Memu ikkade kurchuntam.
+
+REENU
+Nenu vaallatho kurchunta.
+
+KARTHIKA
+(seizing the moment)
+Aunty, uncle, maatho paatu trip ki raavatleda?
+
+REENU'S MOTHER
+Trip aa? Em trip?
+
+ADI
+Ayyo, cheppadam marchipoyanu. Maa office lo close friends andaram kalisi oka one-day trip plan chesam. Aa ee Hyderabad motham cover cheddam ani.
+(expansive again)
+Aaha, Papa, Mummy kuda raavali.
+
+REENU'S FATHER
+Ayyo leda, Aadi. Memu vellipovali.
+
+REENU'S MOTHER
+Inti dagara kuda evaru leru.
+
+REENU
+Avunu. Meeru antaa urgent ga velli em chestaru? Meeru kuda Hyderabad chudaledu kada. Undi, trip ayyaka vellandi.
+
+KARTHIKA
+Aithe nenu kuda Vikas ni pilavaccha?
+
+ADI
+Who is Vikas?
+
+REENU'S MOTHER
+Veldamaaa andi?
+
+ADI
+Did I miss something?
+
+KARTHIKA
+Tanu naa would-be.
+
+ADI
+(processing, then recovering)
+Aaa... bus lo chala place undi rammani cheppu. Your would-be should be coming.
+
+KARTHIKA
+Okay.
+
+REENU
+Veellu kuda manatho vastaru, Aadhi.
+
+AMOL
+Raavacchu kada?
+
+ADI
+Bus lo space undali kada? Adi indake cheppav kada bus lo space undani.
+
+He pauses. Then, flatly:
+
+ADI (CONT'D)
+Whatever. Evaru vacchina raakuna. Mummy raakunte nenu ranu.
+
+SACHIN
+Aa mummy?
+
+AMOL
+(leaning over)
+Chusava ra vaadi visionu...
+
+ADI
+Mummy papa padukunnara enti?
+
+REENU'S MOTHER
+Aa velli lepali aa...
+
+ADI
+(hands up)
+Ayyo, vaddhu, vaddhu. Inka memu bayalderutham. Asale office bunk kotti vacham kada.
+
+REENU'S MOTHER
+(rising)
+Karthika... bye.
+
+KARTHIKA
+Bye.
+
+The parents retreat inside. The room exhales.
+
+KARTHIKA
+(turning to Adi)
+Aadhi.
+
+ADI
+Aa enti?
+
+KARTHIKA
+Nuvvu asalu Reenu ki gift ivvaledu? Sachin ee ichchadu.
+
+SACHIN
+(to Amol, low)
+Sachin ee ichchada? Nannu chuste antha cheap ga kanipistunana ara...
+
+ADI
+(patting his pockets)
+Ayyayyo, nenu marchipoyanu kada. Reenu... kalakaalam idi neetho pettuko.
+
+He hands her a ten-rupee note.
+
+SACHIN
+(eyebrows raised)
+10 rupaayala? Enti, bar lo tip istunadu aa?
+
+[Laughter]
+
+SACHIN (CONT'D)
+Ippati varaku tanu vaadini asayinchukovadam chuddam anukunnanu. Ippudu jarigidi chudu.
+
+REENU
+(studying the note)
+Wow...
+
+REENU (CONT'D)
+Hey, idi chudu.
+
+KARTHIKA
+Entidi?
+
+REENU
+Ee serial number naa date of birth! Oh my God!
+
+SACHIN
+Edi? Ittu ivvu.
+
+AMOL
+(peering)
+Date of birth pettadaniki Instagram ID aa? RBI note aa? Adi bro... policelaku teliste problem avutundi. Reenu ni bokkalo vestaru.
+
+REENU
+Nuvvu noru moosuko. Adi... this is so special. I am gonna keep this forever.
+
+ADI
+Ayyo!
+
+REENU
+It means a lot.
+
+ADI
+No problem, dear.
+
+He hums, satisfied. Then:
+
+ADI (CONT'D)
+Ya ya ya ya...
+
+[Music]
+
+ADI (CONT'D)
+Karthika...
+
+KARTHIKA
+(rising)
+Okay, veltanu mari. Bye.
+
+AMOL
+Okay, bye.
+
+ADI
+(gesturing grandly)
+After you.
+
+KARTHIKA
+Aaha... Aadhi, you are such a gentleman.
+
+ADI
+(watching her go)
+Enduku andaru alage antaru?
+
+AMOL
+(to Sachin, low)
+Chusava? Vaadi IT telivi thetalu. Email lo CC chesinantha easy ga ammayini set chesukuntunnadu.
+
+SACHIN
+Avunu...
+
+AMOL
+Ee Sudexo coupon gaani twaraga expire cheyyalil.
+
+SACHIN
+Andaram Sunday roju trip veltunnam kada. Aa nenu kuda "after you", "message on", "acknowledgement" ani noru tiragani padalu konni nerchunta.
+
+AMOL
+Enduku?
+
+SACHIN
+Nakki nakki kaadu. Tokkukuntu povale.
+
+FADE OUT.
+
+[REGISTER: feel-good romance / heartbreak / chaotic friendship comedy]
+[VIBE: proposal gone wrong, confession under pressure, pub fights, a wedding of chaos, last-minute airport dash, one kiss that changes everything]
+[SETTING: Xerox shop, hostel terrace, TFC chicken shop, Chennai PG, airport, highway — all steeped in Hyderabad heat and neon]
+
+---
+
+INT. REENU'S HOSTEL — DAY
+
+Reenu hands Sachin and Amol cups of chai.
+
+REENU
+Chai teesukondi.
+
+SACHIN
+Aa, thanks.
+
+She sits down across from him. Studies him.
+
+REENU
+Nee resume chusa. Entra adi?
+
+SACHIN
+Ee baleda?
+
+REENU
+Ration card la undi. Resume la ledu.
+
+SACHIN
+Ante adi copy paste chesi...
+
+REENU
+Ila refer chesthe nannu teesestaru.
+(beat)
+Oka pani chey. Repu naatho paatu ra. Mana iddaram kalisi prepare cheddam.
+
+SACHIN
+Oo... kalisi cheddam.
+
+REENU
+(rising)
+Meeku omelette ishtama?
+
+SACHIN
+Aa, ishtame.
+
+AMOL
+(deadpan)
+Ippudu mandu ante...
+
+REENU
+Chi. Aapara. Idi bar kaadu.
+
+Amol leans into Sachin.
+
+AMOL
+(low)
+Premalo padipoyinatte ra. Tanu neetho siggēsundi.
+
+SACHIN
+(equally low)
+Idigo chudu. Madhyalo Adi gaadu aduka tinadame inka... inka manchi time place chusukoni nuvve propose chesayra.
+
+AMOL
+Pora? Adi asalu set avvadu.
+
+SACHIN
+Aithe mari Adi gaadu set chesukuntadu.
+
+[Music]
+
+---
+
+EXT. XEROX SHOP — NEXT DAY
+
+Reenu flips through the freshly printed pages.
+
+REENU
+Idi nee resume?
+
+SACHIN
+Aa... Reenu. Date of birth add cheyyadam marchipoyav.
+
+REENU
+Adeppudu?
+
+SACHIN
+Adi 16 March 1999.
+
+REENU
+Nuvvu March lo puttava? Nene neekanna pedda dani.
+(beat)
+Aa nenu September 98 model.
+
+SACHIN
+Ayyo, aithe intlo oppukovadam kashtame.
+
+REENU
+Deniki kashtam?
+(a beat — he says nothing)
+Deentlo marital status em pettali?
+
+SACHIN
+Enti nannu chustunnav? Unmarried.
+
+REENU
+Naakem telusu? Neeku Kerala lo pellam, pillalu unnaremo?
+
+SACHIN
+Nuvvenduku ala maatladutunnav?
+
+REENU
+Unmarried nundi married ki change chesukovalani leda? Neeku pelli chesukovalani leda?
+
+SACHIN
+(quietly)
+Hmm. Undi. Ade nenu kuda aalochistunna.
+(beat)
+Nenu unmarried nunchi married ki maaradaniki naaku okka yes chaalu.
+
+REENU
+Evaru? Vaalla nanna nuncha?
+
+SACHIN
+Kaadu. Aa... ammayi nunchi.
+
+REENU
+Evaru aa ammayi?
+
+SACHIN
+Aa ammayi ippudu naa pakkane kurchoni naaku CV ready chesi istundi.
+
+She stops. Looks at him. He's not joking.
+
+REENU
+Ooh, I see.
+(beat)
+Nuvvu naaku propose chestunnava?
+
+SACHIN
+Nuvvu em anukuntunnav?
+
+REENU
+Idi naa life lone pedda worst proposal avutadi.
+(beat)
+Naake kaadu. Ee ammayiki aina worst ee.
+
+SACHIN
+Aithe neeku bane proposals vachchayi anna maata.
+
+REENU
+Avunu. Nenu mari antha balena? Raakapovadaniki.
+
+SACHIN
+Naaku kuda vachchayi proposals.
+
+REENU
+Okay.
+
+SACHIN
+Chala vachchayi.
+
+REENU
+Vaste Rani.
+
+SACHIN
+Identi idhi? Nee boyfriend ki proposals vachchayi ante nuvvu kullukova?
+
+REENU
+(laughs)
+Boyfriend aa?
+
+SACHIN
+Ammayilu ante kullukovali kada mari.
+
+REENU
+Sachin, nee comedy timing sachipoyindi. Nee print out ready ayindi. Velli teesuko.
+
+SACHIN
+Comedy aa? Inthasepu cheppindanta comedy anukuntunnava nuvvu?
+
+REENU
+Aithe serious aa? Sare, daaniki answer chepta. Vinu.
+
+Sachin starts to close his ears. Reenu pulls his hands away.
+
+REENU (CONT'D)
+Nuvvu naaku nachchaledu, Sachin.
+
+SACHIN
+Naaku nee phone ivvadam, nannu job ki refer cheyyadam, nee flat ki invite cheyyadam, ippudu naa CV ready cheyyadam. Naa jeevitham lo evaru ippati varaku naaku ila cheyyaledu.
+(beat)
+Veetannitini ela artham chesukovali mari?
+
+REENU
+Idanta chesinanthamatrana premistunnattu kaadu.
+
+SACHIN
+Alane kada prema chupinchedi?
+(beat)
+Neekanni options unnappudu choose chesukovadam kastame...
+
+REENU
+Choose chesukovadama?
+
+SACHIN
+Options kaadu. Okka option ye.
+
+REENU
+Adi gurinchi ante... Adi naa best friend.
+
+SACHIN
+Best friend aa? Aa maata vintene maalaantollaki mandipothundi.
+
+REENU
+Anuko. Ayina neelaga matram Adi behave cheyyadu.
+(beat)
+Kopanga vellipote dabbulu evaru istaru?
+
+Sachin turns to the shop owner.
+
+SACHIN
+Kitna hai?
+
+SHOP OWNER
+50.
+
+SACHIN
+50 aa? 50 nahi hai. Kerala me das ko milega.
+
+SHOP OWNER
+Ala aithe Kerala lo velli teesukopo.
+
+REENU
+Nuvvenduku ippudu show chestunnav?
+
+SACHIN
+Antha aypoyindi kada. Instagram quote okati cheppocchu kada. Baadha taggiddi.
+
+REENU
+Enti?
+
+SACHIN
+Neeku naakanna manchi ammayi dorikiddani aa?
+
+REENU
+Alanti quotations em levu. Andarikante nene manchidanni kabatti.
+(beat)
+Rey... Sachin.
+
+[Music]
+
+---
+
+INT. REENU'S HOSTEL — LATER
+
+Reenu enters, still carrying the xerox copies. Wanderlust is on the sofa, scrolling.
+
+REENU
+Vosey, neeku metro announcement la 100 saarlu cheppa. Velli bathroom lono terrace lono smoke chesukomani.
+
+WANDERLUST
+Arey, nuvvu ikkada levu ani...
+
+REENU
+Nenu ikkada lekapote propose chestava?
+
+WANDERLUST
+Propose aaa?
+
+REENU
+Chinna pillalla chestaru enti? Konchem concern chupisthe pelli chesukovala? Kampu kodutundi. Paiki velli taagupo.
+
+Karthika enters, bag on shoulder.
+
+KARTHIKA
+Hey, paina poyi taagave. Nenu vasta. Oyy Reenu!
+(beat)
+Okasari door teruvu kada.
+
+REENU
+Enti?
+
+KARTHIKA
+Adi... nenu repu papers pedutunnanu.
+
+REENU
+Ha? Nuvvu resign chestunnava?
+(beat)
+Aa enduku? Sudden ga nuvvu naakem cheppaledu kada?
+
+KARTHIKA
+Ippude memu decide ayyam. Aa... nenu Vikas varam nunchi aalochistunnamu.
+(beat)
+Vikas ki emo asalu Hyderabad ki transfer avvatledu. Ika nene Bengaluru shift avudam ani decide ayya. Vikas vaalla company lone almost job fix ayindi. Manchi package kuda istanu annaru.
+
+[Music]
+
+REENU
+Aithe nenu Wanderlust migultam ikkada. Adi unna practical ga lenatte. Inka nenu ontariga aipota.
+
+[Music]
+
+---
+
+INT. OFFICE — DAY
+
+Reenu at her desk. Adi leans over her shoulder.
+
+REENU
+Hey Adi, account creation testing chestunna. Savings account create chestunnappudu deentlo 18 years kanna chinnavallu account create cheyalerani vastundi.
+
+ADI
+Aithe adi mana test case lo kanipinchaledu.
+
+REENU
+Renu, neeku idi kuda evaro okaru nerpinchala? 18 ellu kanna mundu evariki salary raadu. Anthe kaadu. Vaallaki savings kaani loan accounts evi undavu.
+
+REENU
+Adi kaadu. Adi test case lo chupinchatledu.
+
+ADI
+Nenu moodu samvatsaralu nunchi nenu net banking lo work chestunna. Nenu code raasananta inthavaraku issue anedi raledu.
+(beat)
+Last year old tester Swathi ilane issue raise chesindi. Entha warn chesina tanu naa maata vinledu. Aa client manager Ralf Germany nunchi call chesi mari tittadu.
+(beat)
+Neeku kuda Germany nunchi call raavali ante raise chey.
+
+REENU
+Aa aithe oka pani cheddam. Ee scenario explain chestu nenu neeko mail chesta. Tirigi nuvvu naaku same reply ivvu.
+
+ADI
+Mail aa?
+(beat)
+Hey, intha experience unna naa paina nammakam leda neeku? Renu, nenu malli cheptunna, idi issue kaadu. Asalu sarele. Vellu.
+(beat, softer)
+Renu... aa neeku oka vishayam cheppali.
+(beat)
+Ade trip gurinchi. Naa worst experience telusa? Daaniki nuvvu kuda oka karanam. Nenu neeku chala saarlu cheppanu, roadside vaallani invite cheyyoddu ani. Ippati nunchi maaru konchem.
+
+[Music]
+
+---
+
+INT. TFC — DAY
+
+[Applause]
+
+Sachin stands behind the counter. The MANAGER beside him, beaming. A chicken crown sits on Sachin's head.
+
+TFC MANAGER
+Congratulations!
+
+SACHIN
+Thank you, sir.
+
+TFC MANAGER
+So guys, as you know, Sachin is our... Employee of the Month. So everyone, andaru be like Sachin, work like Sachin, and behave like Sachin.
+(beat)
+Right now, get back to work.
+
+Sachin reaches up to take the crown off.
+
+TFC MANAGER (CONT'D)
+No, no, no, no. Now you have to keep it for the whole day.
+
+SACHIN
+Is it compulsory, sir?
+
+TFC MANAGER
+Yes ra. You earned it. Pandaga chesuko.
+
+SACHIN
+(sighing)
+Order please.
+
+CUSTOMERS
+Chicken burger... oka chicken burger.
+
+The door opens. Reenu walks in. Sachin freezes.
+
+SACHIN (CONT'D)
+Excuse me, sir. Kiran... nuvvu enduku vachav?
+
+REENU
+Company interview ki ani call chesindi. Nuvvu phone ettaledu. Inka nenu neeku call chesina appudu kuda nuvvu phone ettaledu.
+(beat)
+Nuvvu phone enduku answer cheyyavu?
+
+SACHIN
+Work chese samayam lo nenu phone use cheyanu.
+
+REENU
+Kaani neeku interview call undi ani telusu kada?
+
+SACHIN
+Aa...
+
+REENU
+Ninnu refer chesi nenu joker ayya.
+
+SACHIN
+Nenu evaro daya meeda vacche job lo pani cheyyakoodadu ani decide ayyyanu.
+
+REENU
+Oo, ee aalochana mundu raleda neeku? Inka nee ishtam. Nuvvu ikkada emaina aastala kodiva?
+
+SACHIN
+Aa... a... Adi...
+
+REENU
+First teesi pade. Nenu ikkada intha serious ga maatladutunte, nuvvu eppudu free avutav? Nenu neetho konchem maatladali.
+
+SACHIN
+Nenu ikkada edu gantala daaka undali.
+
+REENU
+Sare, aithe nenu wait chesta.
+
+SACHIN
+Enduku?
+
+[Music]
+
+---
+
+EXT. TFC — LATER
+
+Reenu waits outside. Phone to her ear.
+
+REENU
+Subhash, I will call you later.
+(beat, quieter)
+Arey, nenu kuda konni mistakes... chesanemo anipistundi.
+
+[Music]
+
+Sachin steps out. Sees her. Stops.
+
+REENU (CONT'D)
+Nenu neeku chala wrong hopes istunnanu.
+(beat)
+Nenu nee kosam random ga chesina panulanni kuda nuvvu vere laagu teesukuntunnav.
+(beat)
+Anduke idanta apeddam anukuntunna. Ikkadi nunchi manam kalavadam, kalisi tiragadam vaddu. Edaina emergency unte tappa communicate avvaddu.
+
+SACHIN
+Nuvvem cheppava, Renu? I love you truly.
+
+REENU
+Sachin, please don't do this to me. Nenu ninnu take care chestunnanu anukunnanu tappa inkem ledu. Inka ippati nunchi aveemi nenu cheyanu, Sachin.
+
+SACHIN
+Nannu care cheyyadam nuvvu enjoy cheyyaleda? Nuvvu enjoy chesav ani naaku anipinchindi.
+
+REENU
+Sorry. Nenu enjoy cheyyaledu.
+
+SACHIN
+Neeku baga bhayam. Naatho time spend chesthe ekkada naaku padipothavemo ani bhayam. Adi samayam tho paatu premaga marutundi.
+
+[Music]
+
+SACHIN (CONT'D)
+Nuvvu nannu kevalam caring chesavanu anukuntunnav. Kaani naaku nee antha caring maa intlo kuda ivvaledu. Nenu chepthe neeku artham...
+
+REENU
+Sachin, inka aapey. Inka deep ga velthe nee... heart break avutundi. Idi ikkade aapeyyadam manchidi. Neeku naaku kuda.
+(beat)
+Ayina enduku intha baadhapadutunnav? Neeku idemi first rejection kaadu kada? Avuna?
+
+[Music]
+
+Sachin stands there. Something inside him goes quiet. He reaches into his pocket — pulls out his SIM card. Holds it out to her.
+
+She doesn't take it. He places it in her palm anyway.
+
+He walks away.
+
+[Music]
+
+---
+
+INT. SACHIN'S HOSTEL — LATER
+
+Sachin enters. Amol is at the desk, studying.
+
+SACHIN
+Door open ga pettocchu kada?
+(beat)
+Chaduvukuntunnava? Rice pedutunnava?
+(beat)
+Aa rey Amul. Reenu no cheppesindi.
+
+AMOL
+Aa no... cheppinda?
+(beat)
+Aa nuvvu propose chesava?
+
+SACHIN
+Avunu, nenu propose chesa. Kaani tanu no cheppesindi. Kaani Amul... pichha light ra.
+(beat)
+Nenu bane unna. Adi pothe poni. Manasulo bharam anta dinchesinatlu undi.
+(beat)
+Nenu inka happy ga unta. Nuvvu chudu. Rey, repati nunchi manam iddaram jogging ki vellali. Poddune legu.
+
+AMOL
+Nenu jogging aa?
+
+SACHIN
+Nuvvu poddune legalevu kada? Sare, em kaadule. Nenu okkadine veltha. 50 km per hour.
+
+AMOL
+Aa?
+
+Sachin starts humming. His voice is thin.
+
+SACHIN
+(singing)
+Galli lo telinatu unde gunde peli...
+(beat, flat)
+Chaduvuko, chaduvuko, chaduvuko.
+
+He stops. His face crumples. The first sob is silent. Then another.
+
+SACHIN (CONT'D)
+Naaku ee one side lo work out avvadura. Idanta naaku vaddu.
+(beat)
+College lo baadhapadina daanikanna ippudu rejection asalu... tattukolekapotunnara?
+
+[He cries. Amol doesn't move. Doesn't know how to.]
+
+SACHIN (CONT'D)
+Naaku ee one side vaddura. Aa roju... aa roju... pelli tarvata venta ventane vellipovalsindi Chennai ki!
+(beat)
+Nuvvu cheppinde ra correct.
+(beat, quieter)
+Rey Amul... nuvvere hero.
+
+[Music]
+
+---
+
+EXT. HOSTEL TERRACE — NEXT DAY
+
+Amol locks the door, ready to leave for class. Reenu comes up the stairs.
+
+REENU
+Enti? Ravaccha?
+(beat)
+Aa Sachin ninna night naaku phone icheesi velladu. Nuvvu tanaki istava?
+
+AMOL
+Tanu Chennai vellipoyadu.
+
+[Music]
+
+REENU
+Eppudu?
+
+AMOL
+Iroju poddunne.
+
+[Music]
+
+REENU
+Tanu naakem cheppaledu.
+
+AMOL
+Vaadu neekenduku cheppali? Ee communication vaddu ani nuvve vaaditho cheppav ga?
+
+[Music]
+
+AMOL (CONT'D)
+Tanu neeku propose chesinappudu idi nee first rejection em kaadu ani nuvvu vaaditho cheppavanta kada? Neeku vaadi premani reject chese right undi. Kaani vaadini insult chese right matram neeku e matram ledu.
+
+REENU
+Amulu... nenu kaavali ani hurt cheyyaledu.
+
+AMOL
+Aa ee abbayiki hurt avvadam sarada emi kaadu.
+
+[Music]
+
+---
+
+INT. CHENNAI PG — DAY
+
+Sachin sits on a cot, bag beside him. SATISH, his friend, leans against the wall.
+
+SATISH
+Rey, maa company lo job dorakadam kashtam ra. Ippudu vacancies levu.
+
+SACHIN
+Arey, nuvvu edho okati chesi naaku prastutaniki oka job ippinchara? Naaku kuda mimmalni ibbandi pettadam ishtam ledu.
+
+SATISH
+Aithe okati undi. Chestava? Naa paata job adi.
+
+[Music]
+
+SATISH (CONT'D)
+Arey, nuvvu naatho abaddham cheppav kada?
+
+SACHIN
+Enti?
+
+SATISH
+Renu. Nuvvu love chesukuntunnaru ani?
+
+[Music]
+
+SATISH (CONT'D)
+Hey, nenu baadha pettalani adagaledu ra. Life chala unfair ra. Special ga maalaanti singles ki. Light teesuko.
+
+[Music]
+
+---
+
+INT. REENU'S HOSTEL — DAY
+
+Karthika is packing. Reenu sits on the bed, watching.
+
+KARTHIKA
+Renu, nenu Vikas kalisi Hyderabad friends kosam oka function plan chestunnamu. Aa date inka fix avvaledu. Avvaganey cheptanu.
+
+[Music]
+
+REENU
+Okay.
+
+Karthika pulls out her phone.
+
+KARTHIKA
+(on phone)
+Hello Sachin. Nuvvu function ki vastunnav kada?
+
+[Music]
+
+SACHIN (V.O.)
+Nenu ravatledu. Nenu ikkada Chennai lo unna.
+
+KARTHIKA
+Ho, aithe ee friend kosam Chennai nunchi Hyderabad raleva?
+
+SACHIN (V.O.)
+Ralenu.
+
+[Music]
+
+Karthika hangs up. Looks at Reenu.
+
+The room is very quiet.
+
+---
+
+INT. REENU'S HOSTEL TERRACE — PARTY — NIGHT
+
+The party is in full swing. String lights. Music. WANDERLUST on a stool, singing with tremendous conviction and zero skill.
+
+WANDERLUST
+(singing)
+Karthika, this is for you! Surumagalendina mailaaji... Endina...
+
+[Singing continues, off-key]
+
+Sachin and Amol enter. They head straight for the bar.
+
+SOMEONE
+Aa aa, meeru vellandi. Phone maatladesi vastanu.
+
+[Music]
+
+SACHIN
+Bhayya, vodka.
+
+[Music]
+
+He pours. Drinks. Looks up.
+
+Reenu is across the terrace. She sees him. He raises his glass — a small, flat wave, like she's a stranger.
+
+She comes over.
+
+REENU
+Nuvvu Chennai nunchi vastunnava?
+
+SACHIN
+Ledu. Nenu inti nunchi vastunnanu. Naa visa approve ayindi. Nenu vellipothunnanu UK ki.
+
+[Music]
+
+REENU
+Eppudu?
+
+SACHIN
+Repu.
+
+REENU
+Repe veltunna? Ikkadi nunchi veltunnava?
+
+SACHIN
+Avunu. Naaku konchem pani undi anduke vacha. Alage Amul kuda kalustanu annadu. Repu podduna 11:30 ki flight ikkadi nunchi direct Dubai. Akkadi nunchi London.
+
+[Music]
+
+REENU
+Naaku kondaru friends unnaru UK lo. Neekemaina help kaavalante cheppu.
+
+SACHIN
+Vaddu. Avasaram ledu. Nenu manage chesukunta. Em parledu.
+
+REENU
+Nenu konni rojuluga neeku calls, messages chestunnanu. Nuvvu respond avvadam ledu.
+
+[Music]
+
+SACHIN
+Enduku respond avvali Renu? Nenu alisipoya. Neeku message chesthe single tick, double tick avvali. Aa double tick blue tick avutado ledo ani wait chesi, wait chesi nenu alisipoya.
+(beat)
+Ayina enduku call chesav? Edaina important vishayam aa? Ento cheppu.
+
+REENU
+Ledu. Ala maatladaka nuvvu hurt ayyav ani Amul naaku cheppadu.
+(beat)
+Appati nunchi naa manasuki prashantata lekunda poyindi.
+
+SACHIN
+Oo, nee manasuki prashantata ledu. Eppudu nee manase mukhyam kada aa...
+
+A KID runs up and grabs both their hands.
+
+KID
+Naanna! Amma! Nenu... naanna, amma...
+
+SACHIN
+Rey, cheyyi vadilara. Rey.
+
+KID
+Naanna, amma, nenu...
+
+SACHIN
+Veedu ekkada nunchi vachadu?
+
+ADI appears. He takes the kid's hand gently.
+
+ADI
+Hey chinnu. Mee amma naanna ila ninnu kanni vadilesaru. Mee amma naanna dagariki velli appudu ilane cheppu. Ela cheptav? Amma, naanna, nenu sarena? Vellu, vellu, vellu, vellu. Chocolate waste ayindi.
+
+[Music]
+
+He looks up. Sees Sachin and Amol.
+
+ADI (CONT'D)
+Vaannani chuste evaro training ichinattu undi. Amul Davis, nuvvena? Leda vaadiki emaina mandu posara?
+(beat, flat)
+Sachin. Amul. We need to talk.
+
+SACHIN
+Oo, opika leda? Aadhi, memu already tired ga unnam. Alage konchem taagesi unnam. Adi nuvvu vellipovadam manchidi. Manam tarvata maatladukundam... aa...
+
+[Music]
+
+ADI
+I insist.
+
+SACHIN
+(sighing)
+Sare raa.
+
+[Music]
+
+SACHIN (CONT'D)
+Renu, two minutes. Memu ippude vastam.
+
+[Music]
+
+---
+
+EXT. TERRACE — CORNER — CONTINUOUS
+
+Adi stands with Sachin and Amol. The party noise is distant.
+
+ADI
+Nenu meeku chirak teppinchina kani meeru naaku inka chiraaku teppincharu.
+(beat)
+Sachin, what's your problem? Renu chala baadhaga undi.
+
+SACHIN
+Enduku? Intlo WiFi raavatleda?
+
+ADI
+Because of you.
+
+SACHIN
+Nuvvu em antunnavo naku artham kaavatledu.
+
+ADI
+Ippudu arthamavutundi.
+
+SACHIN
+Aa...
+
+ADI
+Maa net banking team oka family laga.
+
+SACHIN
+Hum.
+
+ADI
+Now it's like a dysfunctional family. Maa kutumbam bane undedi. Shravani pelli varaku. Then you two came.
+(beat)
+Appati nunchi ee function varaku maa kutumbamlo cheeda purugulaga vachi entha penta cheyyalo antha chesaru.
+(beat)
+Evo maaya maatalu cheppi cars teesukoni velli sentiment tho ammayiki train lo kaapala kaasi birthday ki cake kosi, trip lo naa noru moosi... evo pichha pichha aakulu ichchi vasaparuchukoni.
+
+SACHIN & AMOL
+Pichha aakula...
+
+ADI
+Asalu em pettaru ra amayakuralaki? Hand poison!
+(beat)
+Sachin, tell me what's your problem, man.
+
+SACHIN
+Prema.
+
+[Music]
+
+ADI
+What?
+
+SACHIN
+Vinipinchaleda? Naaku tanante bhayankaramaina prema. Aa vishayam tanaki cheppanu. Pakkakelli aadukomandi. Nenu next roje moosukoni vellipoya. Ippudu kuda UK... ayyo sir ki ivevi teliyadu kada.
+
+ADI
+Propose kuda chesava nuvvu?
+
+SACHIN
+Mari neelaga bestie ani foreplay chi... role play cheyyala? Aa naaku padaledu. Neeku kuda padadu. Nuvvu gukka petti edustav chusuko. Naakunna anubhavam tho cheptunna. Andukane nuvvu ventane velli em cheppalanukunnavo ippude cheppesey.
+
+[Music]
+
+ADI
+What? Aa naaku Renu payina prema... really?
+
+SACHIN & AMOL
+(laughing)
+Adi... pora... pora.
+
+ADI
+Sachin. Moodu balenattu undi.
+
+SACHIN
+Bane unnaane.
+
+ADI
+Manam tarvata maatladudam. Amul Davis, Sachin ni teesukupo.
+
+AMOL
+Vaadu untadu. I insist. Maryadaga anni moosukoni maa paataki memu mandu taagutunte ikkadiki teesukochchi kurchobetti. Aa nuvvu sachchinattu ippudu maatladara? Appude potam...
+
+SACHIN
+Ayyo rey Amul, cool ra.
+
+KARTHIKA
+Reenu, tondaraga edho okati chesi vaallani aapave. Vellu.
+
+ADI
+Oov... oov... oovvv... relax.
+(beat)
+Nenu Reenu ni love chestunnanu anukoni ee cheap show chestunnaru kada.
+
+AMOL
+Aa...
+
+ADI
+Naatho Renu love lo undo ledo telidu. Bahusha meetho cheppi undocchu.
+(beat)
+Meeku ade kaavalanukunte I am really sorry. Guys, nenu tirigi tanni love chesta thappadu.
+
+[Music]
+
+ADI (CONT'D)
+Because we are in a very good vibe, ya Renu vachindi.
+
+[Music]
+
+ADI (CONT'D)
+Kaavali ante tananey adagandi.
+
+SACHIN
+Vachavaaa...
+
+ADI
+Renu? Nee manasu vippi cheppalsina samayam vachindi. Now tell me, do you love me?
+
+REENU
+Noooooo...
+
+SACHIN
+Sachin chaalu. Inka?
+
+SACHIN & AMOL
+(laughing)
+
+ADI
+Nenu question artham avvaledu anukunta.
+
+ADI
+Baga arthamayindi. Ayina nuvvu ishtam ledu.
+
+SACHIN & AMOL
+(laughing)
+
+ADI
+Oo, ninnu office lo tittindi manasulo pettukunnava? Nenante ishtam ani cheppesey. Parvaledu.
+
+REENU
+Aadhi, neekemaina pichha?
+
+SACHIN & AMOL
+(burst out laughing)
+
+ADI
+Reenu, ippudu JK vaddu. Andaru chustunnaru.
+
+REENU
+Nuvvu nee JK... naaku nuvvu nee JK'lu asalu nachchavu.
+
+SACHIN & AMOL
+(burst out laughing)
+
+ADI
+Any reason?
+
+REENU
+100 reasons unnayi. Trip lo nenu ninnu pattinchukoledani. Project lo nannu mislead chesi nannu problems lo padesi revenge teerchukunnav. Correct ga review meeting mundu mingesav.
+
+ADI
+Reenu, let me explain. Nenu appudu Visakhapatnam lo...
+
+REENU
+Gaddi peekadaniki vellava?
+
+ADI
+Exactly.
+
+SACHIN & AMOL
+(burst out laughing)
+
+ADI
+Appudu lunch time lo naatho pelli adi annav?
+
+REENU
+Oo... Aadhi, it was a game. Subhash ki kill ani cheppa. Ala ani Subhash ni champestana?
+
+ADI
+Aa... no?
+
+SACHIN & AMOL
+(laughing)
+
+ADI
+Sa guys, Reenu nannu love cheyyatledu.
+
+SACHIN & AMOL
+(laughing)
+
+SACHIN
+Orey, ade kadara memu neeku appati nunchi cheppedi aa...
+(beat)
+Kallallo neellu vastunnay entra?
+
+AMOL
+Insta lo neelantivaallani em antaro telusa? Chetha gaani kodukulu.
+
+ADI
+Rey Amul...
+
+AMOL
+Enti?
+
+ADI
+Naaku vaadiki issue undi. Aa madhyalo neetho entira? Naaku issue...
+
+AMOL
+Sare, nuvvu adugutunnav kabatti cheptunna. Aa roju trip lo Yuvan Shankar Raja paata paadutunnappudu nuvvu naatho emanav? Gurtuledu anukuntunnava?
+(beat)
+Yuvan Shankar Raja paata baledu antava? Aa roje nenu ni dikki pagalakodama ani gattiga decide aipoyanu.
+
+SACHIN
+Rey! Nuvve kadara nannu naa comfort zone nunchi bayatiki rammandi. Naa shells pagalukotti raavali annadi. Ippudu avanni pagilipoyinayi. Rara, adi chusukundam raaa...
+
+KARTHIKA
+Vadileyandi ra?
+
+ADI
+Alaga... I came prepared. Come... fist fight randi... Srini, aadavallani lopalki teesukellu. Raktam chuste bhayapadtaru... Randira.
+
+AMOL
+Devudava... ippudu kuda vedu WhatsApp lo memelu chestundu...
+
+SACHIN
+Karthikaaa... enti veedu? Aadhi Jabardast skitlu chestadani naaku cheppalede...
+
+AMOL
+Vadu mimicry kuda bane chestadu anukunta. Are baccha, idi cheyyara? Butterfly... butterfly... where are you... going, going ani chesi chupinchara?
+
+ADI
+Eraaa... chupincha? Chupincha?
+
+EVERYONE
+Enduku vadile? Adi... Aadhi... vadiley...
+
+SACHIN
+Aa nuvvu cult lo kothaga join ayyavani extra cheyyaku. Naaku kandalu avasaram ledu. Ninnu kottaleka kaadu. Naa noti maatalake murder aipothav... aa.
+
+AMOL
+Erra CBSE state syllabus students gurinchi teliyadara? Erra Sachinu...
+
+SACHIN
+Haaa...
+
+Adi is on his feet now, fists clenched. Amol and Sachin keep roasting him. In the background, Wanderlust keeps singing nonsense, oblivious.
+
+SUBASH
+Oo pilla, nuvvu aapamma. Thu... thu... thu anukuntunu. Cycle kuda limit untadi. Aapu.
+
+ADI
+Nenu enduku aapali?
+
+SUBASH
+Nuvve aapali. Nuvve start chestav kabatti nuvve aapali. Aapu.
+
+ADI
+Okay, fine. I am leaving. I am leaving.
+
+SACHIN
+Ayooo... moosukoni poraa. Intiki velli Excel lo aaduko. Po.
+
+AMOL
+Pora...
+
+REENU
+Sachin. Stop it.
+
+SACHIN & AMOL
+(laughing)
+
+Adi walks off. Then turns back.
+
+SACHIN
+Amma baboi. Endeavour malli U-turn teesukuntundi ra...
+
+ADI
+I will show you guys who I am.
+
+SACHIN
+Ayyo Adi... Adi Kutti, velli Snapchat lo message chey. Streak maintain ayyidi...
+
+REENU
+Sachin... chaalu inka. Aapandi.
+
+SUBASH
+Nuvvu aaputava? Vadu ellipoyadu.
+
+SACHIN
+Sarle, aapesa. Naa undi idhi okkate.
+
+AMOL
+Naaku oka half unchu ra.
+
+[laughing]
+
+SACHIN
+Ippudu hayiga undi.
+
+AMOL
+Naaku kuda hayiga undi.
+
+[Music]
+
+---
+
+EXT. TERRACE — HOURS LATER
+
+The party has thinned. Sachin is asleep on a lounger. Amol beside him, also out. Reenu kneels beside Sachin.
+
+REENU
+Sachin, legu. Inka meeru intiki vellara?
+
+SACHIN
+(mumbling)
+Padukoni kaasepu...
+
+[Music]
+
+REENU
+Ikkada chala chaliga undi. Nenu kindaki veltunna. Lechi meeru intiki vellandi.
+
+Karthika comes over.
+
+KARTHIKA
+Sachin. Sachin, legu.
+(beat)
+Hey... vaallani padukoni taagindi. Digaka melliga digi vellipotaru le.
+
+SACHIN
+(half-asleep)
+Evaraina naaku... oka... dindu estara? Naa brain ki basement avasaram. Asale chala sensitive adi.
+
+[Music]
+
+REENU
+Idigo, teesuko. Idigo... teesukooo...
+
+[Music]
+
+Sachin lifts his head. The pillow she's handed him is heart-shaped. He stares at it, confused. Then he sees the photo pillow beside it — Karthika and Vikas. He takes the heart pillow. Sleeps.
+
+SACHIN
+Aa... oo... nuvvu ichchava?
+
+[Music]
+
+SACHIN (CONT'D)
+(mumbling)
+Thanks. Thank you, Miss Reenu. Good night. And goodbye.
+
+[Music]
+
+---
+
+EXT. TERRACE — MORNING
+
+Sachin wakes. Checks his watch. Today is the UK flight. He and Amol get ready. Wait for the car.
+
+THOMAS pulls up. Sachin looks around — once, twice — checking if Reenu is coming to say bye.
+
+THOMAS
+Hi ra Amul. Hi maccha.
+
+SACHIN
+Hi bro... I...
+
+AMOL
+Nuvvu kurcho.
+
+SACHIN
+Nena...
+
+Nothing. The terrace is empty.
+
+AMOL
+Pada, veldam.
+
+The car starts. Moves.
+
+[Music]
+
+KARTHIKA (O.S.)
+Amul baby! Oo Amul baby!
+
+Karthika runs up, phone in hand.
+
+KARTHIKA (CONT'D)
+Nenu eppati nunchi call chestunnanu. Nuvvu phone enduku lift cheyyatledu?
+(beat)
+Sachin, nee phone enduku kalavatledu?
+
+SACHIN
+Adi nenu flight lo veltunnanu ani phone flight mode lo pettesa...
+
+KARTHIKA
+Ikkadi nunchi ena?
+
+[Music]
+
+SACHIN
+Aaa...
+
+KARTHIKA
+(holding out a jacket)
+Idi nenu nee kosame konnanu. Jacket.
+
+SACHIN
+Thanks.
+
+AMOL
+Renu... nuvvu e gift teledu aa...
+
+THOMAS
+Amul? It's getting late.
+
+[Music]
+
+AMOL
+Sare, memu veltam inka.
+
+SACHIN
+Padara, podam.
+
+REENU
+Sare, nenu meetho raavaccha?
+
+AMOL
+Aithe twaraga ekku. Mari late avutundi.
+
+KARTHIKA
+Aa, vellu...
+
+THOMAS
+Aa... why she is getting in the car? Amul, what is this?
+
+[Music]
+
+AMOL
+Aa, neeku teliyala? Enti? Mosakoni kurchara? Pulchukka...
+
+KARTHIKA
+Sachin, all the best. Tata.
+
+[Music]
+
+---
+
+EXT. OUTER RING ROAD — LATER
+
+The car cruises. Sachin in the front. Reenu behind him. Amol and Thomas in the back.
+
+Some distance behind — an ENDEAVOUR. Adi at the wheel. PURUSHOTTAM beside him. Three men in the back, rods across their laps.
+
+ADI
+Purushottam.
+
+PURUSHOTTAM
+Cheppali babu.
+
+ADI
+Sachin. Amul.
+(beat)
+Vaalle mana targets. Vaalla rendu chethulu, rendu kaallu viragagottu.
+
+PURUSHOTTAM
+Aa...
+
+ADI
+Vaallatho paatu oka ammayi undi. Aa ammayini em cheyyaku. Tanani nenu chusukunta.
+
+PURUSHOTTAM
+Aa kallu addalu pettukuna odi sangathi enti?
+
+ADI
+Vaadu evado telidu. Madhyalo vaste... vaadi kallu peekay.
+
+PURUSHOTTAM
+Nuvvu Visakhapatnam lo polam panlu aapesukuni Hyderabad rammante ilantidi edho okati untadi ani munde cheppanu veellaki.
+(beat)
+Era...
+
+OTHER VILLAINS
+Hmm...
+
+ADI
+Outer Ring Road daataka oka place undi. Akkada evadu em chesina evariki teliyadu.
+(beat)
+Ippudu poyi vaallani pattukundam.
+
+[Music]
+
+---
+
+INT. THOMAS'S CAR — CONTINUOUS
+
+SACHIN
+Rey Amul, ippudu airport ki vellaka em cheyyali? Nenu intaku mundu eppudu vellaledu.
+
+AMOL
+Chudu, nuvvu first nee chethilo unna ticket ni chupinchi lopalki vellu. Tarvata vaallaki luggage ivvu.
+
+SACHIN
+Aa aa adi kaadu. Edho pass kaavali ani cheppave. Ee subject adi?
+
+AMOL
+Arey... adi boarding pass. Antha tension padaku. Luggage ichchinappudu istaru adi.
+
+SACHIN
+Akkada manalni belt teeseyamantaru kada...
+
+AMOL
+Are, poddune neeku antha neat ga explain chesanu kadara? Malli malli adugutav enti?
+
+SACHIN
+Adi sare... sare... gurtundi, gurtundi. Naa pant konchem loose ga undi. Ade na tension?
+
+REENU
+Vaallu malli nee belt tirigi icchestharu. Adi security check anthe. Tarvata immigration untundi.
+
+SACHIN
+Rey Amul, 30,000 feet height lo aeroplane veltundanta kada?
+
+AMOL
+Aithe?
+
+SACHIN
+Ante naaku aeroplane lo edaina ayyindanuko...
+
+AMOL
+Neekedaina aithe andaru chala santoshamga untaru le.
+
+SACHIN
+Haa... adi correcte. Naaku edaina aithe pattinchukune vaallu evarunnarule...
+
+REENU
+Are, statistics prakaram chala takkuva accidents.
+
+SACHIN
+Aa... avi nammi ee IPL lo motham poyindi anthe.
+
+REENU
+Noru moosukoni vinu ra. Urukuntunnanu kada... ani over action chestunnadu. Tala tirugutundi raatri nunchi.
+
+SACHIN
+Reenu... nuvvu naa viswaroopam chudaledu inka.
+
+REENU
+Nenu already chusa. Binocular lo clear ga aa...
+
+SACHIN
+Eyaa... eppudu?
+
+REENU
+Enti nee problem?
+
+SACHIN
+Ayyo... naakem problems levu. Nenu chala sukhanga unna. Naakem pani ledu. Intiki kuda vellalenu. Ippudu chudu vere deshaniki velli kukkala pani cheyyali. Happy life.
+
+REENU
+Anthа kashtapadi enduku veltunnav? Mari vellaku, undu.
+
+SACHIN
+Vellakunda nenu inka TFC lo pani chestu kurchovala? Vaalla amma paapam anukoni aa property naa peru meeda raasi icchestada?
+
+THOMAS
+No man. TFC eppatikaina naake.
+
+SACHIN
+Naaku matram nuvvu ekkadiki velladam ishtam ledu. Nuvvu akkadiki velli survive avvalevu, Sachin.
+
+REENU
+Mari naaku inka vere option emundo kuda nuvve cheppave.
+
+AMOL
+Guys, meeru panic avvanante meeku oka vishayam cheptanu.
+
+SACHIN & REENU
+Entadi?
+
+AMOL
+Oka Endeavour car chala sepu nunchi follow chestundi. Nenu enni short cuts teesukuna vaallu manalne follow chestunnaru.
+
+REENU
+Adi Aadhi car la undi.
+
+SACHIN
+Haaaa? Aadhi aaaa...
+
+THOMAS
+Who is Adi?
+
+[Music]
+
+SACHIN
+Rey Amul, nuvvu tondaraga pora. Vaadu mana meeda revenge teesukovadaniki vastunnadu. Twaraga vellu. Nenu ninna raatri em maatladano kuda naaku gurtuledu.
+
+REENU
+Aa Sachin. Nuvvu panic avvaku. Nenu... Aadhitho maatladta.
+
+AMOL
+Nenu cheptune unna Aadhi anna ni em annodu ra ani.
+
+[Music]
+
+SACHIN
+Chudara vaalla chethullo rods unnayi.
+
+REENU
+Hello Aadhi...
+
+ADI
+[Angry face]
+
+Adi hands the phone to Purushottam.
+
+PURUSHOTTAM
+(shouting into phone)
+Aaaaaaa! Aaaaaaaaa! Aaaaaa! Aaaaaa!
+
+[Music]
+
+REENU
+Enti pichchodula arustunnadu?
+
+SACHIN, AMOL, & THOMAS
+Ayoooooooo...
+
+[Music]
+
+REENU
+Meeru bhayapadakandi. Aadhi manalni bhayapettalani chustunnadu. Naaku telusu Adi gurinchi.
+
+SACHIN
+Haa... avuna? Neeku baga telusu kada Adi gurinchi?
+
+REENU
+Sachin, nuvvu inko maata maatladithe bagodu cheptunna...
+
+[Music]
+
+SACHIN
+Mari nuvve kada annav ee mentalode nee bestie ani.
+
+Adi's car hits them from behind. Everyone screams.
+
+Inside the Endeavour, Adi is grinning.
+
+PURUSHOTTAM
+Aadhi babu. Mana boys rods tippi tippi chethulu alisipoyinayi. Oka chinna break kaavali please.
+
+ADI
+Vaddu... inka bhayapadali.
+
+[Music]
+
+SACHIN
+Poyindi, poyindi. Nenu UK vellalanna korika sachipoyindi. Rey Amulu, bandi pakkaki apu ra. Vaallu em chesukuntaro chesukoni. Nannu champayeniii...
+
+AMOL
+Poooraaaa...
+
+PURUSHOTTAM
+Please, entho sepu kaadu. Konchem sepe paapam boys.
+
+OREY
+Tammudu da da.
+
+REENU
+Sachin, bhayapadaku. Nuvvu UK ki vellakapoyina em kaadu. Akkadiki vellina okkadive em peekalevu.
+
+SACHIN
+Okkadini unte em peekalena? Mari ikkada unte nuvvu chusukuntava?
+
+REENU
+Aa... nenu chusukuntanu.
+
+SACHIN
+Hainnnnn?
+
+THOMAS
+Aa nuvvu tondaraga poneera.
+
+REENU
+Nuvvu Hyderabad vadili velladam naaku ishtam ledu. Nuvvu lekunda nenu asalu... undalekapoyanu.
+(beat)
+Aa roju adigav kada nannu caring ga chusukovadam enjoy cheyyaleda ani? Chala enjoy chesanu. Nuvvante chala ishtam naaku.
+
+[Music]
+
+REENU (CONT'D)
+Nenu ninnu chala miss avuta. Nenu ninnu miss chesukolenu.
+
+AMOL
+Ayyo... nuvvu vaadiki cheppedi edho clear ga cheppu kada.
+
+REENU
+Nijam cheppalante nuvvu naa life partner concept ki exact opposite ga unnav... Kaani gut feeling tho cheptunna... I think I am falling for you.
+
+SACHIN
+Hainnnnn?????
+
+AMOL
+Ayyooo... vaadiki antha English raadu. Kaani Telugu lo cheppu.
+
+REENU
+(beat)
+Sachin. I love you.
+
+Sachin stares. His face breaks into something between shock and joy.
+
+[Music]
+
+Adi's car swerves in front, cutting them off.
+
+Thomas throws open his door and runs.
+
+THOMAS
+I'm going! All the best! Car jagratha!
+
+AMOL
+Rey mitra drohi! Agra...
+
+Adi and his men surround the car. Rods out. Everyone is frozen. Sachin checks his watch — he's going to miss his flight.
+
+SACHIN
+Aadhi... Adhi... Aadhi broo... sorry. Sorry, ninna raatri vodka taagesa. Nuvvu chusav kada. Taagina motthamlo edho maatlada. Personal ga teesukoku bro. Nannu nee tammudini anukoni kshaminchu.
+
+REENU
+Okasari cheppedi vinu. We can talk...
+
+ADI
+Your talk time is over. Inka action ye papa.
+
+SACHIN
+Ayyo, tannuni em cheyyoddu.
+
+REENU
+Hate cheyyadaniki 100 reasons annav... idi 101vo reason.
+
+Adi punches Sachin in the stomach. Sachin doubles over.
+
+AMOL
+Adi anna, vaadiki appendix operation ayyindi anna. Vadileyandi please.
+
+REENU
+Aadhi please. Aadhi, kattaku. Aadhi...
+
+AMOL
+Test teeskovadaniki UK veltunnadu anna. Vadileyandi anna.
+
+REENU
+Vadiley. Aadhi, Aadhi vadiley... Kottaku please.
+
+ADI
+Aadavalla meeda cheyyi chesukunna peru naaku vaddu. You know I am myself a feminist. Kaani nuvvu adda padithe champadaniki kuda venakaadanu. Tappukpo ve...
+
+[Music]
+
+Purushottam hands Adi a rod.
+
+PURUSHOTTAM
+Aadhi babu, idigo vesay...
+
+Reenu pulls out her PEPPER SPRAY — the one Adi himself handed out at the office. She sprays it directly into his eyes.
+
+Adi drops. Screams.
+
+PURUSHOTTAM
+Emaindi? Emaindi babu? Babu?
+(beat)
+Asalu kala addalu enduku teesav babu? Feel kosam.
+
+PURUSHOTTAM (CONT'D)
+Rey, randi, randi babu. Lepandi, randi. Lepandira.
+(beat)
+Lepandi, ekkinchandi. Rey jagratha, jagratha. Melliga, melliga. Chusukondira.
+
+Reenu, Amol, and Sachin pile into the car. They peel out.
+
+PURUSHOTTAM (CONT'D)
+Babu, babu. Oka vishayam cheppadam marchipoya. Mana boys lo evariki driving raadu.
+(beat)
+Sorry, nuvvu drive chestava babu?
+
+ADI
+Oreyyyyyyyyyy.........
+
+[Music]
+
+---
+
+EXT. AIRPORT — LATER
+
+The car screeches to a stop. Reenu and Sachin jump out.
+
+REENU
+Ra, digu.
+
+[Music]
+
+REENU (CONT'D)
+Aa... arey, time ledu.
+
+[Music]
+
+SACHIN
+Nammalekapotunna. Manam enni chotlu tiragam kada? Old Hyderabad, New Hyderabad, Tank Bund, Prasad IMAX. Kaani neeku manam kaasepulo chastam ante kaani naaku I love you cheppalanipinchaleda?
+
+[Music]
+
+REENU
+Sachin, neeku chalasaarlu cheppanu. Nee noru control lo pettukomani. Ayina neeku English raadu kabatti nuvvu UK lo safe gane untavule.
+
+[Music]
+
+SACHIN
+Adi kaadu. Indaka nuvvu propose chesinappudu nenu asalu enjoy cheyalekapoya. Ippudu naa kosam proper ga cheppocchu ga.
+
+[Music]
+
+Reenu steps forward. Hugs him. Tight. Doesn't let go.
+
+[Music]
+
+SACHIN (CONT'D)
+Nijam ga idanta jarugutunda? Nenu inka single kaadu kada?
+
+REENU
+Kaadu.
+
+[Music]
+
+REENU (CONT'D)
+Inka manam ippati nunchi long distance relationship lo undali. Let's see.
+
+AMOL
+Nuvvu ide edho munde chesi unte vaadiki South India motham solo travelling chese pani tappu undedi kada. Chaalule. Inka flight ki time avutundi.
+
+SACHIN
+Moham pagilipoddi.
+
+[Music]
+
+He hugs her again. Tighter. Amol gets a hug too.
+
+SACHIN (CONT'D)
+Velli vasta.
+
+REENU
+Sare.
+
+[Music]
+
+She takes his head in her hands. Kisses his forehead.
+
+He looks at her — really looks at her.
+
+REENU (CONT'D)
+Okay. Sare, inka vellu. Late avutundi.
+
+[Music]
+
+SACHIN
+Okay... bye...
+
+AMOL & REENU
+Bye...
+
+Reenu and Amol get back in the car. They pick up Thomas on the way. Sachin watches them go.
+
+He pulls out his phone. Opens WhatsApp.
+
+TITLE: THE PURSUIT OF HAPPYNESS
+
+---
+
+FLASHBACK — EXT. REENU'S HOSTEL TERRACE — NIGHT
+
+Karthika, Reenu, and Wanderlust sit on the terrace. Beers in hand.
+
+KARTHIKA
+Ee ammayi aina eddava ke padutundi. Alane kada nuvvu college lo okadiki padindi? Vaani peru enti... aa... edo Joshi?
+
+[Music]
+
+REENU
+Ebin Joshi.
+
+KARTHIKA
+Aa Ebin Joshi ki paddav kada?
+
+REENU
+Adanta aa age lo... see, vaadu nenu chupinchina caring ishtapadaledu. Inka chiraaku vesi nene vaadini dobbey anna.
+
+KARTHIKA
+Saare... Oyy Wanderlustuuu... mana Reenuki oka eddava ni et cheyavee...
+
+[Music]
+
+WANDERLUST
+Done.
+(beat)
+Hmm... hmmm... hmmu.
+(raising her beer can)
+Nenu ee beer can ni kinda vestha. Idi evari meeda padutundo nuvvu vaallani pelli chesukovali... chesukovaliiii...
+
+She drops it.
+
+Down on the road, Sachin and Amol are drunk, dancing, singing.
+
+SACHIN & AMOL
+(singing)
+Loose... abbaiee... nee pichiekki... loose ayi poyene...
+
+The can falls. Hits Sachin on the shoulder.
+
+An OLD MAN passing by stops. Scolds them.
+
+OLD MAN
+Osey, chetta mokham daana. Kallu kanapadatalevayee?
+(beat)
+Chusukunta eyyalineee. Chetta... chetta mokham daana. Ippude full kotti vachina motham digi poind...
+
+[Music]
+
+Sachin picks up the can. Grins at Amol.
+
+They start kicking it down the road like a football.
+
+FADE OUT.

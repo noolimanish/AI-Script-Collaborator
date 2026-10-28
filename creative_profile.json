@@ -1,51 +1,35 @@
 {
-    "preferences": [
-        {
-            "created_at": "2026-10-12T17:10:21",
-            "text": "I prefer natural, imperfect conversations. Characters should not explain every feeling directly. Humor should emerge from personality and situations.",
-            "source": "migrated"
-        },
-        {
-            "created_at": "2026-10-12T17:15:29",
-            "text": "I prefer character-specific humor based on behavior, personal flaws, relationships, and bad decisions. Avoid generic witty one-liners and familiar rom-com character templates.",
-            "source": "migrated"
-        },
-        {
-            "created_at": "2026-10-12T17:44:11",
-            "text": "My comedy preference: I like characters who are naturally funny without trying to be comedians. They may say inappropriate things even during serious situations without realizing it. Their spontaneous dialogue, expressions, reactions, and attempts to cover up what they said create comedy. I prefer humor that emerges naturally from the character's personality and situation, rather than planned punchlines.",
-            "source": "migrated"
-        },
-        {
-            "created_at": "2026-10-12T17:45:17",
-            "text": "When helping me develop characters, understand my creative thinking rather than giving me generic writing advice. I imagine scenes, dialogues, expressions, reactions, conflicts, and story opportunities. Help me develop my ideas without replacing them with your own generic ideas.",
-            "source": "migrated"
-        },
-        {
-            "created_at": "2026-10-13T16:33:50",
-            "text": "I prefer comedy based on character behavior, not forced punchlines.",
-            "source": "migrated"
-        },
-        {
-            "created_at": "2026-10-13T16:39:55",
-            "text": "I prefer natural character-based comedy.",
-            "source": "migrated"
-        },
-        {
-            "text": "Comedy should emerge from character behaviour and bad decisions, not forced punchlines.",
-            "category": "style",
-            "created_at": "2026-10-15T02:32:02",
-            "updated_at": "2026-10-15T02:32:02",
-            "source": "explicit_user"
-        }
-    ],
-    "preference_evidence": [
-        {
-            "existing_preference": "I prefer natural, imperfect conversations. Characters should not explain every feeling directly. Humor should emerge from personality and situations.",
-            "new_wording": "I prefer natural character-based comedy.",
-            "source": "manual",
-            "reason": "The new preference is a concise restatement of the humor and character dynamics already established in the existing preference.",
-            "new_information": "",
-            "created_at": "2026-10-13T17:05:50"
-        }
-    ]
+  "preferences": [
+    {
+      "category": "comedy_engine",
+      "text": "Comedy must emerge strictly from character behavior, misplaced confidence, flawed ego defense, and clumsy attempts to cover up a mistake or lie—never from standup punchlines or artificial witty one-liners.",
+      "created_at": "2026-10-12T17:10:21",
+      "source": "explicit_user"
+    },
+    {
+      "category": "quiet_drama",
+      "text": "In serious or emotional scenes, avoid melodrama and direct emotional confessions. Characters should hide what they feel. Shift the emotional weight into mundane physical actions, domestic routines, and heavy silences.",
+      "created_at": "2026-10-27T02:00:00",
+      "source": "explicit_user"
+    },
+    {
+      "category": "dialogue_code_switching",
+      "text": "Preserve natural Hyderabad Telugu-English code-switching. Characters shift language based on emotional pressure: English is used for authority, technical excuses, or maintaining face; Telugu is used when cornered, frustrated, or vulnerable.",
+      "created_at": "2026-10-27T02:00:00",
+      "source": "explicit_user"
+    },
+    {
+      "category": "scene_pacing",
+      "text": "Anti-Compression Rule: Never rush to plot resolution. In comedic confrontations, characters must stall and double down across at least 3 escalating exchanges before reality catches up with them. Let physical reactions and awkward pauses breathe.",
+      "created_at": "2026-10-27T02:00:00",
+      "source": "explicit_user"
+    },
+    {
+      "category": "collaboration_rule",
+      "text": "Act as a co-writer and director. Understand the creative mechanism behind my premise rather than replacing it with generic rom-com tropes or standard formulas. Never preach or explain how a scene works after writing it.",
+      "created_at": "2026-10-12T17:45:17",
+      "source": "explicit_user"
+    }
+  ],
+  "preference_evidence": []
 }

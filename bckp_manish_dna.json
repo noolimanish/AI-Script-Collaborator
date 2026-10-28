@@ -1,0 +1,85 @@
+{
+    "last_updated": "2026-10-26T16:49:19",
+    "rules": [
+        {
+            "category": "comedy_engine",
+            "rule": "Deflect absolute failure through circular relativism: when confronted with hard metrics of inadequacy, force the interrogator into an infinite comparative loop (e.g., claiming subject A went better than subject B, while B was better than C, and C better than A) or invent ad-hoc baseline scales to manufacture the illusion of competence.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Ego defense via displaced lecturing: when a character experiences private humiliation or a self-inflicted mistake, they relieve shame by violently scolding an innocent bystander for the exact transgression they just committed, using the bystander as an unwilling surrogate to vent their own self-reproach.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "The domino of secret altruism: escalate an illicit group cover-up by having each accomplice independently carry out an uncoordinated 'favor' to protect the others, resulting in a chain of mutual counter-sabotage where everyone ends up implicated by their friends' attempts to save them.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "scene_structure",
+            "rule": "Button the scene on a silent voyeuristic punctuation: instead of closing on a verbal zinger or tidy conclusion, end on an unanswered physical gesture or the protagonist silently peeking around a partition/window to witness the unresolved fallout of their own scheme.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "When an authority figure unleashes an escalating, high-stakes berating lecture, build the comedy through the protagonist's passive non-reaction and physical compliance, punctuated by a single deadpan deflection that misinterprets the insult to expose the parent's own domestic hypocrisy.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Ground nostalgic voiceover and time periods using tangible micro-economic benchmarks (e.g., street food prices, telecom shifts) and conversational street vernacular rather than formal exposition or dates.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "scene_structure",
+            "rule": "Conclude intense interpersonal conflicts by allowing the verbal aggression to hang in awkward silence, then capping the scene with an internal voiceover beat that reclaims power by exposing the antagonist's private moral hypocrisy.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Ground devastating interpersonal ruptures in routine domestic labor, forcing characters to physically channel suppressed trauma through mundane chores (e.g., washing laundry, serving a meal) and invent immediate, fragile euphemisms around incriminating household items to shield innocent observers.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor familial abuse and emotional escalation in raw, rhythmic street vernacular and localized insults, while sharply pivoting to sterile English loanwords exclusively when addressing institutional, medical, or administrative realities.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_structure",
+            "rule": "Conclude high-intensity confrontations on silent, emotionally paradoxical physical gestures—such as a wounded smile, a frozen gaze across physical distance, or a sudden blackout on an unvoiced reaction—rather than giving the scene a neat verbal summation.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Establish emotional intimacy and dissolve defensive boundaries between traumatized characters through leveling physical gestures (such as sitting on the floor together or serving simple tea) rather than expository dialogue.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Strip high-stakes emotional turning points down to short, blunt declarative sentences, letting abrupt brevity convey gravity instead of prolonged dramatic venting.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "scene_structure",
+            "rule": "Resolve traumatic character arcs using quiet observational endings, positioning the protagonist as a silent bystander witnessing the communal renewal of those they protected.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Construct comic desperation through the self-sabotaging lie: have a character loudly proclaim total reformation from their vice to save face, only to immediately betray themselves through hyper-specific, involuntary fixation on the very object they claim to ignore.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Deploy tactical intimacy in colloquial dialogue, using exaggerated claims of relational bond, performative offense, and regional deflection markers to evade accountability before abruptly pivoting to defensive indignation when the tactic fails.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "scene_structure",
+            "rule": "Structure bad-faith negotiation as a transparent loop: flattering small-talk collapses under direct pushback, retreats into feigned casual curiosity, attempts an unearned concession, and resolves not with a graceful exit but with an aggrieved, face-saving parting oath.",
+            "source": "audition_scene.txt"
+        }
+    ]
+}

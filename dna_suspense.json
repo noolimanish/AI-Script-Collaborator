@@ -1,0 +1,30 @@
+{
+    "last_updated": "2026-10-28T15:32:37",
+    "rules": [
+        {
+            "category": "comedy_engine",
+            "rule": "Drive comedy through frantic physical labor and awkward bodily management rather than jokes, forcing characters to maintain a polite social facade while managing an impossible physical burden.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes using an unexpected interruption that forces an immediate physical cover-up, escalate the tension through a micro-distraction, and conclude the beat with an abrupt release of pressure that reveals the true absurdity.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English for logical justifications, authority, and polite public pleasantries, while instantly shifting into localized regional dialect when cornered, terrified, or speaking in hushed panic.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose character panic through over-compensation, where characters stubbornly double down on elaborately false narratives and excessive politeness precisely when their situation is falling apart.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Channel existential dread and catastrophic fear into mundane physical tasks, making characters obsess over trivial secondary problems while ignoring the obvious crisis.",
+            "source": "friends_deadboadytxt.txt"
+        }
+    ]
+}

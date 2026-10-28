@@ -1,0 +1,375 @@
+{
+    "last_updated": "2026-10-28T15:32:50",
+    "rules": [
+        {
+            "category": "comedy_engine",
+            "rule": "Manufacture humor by having characters aggressively double down on transparent falsehoods and status-defense mechanisms when confronted with undeniable failure, treating panic as a logical baseline.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize hyper-formal or evasive English phrasing for deflection and bureaucratic stalling, then abruptly shatter into rapid, vernacular regional language when cornered by emotional panic or authority.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct sequences around a threefold escalation: initiate with a desperate scheme, compound the absurdity through accidental self-sabotage in the middle beat, and terminate on a physical or visual humiliation button.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep-seated hypocrisies by having characters lecture others on competence or caution mere seconds before committing far more catastrophic errors of their own.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize domestic dread and parental pressure through hyper-specific, mundane objects and cyclical physical routines that characters attempt to outrun through absurd rationalizations.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by contrasting high-stakes parental anxiety with a protagonist's serene, literal-minded deflection and innocent physical posing during a reprimand.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use chronological cultural markers and technological milestones as narrative temporal anchors to immediately ground the audience in a specific era of youth culture.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes using jarring juxtaposition, transitioning from external chaotic audio to a localized setting, then escalate tension across three beats before ending on a visual or internal voiceover punchline.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose chronic underachievement and defensive apathy by having the character internally critique authority figures while externally maintaining a mask of complete blankness.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Channel existential career pressure and societal status anxiety into mundane, high-pressure environments like cramped vehicle interiors where escape is impossible.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Mask catastrophic domestic violence and terminal illness behind mundane, repetitive household chores like packing lunch, washing clothes, or cooking basic meals to heighten the tragic weight through stark contrast.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Deploy English strictly for external authority, structural excuses, or defensive posturing, while immediately dropping into sharp, vernacular regional insults and emotionally raw colloquialisms when cornered or stripped of pretense.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep psychological fractures not through self-aware monologues, but through obsessive, silent observation of domestic abuse that ultimately curdles into explosive, preemptive violence against perceived tormentors.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Enter domestic spaces mid-action during a mundane routine, escalate the tension through escalating verbal insults and unprovoked physical cruelty across three distinct beats, and anchor the scene's emotional turn on a brutal physical object or bloodied prop.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Invert traditional comedic relief into dark, surreal psychological coping mechanisms, where desperate denial and imagined domestic harmony serve as a tragic defense against inescapable abuse.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Start scenes on an ordinary domestic or domestic-adjacent action, escalate through an unexpected structural rupture or external trauma, and resolve on a haunting visual or internalized silence rather than verbal closure.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize internal psychological fragmentation by replacing heavy emotional exposition with shared physical objects, routine mundane tasks, or shared silence in confining spaces.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose a protagonist's moral rigidity and hardening worldview not through direct declaration, but by contrasting their past innocent vulnerability with cold, calculated pragmatism under extreme pressure.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Avoid superficial punchlines entirely; instead, drive narrative momentum through the stark contrast between societal expectations of comfort and the harsh, unyielding realities faced by marginalized individuals.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor emotional turning points with sparse, utilitarian dialogue where characters speak only when necessary, relying on internal voiceovers or memory to provide the moral compass for otherwise extreme actions.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by forcing characters to double down on transparent, easily disproven lies, allowing stubborn ego-defense to fuel escalation rather than relying on witty verbal punchlines.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Ground interpersonal negotiations through physical commerce or mundane object manipulation, routing emotional friction through the exchange of small items, money, or goods.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor dialogue in regional urban vernacular to capture authentic power dynamics, shifting to transactional idioms when one character needs to shut down an evasive counterparty.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose hypocrisy by having characters enthusiastically deny their glaring addictions or vices in the exact breath they attempt to secure more access to them.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Build scenes through an unyielding three-beat escalation where an unwelcome arrival breaches a quiet space, meets deadpan resistance, and concludes with a sudden, pragmatic physical concession.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by having characters proudly defend irrelevant or socially absurd metrics as proof of high competence when cornered by an authority figure.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes with a physical barrier or movement away from the characters, escalate the tension through a direct interrogation of competence, and close on a physical gesture of absolute defeat or exasperation.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English for structured professionalism, authoritative demands, and corporate framing, while switching strictly to vernacular regional dialect when characters descend into emotional panic, vulgar self-defense, or colloquial justification.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal contradictions by contrasting an individual's absolute conviction in their own operational readiness with immediate, glaring physical evidence of their total ineptitude.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Convey underlying power dynamics not through exposition, but through physical avoidance, preemptive dismissals, and the deliberate withholding of basic professional courtesies like handshakes.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes by establishing false psychological safety, introducing a quiet environmental incongruity, and punctuating the sequence with an abrupt auditory or visual button that shatters the established reality.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Convey existential dread through mundane domestic objects and linear tracking devices, allowing physical anchors like ticking clocks or functional machinery to betray internal psychological decay.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate dramatic tension through desperate attempts at rationalization, where characters willfully misinterpret terrifying anomalies as normal phenomena to protect their own fragile ego-defenses.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal vulnerability by stripping away a character's manufactured certainty precisely at the moment they declare themselves safe, leveraging their desire for relief against them.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Alternate between authoritative, reassuring expositions that mimic objective truth and abrupt, fragmented panic when characters realize their linguistic and physical reality is compromised.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Manufacture psychological friction by having characters aggressively lean into self-deception and mundane denial while their internal reality is actively unraveling.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize psychological collapse through mundane domestic rituals and repetitive physical tasks, utilizing objects as silent anchors of mounting dread.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Construct dialogue exchanges by pairing clinical, detached authority with erratic, fragmented internal confessions during high-stress transitions.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal fractures under pressure by forcing characters to rely on flawed coping mechanisms that compound their isolation and accelerate reality distortion.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Enter scenes in a state of sudden sensory shock, escalate temporal disorientation through three compounding micro-beats, and close on an unyielding visual artifact.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive comedy through frantic physical labor and awkward bodily management rather than jokes, forcing characters to maintain a polite social facade while managing an impossible physical burden.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes using an unexpected interruption that forces an immediate physical cover-up, escalate the tension through a micro-distraction, and conclude the beat with an abrupt release of pressure that reveals the true absurdity.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English for logical justifications, authority, and polite public pleasantries, while instantly shifting into localized regional dialect when cornered, terrified, or speaking in hushed panic.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose character panic through over-compensation, where characters stubbornly double down on elaborately false narratives and excessive politeness precisely when their situation is falling apart.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Channel existential dread and catastrophic fear into mundane physical tasks, making characters obsess over trivial secondary problems while ignoring the obvious crisis.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Enter a sequence through routine mundane labor, escalate physical disorientation through environmental anomalies across successive beats, and terminate on a realization of inescapable entrapment.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose protagonist vulnerability by having their desperate attempts to escape physical danger directly catalyze the exact loop or trap they are trying to avoid.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize internal psychological dread by contrasting ordinary domestic objects against high-concept, uncanny spatial anomalies.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Derive structural tension from the protagonist's denial of temporal illogic, forcing them to double down on physical labor before confronting the impossible reality of their double.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive comedy through physical entrapment and escalating social obligation, where a protagonist attempts to maintain professional boundaries while the host weaponizes hospitality to force immobility.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Reveal profound personal failures and loneliness through transactional objects—such as eating cold grocery cake alone or letting a delivery timer expire—rather than through direct emotional monologues.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use crisp, bureaucratic English phrases for professional deadlines and duty, and switch abruptly to localized vernacular when emotional vulnerability, ego defense, or shared misery takes over.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep-seated academic or career insecurities when characters compare their actual, mediocre achievements against the inflated expectations parents built for them in their neighborhood.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes around a ticking professional clock that is systematically neutralized over three beats, culminating in a physical surrender where the protagonist discards their armor and accepts the reality of the room.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by forcing characters to double down on transparent, ego-driven lies during high-pressure social exposures, letting their refusal to back down amplify the situational discomfort.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Anchor deep anxieties about abandonment, career failure, and domestic insecurity into mundane physical objects, mundane food habits, or unsolicited advice about daily survival.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use broken syntax, half-finished sentences, and false starts to mirror psychological uncertainty, reserving English for performative authority and code-switching into regional Telugu when emotionally cornered.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose underlying desperation and romantic longing precisely when characters attempt to project maximum indifference or toxic-positive social competence.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes by entering mid-discomfort, escalating the absurdity across distinct escalating beats through sudden interruptions, and concluding on a deadpan visual or physical button.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate awkward comedic friction through over-familiar intruders who misread boundaries while weaponizing aggressive hospitality and performative generosity.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Convey psychological protection and emotional trauma not through dialogue declarations, but through physical domestic maintenance like cleaning, object placement, and blocking physical reach.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor social negotiations in polite, deferential familial titles masking deep ideological turf wars, letting tonal flatlining strip the dialogue of cooperative warmth.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal vulnerability and child-like frustration through petulant defiance against necessary confinement, confusing protective isolation with systemic punishment.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct confrontations by introducing a disruptive visitor, escalating the physical encroachment over three distinct beats, and concluding on a silent, tactile action that neutralizes the intruder's lingering trace.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes with a mundane, repetitive physical labor or routine that grounds the environment before a sudden intrusion disrupts the physical equilibrium.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize devastating emotional realizations and moral compromises through sensory objects, recurring culinary motifs, or silent physical proximity rather than verbose expositions.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deepest character contradictions when individuals attempt to completely abandon their core identity, only to have past loyalties violently yank them back into conflict.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Structure high-stakes verbal confrontations with deceptive calm and minimal dialogue, reserving emotional outbursts strictly for moments of physical or psychological cornering.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive tragicomic or tense interactions through stubborn preservation of false fronts, where characters maintain rigid composure while managing chaotic physical disasters beneath the surface.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Express profound emotional distress and impending separation exclusively through mundane logistical anxieties, such as train schedules, luggage weight, and phone battery percentages.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Anchor a heavy emotional scene within a confined domestic space containing a persistent ambient sound object that underscores the tension, such as a ticking fan or running water.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English exclusively for professional reassurance, technical terms, and digital logistics, while restricting native regional language to domestic intimacy, grounding, and direct queries.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose parental control and anxiety not through yelling or confrontation, but through micro-corrections of physical objects and preemptive warnings about external systemic failures.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Structure a departure scene's final beat around a solitary, silent physical action on an abandoned object after the conversation has completely ceased.",
+            "source": "vasu_leaving_home.txt"
+        }
+    ]
+}

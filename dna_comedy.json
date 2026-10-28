@@ -1,0 +1,180 @@
+{
+    "last_updated": "2026-10-28T15:32:43",
+    "rules": [
+        {
+            "category": "comedy_engine",
+            "rule": "Manufacture humor by having characters aggressively double down on transparent falsehoods and status-defense mechanisms when confronted with undeniable failure, treating panic as a logical baseline.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize hyper-formal or evasive English phrasing for deflection and bureaucratic stalling, then abruptly shatter into rapid, vernacular regional language when cornered by emotional panic or authority.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct sequences around a threefold escalation: initiate with a desperate scheme, compound the absurdity through accidental self-sabotage in the middle beat, and terminate on a physical or visual humiliation button.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep-seated hypocrisies by having characters lecture others on competence or caution mere seconds before committing far more catastrophic errors of their own.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize domestic dread and parental pressure through hyper-specific, mundane objects and cyclical physical routines that characters attempt to outrun through absurd rationalizations.",
+            "source": "3_friends_and_girl_college_cmdy.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by contrasting high-stakes parental anxiety with a protagonist's serene, literal-minded deflection and innocent physical posing during a reprimand.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use chronological cultural markers and technological milestones as narrative temporal anchors to immediately ground the audience in a specific era of youth culture.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes using jarring juxtaposition, transitioning from external chaotic audio to a localized setting, then escalate tension across three beats before ending on a visual or internal voiceover punchline.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose chronic underachievement and defensive apathy by having the character internally critique authority figures while externally maintaining a mask of complete blankness.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Channel existential career pressure and societal status anxiety into mundane, high-pressure environments like cramped vehicle interiors where escape is impossible.",
+            "source": "akhil_intro_voiceover_framing.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by forcing characters to double down on transparent, easily disproven lies, allowing stubborn ego-defense to fuel escalation rather than relying on witty verbal punchlines.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Ground interpersonal negotiations through physical commerce or mundane object manipulation, routing emotional friction through the exchange of small items, money, or goods.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor dialogue in regional urban vernacular to capture authentic power dynamics, shifting to transactional idioms when one character needs to shut down an evasive counterparty.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose hypocrisy by having characters enthusiastically deny their glaring addictions or vices in the exact breath they attempt to secure more access to them.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Build scenes through an unyielding three-beat escalation where an unwelcome arrival breaches a quiet space, meets deadpan resistance, and concludes with a sudden, pragmatic physical concession.",
+            "source": "audition_scene.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by having characters proudly defend irrelevant or socially absurd metrics as proof of high competence when cornered by an authority figure.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes with a physical barrier or movement away from the characters, escalate the tension through a direct interrogation of competence, and close on a physical gesture of absolute defeat or exasperation.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English for structured professionalism, authoritative demands, and corporate framing, while switching strictly to vernacular regional dialect when characters descend into emotional panic, vulgar self-defense, or colloquial justification.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal contradictions by contrasting an individual's absolute conviction in their own operational readiness with immediate, glaring physical evidence of their total ineptitude.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Convey underlying power dynamics not through exposition, but through physical avoidance, preemptive dismissals, and the deliberate withholding of basic professional courtesies like handshakes.",
+            "source": "chitra_food_truck_intro.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive comedy through frantic physical labor and awkward bodily management rather than jokes, forcing characters to maintain a polite social facade while managing an impossible physical burden.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes using an unexpected interruption that forces an immediate physical cover-up, escalate the tension through a micro-distraction, and conclude the beat with an abrupt release of pressure that reveals the true absurdity.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English for logical justifications, authority, and polite public pleasantries, while instantly shifting into localized regional dialect when cornered, terrified, or speaking in hushed panic.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose character panic through over-compensation, where characters stubbornly double down on elaborately false narratives and excessive politeness precisely when their situation is falling apart.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Channel existential dread and catastrophic fear into mundane physical tasks, making characters obsess over trivial secondary problems while ignoring the obvious crisis.",
+            "source": "friends_deadboadytxt.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive comedy through physical entrapment and escalating social obligation, where a protagonist attempts to maintain professional boundaries while the host weaponizes hospitality to force immobility.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Reveal profound personal failures and loneliness through transactional objects—such as eating cold grocery cake alone or letting a delivery timer expire—rather than through direct emotional monologues.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use crisp, bureaucratic English phrases for professional deadlines and duty, and switch abruptly to localized vernacular when emotional vulnerability, ego defense, or shared misery takes over.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep-seated academic or career insecurities when characters compare their actual, mediocre achievements against the inflated expectations parents built for them in their neighborhood.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes around a ticking professional clock that is systematically neutralized over three beats, culminating in a physical surrender where the protagonist discards their armor and accepts the reality of the room.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by forcing characters to double down on transparent, ego-driven lies during high-pressure social exposures, letting their refusal to back down amplify the situational discomfort.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Anchor deep anxieties about abandonment, career failure, and domestic insecurity into mundane physical objects, mundane food habits, or unsolicited advice about daily survival.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use broken syntax, half-finished sentences, and false starts to mirror psychological uncertainty, reserving English for performative authority and code-switching into regional Telugu when emotionally cornered.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose underlying desperation and romantic longing precisely when characters attempt to project maximum indifference or toxic-positive social competence.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes by entering mid-discomfort, escalating the absurdity across distinct escalating beats through sudden interruptions, and concluding on a deadpan visual or physical button.",
+            "source": "sachin_and_reenu_love.txt"
+        }
+    ]
+}

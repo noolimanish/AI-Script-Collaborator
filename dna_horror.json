@@ -1,0 +1,80 @@
+{
+    "last_updated": "2026-10-28T15:32:34",
+    "rules": [
+        {
+            "category": "subtext_drama",
+            "rule": "Mask catastrophic domestic violence and terminal illness behind mundane, repetitive household chores like packing lunch, washing clothes, or cooking basic meals to heighten the tragic weight through stark contrast.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Deploy English strictly for external authority, structural excuses, or defensive posturing, while immediately dropping into sharp, vernacular regional insults and emotionally raw colloquialisms when cornered or stripped of pretense.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep psychological fractures not through self-aware monologues, but through obsessive, silent observation of domestic abuse that ultimately curdles into explosive, preemptive violence against perceived tormentors.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Enter domestic spaces mid-action during a mundane routine, escalate the tension through escalating verbal insults and unprovoked physical cruelty across three distinct beats, and anchor the scene's emotional turn on a brutal physical object or bloodied prop.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Invert traditional comedic relief into dark, surreal psychological coping mechanisms, where desperate denial and imagined domestic harmony serve as a tragic defense against inescapable abuse.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes by establishing false psychological safety, introducing a quiet environmental incongruity, and punctuating the sequence with an abrupt auditory or visual button that shatters the established reality.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Convey existential dread through mundane domestic objects and linear tracking devices, allowing physical anchors like ticking clocks or functional machinery to betray internal psychological decay.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate dramatic tension through desperate attempts at rationalization, where characters willfully misinterpret terrifying anomalies as normal phenomena to protect their own fragile ego-defenses.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal vulnerability by stripping away a character's manufactured certainty precisely at the moment they declare themselves safe, leveraging their desire for relief against them.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Alternate between authoritative, reassuring expositions that mimic objective truth and abrupt, fragmented panic when characters realize their linguistic and physical reality is compromised.",
+            "source": "delirium_climax_options.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Manufacture psychological friction by having characters aggressively lean into self-deception and mundane denial while their internal reality is actively unraveling.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize psychological collapse through mundane domestic rituals and repetitive physical tasks, utilizing objects as silent anchors of mounting dread.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Construct dialogue exchanges by pairing clinical, detached authority with erratic, fragmented internal confessions during high-stress transitions.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal fractures under pressure by forcing characters to rely on flawed coping mechanisms that compound their isolation and accelerate reality distortion.",
+            "source": "delirium_script_acts_1_2.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Enter scenes in a state of sudden sensory shock, escalate temporal disorientation through three compounding micro-beats, and close on an unyielding visual artifact.",
+            "source": "delirium_script_acts_1_2.txt"
+        }
+    ]
+}

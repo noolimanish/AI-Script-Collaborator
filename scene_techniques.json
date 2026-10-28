@@ -1,0 +1,110 @@
+{
+  "last_updated": "2026-10-27",
+  "techniques": [
+    {
+      "id": "sensory_shock",
+      "position": "opening",
+      "type": "Sensory Shock",
+      "register": "suspense",
+      "description": "Opens mid-panic with a physical action that triggers an involuntary trauma flashback or disorientation. Skips all geography and setup to anchor directly in visceral sensory distress.",
+      "example_beat": "Kiran dunks his head under a running tap, gasping. Each splash cuts against the sound of a shattering bus window from three nights ago."
+    },
+    {
+      "id": "the_silent_shield",
+      "position": "opening",
+      "type": "The Domestic Object Shield",
+      "register": "quiet_realism",
+      "description": "Opens on an intimate, mundane domestic task (peeling garlic, aligning bills, scraping rice) used by a character to avoid making eye contact and shield against an impending confrontation.",
+      "example_beat": "Sumathi stands at the kitchen sink slowly descaling a fish with a dull knife. She doesn't turn around when the front latch clicks open."
+    },
+    {
+      "id": "in_media_bluff",
+      "position": "opening",
+      "type": "The Pre-Collision Swagger",
+      "register": "comedy",
+      "description": "Opens with a character in the middle of rehearsing a grand lie, adjusting their clothing, or puffing their chest in front of a mirror, completely oblivious to an observer standing right behind them.",
+      "example_beat": "Surya practices his delivery action in the tea stall mirror, adjusting his sweatband. Little Bunty stands behind him holding his broken scooter mirror."
+    },
+    {
+      "id": "surreal_anomaly",
+      "position": "opening",
+      "type": "The Uncanny Baseline",
+      "register": "sci_fi",
+      "description": "Opens on an ordinary routine where one physical law or sensory detail is subtly broken (silence where traffic should be, water falling upward, a clock stuck at the wrong time).",
+      "example_beat": "Rahul sits at the dining table stirring his tea. The spoon scrapes against the glass tumbler, but the room produces absolute, dead vacuum silence."
+    },
+    {
+      "id": "contrasting_audio_lead",
+      "position": "opening",
+      "type": "The Sonic Juxtaposition",
+      "register": "thriller",
+      "description": "Opens with calm, cheerful ambient sound or an absurdly mundane phone conversation while the visuals reveal severe physical danger or panic.",
+      "example_beat": "A cheerful FM radio RJ announces morning weather while Vinay frantically scrubs fresh motor oil and red dirt off his car bumper with his vest."
+    },
+    {
+      "id": "petty_stake_escalation",
+      "position": "opening",
+      "type": "The Micro-Dispute Entry",
+      "register": "feel_good_comedy",
+      "description": "Opens mid-argument over an absurdly petty financial or physical stake (twenty rupees, the last samosa, a broken chappal) being debated with grand courtroom seriousness.",
+      "example_beat": "Varun slaps a crumpled twenty-rupee note on the glass counter, pointing his finger at Meera's hand hovering over the exact same pastry."
+    },
+    {
+      "id": "the_domino_deflection",
+      "position": "closing",
+      "type": "The Domino Deflection",
+      "register": "comedy",
+      "description": "When caught red-handed, the character refuses to apologize. They blame external factors, switch to English technical jargon to save face, and exit muttering a petty critique.",
+      "example_beat": "Caught holding the broken car key, Anji scoffs. 'Heavy tension spring defect idi. Quality control lenappudu company start cheyodhu.' He drops the broken ring and walks out."
+    },
+    {
+      "id": "the_unspoken_prop_button",
+      "position": "closing",
+      "type": "The Silent Prop Button",
+      "register": "quiet_realism",
+      "description": "Closes an emotionally heavy confrontation with zero spoken dialogue. A character performs one deliberate, mundane physical act on a household object that conveys irreversible emotional reality.",
+      "example_beat": "Venkat finishes his tea in silence, walks to the third empty brass hook near the door, and hangs his own spare Splendor key before turning off the light."
+    },
+    {
+      "id": "the_delayed_ambush",
+      "position": "closing",
+      "type": "The Lingering Evidence Freeze",
+      "register": "comedy",
+      "description": "Closes by having the straight-man character point out one tiny, unaddressed physical clue that destroys the protagonist's elaborate 10-minute cover story, leaving them frozen in silence.",
+      "example_beat": "Swapna points at his collar without looking up. 'Hospital lo rescue chesav sare... mari shirt pocket lo PVR caramel popcorn bill enduku undi?' Srinu's mouth stays open."
+    },
+    {
+      "id": "echo_visual_button",
+      "position": "closing",
+      "type": "The Narrative Echo Button",
+      "register": "thriller",
+      "description": "Ends the scene on a wide, static frame where a small detail from the scene's beginning reappears with its meaning completely inverted or horrifying.",
+      "example_beat": "The bathroom mirror reflects the entire bathroom, the flickering tube light, and the open door. It reflects everything in the room except the man standing in front of it."
+    },
+    {
+      "id": "the_compromise_bite",
+      "position": "closing",
+      "type": "The Spiteful Truce",
+      "register": "slice_of_life",
+      "description": "After a fierce, petty argument, neither side concedes victory. One character takes a bitter bite or small share of the disputed item and walks away, establishing an unspoken mutual truce.",
+      "example_beat": "Ananya chews the tiny burnt corner crust, staring at him. 'Next time chutney separate ga order pettu.' She swats his arm with her notebook and heads for the bus."
+    },
+    {
+      "id": "the_paradox_realization",
+      "position": "closing",
+      "type": "The Perspective Inversion",
+      "register": "sci_fi",
+      "description": "Ends on a character realizing they are not the observer, but the cause or the victim of the anomaly they spent the whole scene running away from.",
+      "example_beat": "The woodcutter peers through the trees at his past self arriving by truck, slowly realizing the man hiding in the dark was him all along."
+    },
+
+    {
+      "id": "comedic_button",
+      "position": "closing",
+      "type": "Comedic Button",
+      "register": "comedy",
+      "description": "Ends on a physical interruption that traps the character in his lie right as he achieves a false sense of safety.",
+      "example_beat": "Sridhar poses calmly. The door SQUEAKS open. He is caught in the act but pretends everything is fine."
+    }
+  ]
+}

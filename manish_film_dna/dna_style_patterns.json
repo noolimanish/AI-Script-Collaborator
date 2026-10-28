@@ -1,0 +1,100 @@
+{
+    "last_updated": "2026-10-28T16:39:25",
+    "rules": [
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Write rapid-fire, overlapping bilingual dialogue (Telugu-English/Tanglish) featuring frequent code-switching, colloquial slang, and swift interruptions to mirror authentic, high-energy urban peer and family dynamics.",
+            "source": "ene_kanya_raasi_reference.txt"
+        },
+        {
+            "category": "scene_pacing",
+            "rule": "Maintain a breakneck pacing by combining action beats, physical micro-actions, and sudden, chaotic physical outbursts directly between conversational turns without traditional dramatic buildup.",
+            "source": "ene_kanya_raasi_reference.txt"
+        },
+        {
+            "category": "comedy_mechanism",
+            "rule": "Deploy deadpan sarcasm, pop-culture references, cinematic quotes, and absurd physical comedy beats (such as mistaking hands for computer mice or sudden slaps) to instantly diffuse professional and emotional tension.",
+            "source": "ene_kanya_raasi_reference.txt"
+        },
+        {
+            "category": "visual_tone",
+            "rule": "Establish character internal states, status, and emotional shifts through contrasting visual elements, silent physical introspection, and environmental scanning rather than heavy exposition.",
+            "source": "ene_kanya_raasi_reference.txt"
+        },
+        {
+            "category": "scene_pacing",
+            "rule": "Drive suspense and narrative momentum through rapid, sequential visual beats and physical reactions rather than heavy exposition.",
+            "source": "Goa Gone wronG.txt"
+        },
+        {
+            "category": "visual_tone",
+            "rule": "Incorporate recurring, suspicious visual motifs—such as a masked figure appearing across different locations—to anchor tension without relying on dialogue.",
+            "source": "Goa Gone wronG.txt"
+        },
+        {
+            "category": "comedy_mechanism",
+            "rule": "Escalate chaos through frantic physical misunderstandings where characters improvise bizarre, real-time cover-ups for severe problems.",
+            "source": "Goa Gone wronG.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Alternate between fast-paced panic cover-ups and abrupt, deadpan shifts into dark comedy and sudden realizations.",
+            "source": "Goa Gone wronG.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Execute rapid-fire, overlapping conversational banter characterized by quick perspective shifts, colloquial regional insults, deadpan romantic cynicism, and self-referential pop-culture analogies.",
+            "source": "singles.txt"
+        },
+        {
+            "category": "comedy_mechanism",
+            "rule": "Employ abrupt comedic misdirection by building high expectations through serious inquiries and authoritative setups, only to instantly deflate them with absurd, low-stakes punchlines.",
+            "source": "singles.txt"
+        },
+        {
+            "category": "scene_pacing",
+            "rule": "Maintain a high-tension rhythm by seamlessly intercutting between past flashbacks and present-day dialogue without transitional padding, while anchoring the movement with immediate, contrasting physical micro-actions and parentheticals.",
+            "source": "singles.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Blend bilingual Telugu-English conversational banter with rapid-fire, unbroken deductive monologues, using code-switching and frequent character interruptions to drive procedural exposition without filler.",
+            "source": "agent_sai_srinivas_athreya.txt"
+        },
+        {
+            "category": "scene_pacing",
+            "rule": "Maintain high narrative momentum through immediate, functional transitions that pair dialogue directly with physical multitasking, quick investigative actions, or rapid montage sequences.",
+            "source": "agent_sai_srinivas_athreya.txt"
+        },
+        {
+            "category": "comedy_mechanism",
+            "rule": "Contrast grim neo-noir elements and high-tension moments with deadpan, quirky character quirks, pop-culture references, and sudden physical business to diffuse dramatic tension naturally.",
+            "source": "agent_sai_srinivas_athreya.txt"
+        },
+        {
+            "category": "visual_tone",
+            "rule": "Anchor heavy emotional realizations, rapid cross-cutting, and complex deductions with granular physical actions, visceral reactions, and sudden tonal shifts between comedy and tragedy.",
+            "source": "agent_sai_srinivas_athreya.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Blend rapid-fire, bilingual Telugu-English colloquial slang with overlapping interruptions, instantaneous emotional pivots, and direct parenthetical performance cues to maintain a hyper-authentic, conversational youthful and domestic cadence.",
+            "source": "Little_heart_mouli.txt"
+        },
+        {
+            "category": "comedy_mechanism",
+            "rule": "Juxtapose grand ambitions, romantic fantasies, or intense parental interrogations with immediate, deadpan physical micro-actions, sarcastic third-party commentary, and counter-intuitive props to create sharp situational contrast and subversion.",
+            "source": "Little_heart_mouli.txt"
+        },
+        {
+            "category": "scene_pacing",
+            "rule": "Compress narrative transitions and emotional arcs by pairing rapid-fire musical and visual montages with synchronous voiceover, split-screen digital interactions, and concise, action-driven beats that bypass prolonged exposition.",
+            "source": "Little_heart_mouli.txt"
+        },
+        {
+            "category": "visual_tone",
+            "rule": "Externalize internal character anxiety, romance, and deception through immediate physical reactions—such as blank stares, nervous ticks, mirroring business, and sudden spatial interruptions—without relying on heavy narrative description.",
+            "source": "Little_heart_mouli.txt"
+        }
+    ]
+}

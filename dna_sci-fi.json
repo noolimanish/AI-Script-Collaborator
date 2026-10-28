@@ -1,0 +1,25 @@
+{
+    "last_updated": "2026-10-28T15:32:39",
+    "rules": [
+        {
+            "category": "scene_architecture",
+            "rule": "Enter a sequence through routine mundane labor, escalate physical disorientation through environmental anomalies across successive beats, and terminate on a realization of inescapable entrapment.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose protagonist vulnerability by having their desperate attempts to escape physical danger directly catalyze the exact loop or trap they are trying to avoid.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize internal psychological dread by contrasting ordinary domestic objects against high-concept, uncanny spatial anomalies.",
+            "source": "magical_trees_treatment.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Derive structural tension from the protagonist's denial of temporal illogic, forcing them to double down on physical labor before confronting the impossible reality of their double.",
+            "source": "magical_trees_treatment.txt"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+  "source": "the-pursuit-of-happyness-2006.pdf",
+  "genre": "hollywood_feel_good_biographical_drama",
+  "structure": {
+    "act_one": "Establishes the gap between who Chris is and who he wants to be (selling scanners, struggling family). Plants the 'Happyness' motif via misspelled daycare sign. Ends with Linda leaving — inciting loss.",
+    "act_two": "The intern grind. Repeated humiliation (arrest, missed meetings, car hit, shelter lines). Escalating cost: home → motel → shelter → train station bathroom. Each loss strips dignity but never hope.",
+    "act_three": "The gamble pays off. Sale of final scanner, Bell Western accounts, hire. Quiet victory — no big speech, just a handshake and tears in an elevator."
+  },
+  "core_emotional_engine": {
+    "formula": "Dignity under siege + relentless forward motion + child as witness = audience catharsis",
+    "principle": "Every scene asks: 'How much can this man lose and still keep moving?' The answer is always 'more than you think, and yes.'"
+  },
+  "character_archetypes": {
+    "protagonist": {
+      "type": "The Relentless Underdog",
+      "traits": ["intelligent but undercredentialed", "calm under pressure", "prideful in small ways", "loves his son with quiet ferocity"],
+      "flaw": "Believes sheer effort + intelligence should be enough — learns the game requires charm, timing, and luck too",
+      "arc": "From 'I'll get a good job' (naive promise) to 'I don't want to run anywhere for a while' (earned peace)"
+    },
+    "child": {
+      "type": "The Anchor Witness",
+      "function": "Grounds the stakes. Never a plot device — always a person. His trust ('I trust you') is the emotional currency the hero spends."
+    },
+    "antagonist_force": {
+      "type": "Systemic Indifference (not a villain)",
+      "manifestations": ["Mrs. Chu's TV daycare", "parking tickets", "IRS", "shelter rules", "Alan Frakesh's casual exploitation"],
+      "note": "No mustache-twirling villain. The 'enemy' is bureaucracy, bad luck, and the cost of poverty itself."
+    },
+    "ally": {
+      "type": "The Reluctant Believer (Jay Twistle)",
+      "function": "Provides the door, not the key. Believes in Chris's determination but can't fix his life."
+    }
+  },
+  "scene_patterns": {
+    "recurring_motifs": [
+      {"motif": "The misspelled 'Happyness' sign", "function": "Irony + aspiration + the idea that happiness is imperfect but pursuable"},
+      {"motif": "The bone density scanner", "function": "The burden of bad investment / the 'time machine' fantasy / literal weight carried"},
+      {"motif": "Running (bus chases, train sprints, street dashes)", "function": "Physicalizes the hustle — exhaustion as character"},
+      {"motif": "Thomas Jefferson / Declaration of Independence", "function": "Elevates personal struggle to American myth — 'pursuit of happiness' as philosophical anchor"},
+      {"motif": "The Rubik's Cube", "function": "Proves intelligence under pressure — a mini-arc of competence in a world that doubts him"}
+    ],
+    "set_piece_structure": [
+      "1. Establish a goal (get to interview, sell scanner, make the shelter line)",
+      "2. Introduce a mundane obstacle (parking, zipper, thumb, traffic)",
+      "3. Escalate the obstacle (car hit, stolen scanner, missed meeting)",
+      "4. Chris improvises with dignity (lies, runs, fights)",
+      "5. Small win or new cost",
+      "6. Quiet emotional beat with Christopher"
+    ],
+    "dialogue_rules": [
+      "Chris speaks in short, controlled sentences — his calm is his armor",
+      "Emotional peaks are whispered, not shouted (the shelter crying scene)",
+      "Humor is dry and situational (the 'nice pair of pants' line, the 'not an actual box' bit)",
+      "Christopher's dialogue is literal, smart, and unintentionally wise",
+      "Antagonists speak in bureaucratic shorthand ('We verify at nine-thirty')"
+    ]
+  },
+  "pacing_and_tone": {
+    "rhythm": "Long stretches of grind punctuated by 30-second sprints (literally and emotionally)",
+    "tone_rule": "Never let the audience feel sorry for Chris — always let them admire him",
+    "montage_usage": [
+      "Early montage: scanner failures (compresses months of failure)",
+      "Still-image montage: motel room losing scanners one by one (visual economy of loss)",
+      "Speed-up montage: daily commute transfers (the grind without repetition)"
+    ]
+  },
+  "feel_good_formula": {
+    "step_1": "Show the dream clearly and early (stockbroker, good father)",
+    "step_2": "Stack obstacles until it feels impossible",
+    "step_3": "Let the hero fail in public repeatedly",
+    "step_4": "Provide micro-victories (Rubik's Cube, sold scanner, box seats)",
+    "step_5": "Withhold the big win until the final 10%",
+    "step_6": "Deliver the win quietly — tears, not fireworks",
+    "step_7": "Close on earned stillness (sitting on the bench, holding hands)"
+  },
+  "thematic_core": {
+    "happiness_definition": "Not a destination — the pursuit itself, shared with someone you love",
+    "american_dream_subversion": "The dream is real but rigged; you can win, but you'll bleed for it",
+    "fatherhood_theme": "Breaking the cycle — 'I never had a dad. That's not going to happen to him.'"
+  },
+  "reusable_writing_templates": [
+    {
+      "template_name": "The Quiet Dignity Beat",
+      "structure": "Hero is at lowest point → child says something simple and trusting → hero almost breaks but holds it together → next scene begins",
+      "example": "Shelter crying scene → Christopher asks about the tie → Chris says 'I'll get it done.'"
+    },
+    {
+      "template_name": "The Improvised Lie",
+      "structure": "Hero needs something he can't afford/access → invents a plausible social fiction → it works → cost is deferred but real",
+      "example": "Telling Twistle he's 'going to Russian Hill too' to share the cab"
+    },
+    {
+      "template_name": "The Micro-Competence Flex",
+      "structure": "Surrounded by doubters → hero demonstrates unexpected skill → room goes quiet → small respect earned",
+      "example": "Solving the Rubik's Cube in the cab; the 'nice pants' interview joke"
+    },
+    {
+      "template_name": "The Bureaucratic Wall",
+      "structure": "Hero explains his humanity → system responds with a rule → hero must accept it → he runs to the next thing",
+      "example": "Shelter worker: 'No kids. We don't have liability.'"
+    }
+  ],
+  "language_fingerprint": {
+    "repetition": "Chris repeats key phrases to himself ('It's going to be fine') — self-soothing mantra",
+    "voiceover": "Reflective, past-tense, philosophical but plain-spoken ('This part of my life... is called running')",
+    "profanity": "Used for texture and stress-release, not shock ('Fuck... fuck... fuck')",
+    "child_speak": "Christopher speaks in complete, curious sentences — never babified"
+  },
+  "audience_manipulation_ethics": {
+    "rule": "Earn every tear. The audience should feel they witnessed real struggle, not manufactured sentiment.",
+    "technique": "Withhold music, withhold close-ups until the final 20 minutes. Let silence do the work."
+  }
+}

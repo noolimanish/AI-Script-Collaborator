@@ -1,0 +1,55 @@
+{
+    "last_updated": "2026-10-28T15:32:43",
+    "rules": [
+        {
+            "category": "comedy_engine",
+            "rule": "Drive comedy through physical entrapment and escalating social obligation, where a protagonist attempts to maintain professional boundaries while the host weaponizes hospitality to force immobility.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Reveal profound personal failures and loneliness through transactional objects—such as eating cold grocery cake alone or letting a delivery timer expire—rather than through direct emotional monologues.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use crisp, bureaucratic English phrases for professional deadlines and duty, and switch abruptly to localized vernacular when emotional vulnerability, ego defense, or shared misery takes over.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep-seated academic or career insecurities when characters compare their actual, mediocre achievements against the inflated expectations parents built for them in their neighborhood.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes around a ticking professional clock that is systematically neutralized over three beats, culminating in a physical surrender where the protagonist discards their armor and accepts the reality of the room.",
+            "source": "sachin_amol_icecream delivery scene.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate humor by forcing characters to double down on transparent, ego-driven lies during high-pressure social exposures, letting their refusal to back down amplify the situational discomfort.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Anchor deep anxieties about abandonment, career failure, and domestic insecurity into mundane physical objects, mundane food habits, or unsolicited advice about daily survival.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Use broken syntax, half-finished sentences, and false starts to mirror psychological uncertainty, reserving English for performative authority and code-switching into regional Telugu when emotionally cornered.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose underlying desperation and romantic longing precisely when characters attempt to project maximum indifference or toxic-positive social competence.",
+            "source": "sachin_and_reenu_love.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct scenes by entering mid-discomfort, escalating the absurdity across distinct escalating beats through sudden interruptions, and concluding on a deadpan visual or physical button.",
+            "source": "sachin_and_reenu_love.txt"
+        }
+    ]
+}

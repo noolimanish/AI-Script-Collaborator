@@ -1,0 +1,130 @@
+{
+    "last_updated": "2026-10-28T15:32:50",
+    "rules": [
+        {
+            "category": "subtext_drama",
+            "rule": "Mask catastrophic domestic violence and terminal illness behind mundane, repetitive household chores like packing lunch, washing clothes, or cooking basic meals to heighten the tragic weight through stark contrast.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Deploy English strictly for external authority, structural excuses, or defensive posturing, while immediately dropping into sharp, vernacular regional insults and emotionally raw colloquialisms when cornered or stripped of pretense.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deep psychological fractures not through self-aware monologues, but through obsessive, silent observation of domestic abuse that ultimately curdles into explosive, preemptive violence against perceived tormentors.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Enter domestic spaces mid-action during a mundane routine, escalate the tension through escalating verbal insults and unprovoked physical cruelty across three distinct beats, and anchor the scene's emotional turn on a brutal physical object or bloodied prop.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Invert traditional comedic relief into dark, surreal psychological coping mechanisms, where desperate denial and imagined domestic harmony serve as a tragic defense against inescapable abuse.",
+            "source": "Amma_short_story.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Start scenes on an ordinary domestic or domestic-adjacent action, escalate through an unexpected structural rupture or external trauma, and resolve on a haunting visual or internalized silence rather than verbal closure.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize internal psychological fragmentation by replacing heavy emotional exposition with shared physical objects, routine mundane tasks, or shared silence in confining spaces.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose a protagonist's moral rigidity and hardening worldview not through direct declaration, but by contrasting their past innocent vulnerability with cold, calculated pragmatism under extreme pressure.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Avoid superficial punchlines entirely; instead, drive narrative momentum through the stark contrast between societal expectations of comfort and the harsh, unyielding realities faced by marginalized individuals.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor emotional turning points with sparse, utilitarian dialogue where characters speak only when necessary, relying on internal voiceovers or memory to provide the moral compass for otherwise extreme actions.",
+            "source": "ashrayam_short_film_screenplay.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Generate awkward comedic friction through over-familiar intruders who misread boundaries while weaponizing aggressive hospitality and performative generosity.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Convey psychological protection and emotional trauma not through dialogue declarations, but through physical domestic maintenance like cleaning, object placement, and blocking physical reach.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Anchor social negotiations in polite, deferential familial titles masking deep ideological turf wars, letting tonal flatlining strip the dialogue of cooperative warmth.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose internal vulnerability and child-like frustration through petulant defiance against necessary confinement, confusing protective isolation with systemic punishment.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Construct confrontations by introducing a disruptive visitor, escalating the physical encroachment over three distinct beats, and concluding on a silent, tactile action that neutralizes the intruder's lingering trace.",
+            "source": "SUMATHI's SON.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Initiate scenes with a mundane, repetitive physical labor or routine that grounds the environment before a sudden intrusion disrupts the physical equilibrium.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Externalize devastating emotional realizations and moral compromises through sensory objects, recurring culinary motifs, or silent physical proximity rather than verbose expositions.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose deepest character contradictions when individuals attempt to completely abandon their core identity, only to have past loyalties violently yank them back into conflict.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Structure high-stakes verbal confrontations with deceptive calm and minimal dialogue, reserving emotional outbursts strictly for moments of physical or psychological cornering.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "comedy_engine",
+            "rule": "Drive tragicomic or tense interactions through stubborn preservation of false fronts, where characters maintain rigid composure while managing chaotic physical disasters beneath the surface.",
+            "source": "THE BOOK OF AARAVI_UPDATED.txt"
+        },
+        {
+            "category": "subtext_drama",
+            "rule": "Express profound emotional distress and impending separation exclusively through mundane logistical anxieties, such as train schedules, luggage weight, and phone battery percentages.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Anchor a heavy emotional scene within a confined domestic space containing a persistent ambient sound object that underscores the tension, such as a ticking fan or running water.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "dialogue_rhythm",
+            "rule": "Utilize English exclusively for professional reassurance, technical terms, and digital logistics, while restricting native regional language to domestic intimacy, grounding, and direct queries.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "character_flaw",
+            "rule": "Expose parental control and anxiety not through yelling or confrontation, but through micro-corrections of physical objects and preemptive warnings about external systemic failures.",
+            "source": "vasu_leaving_home.txt"
+        },
+        {
+            "category": "scene_architecture",
+            "rule": "Structure a departure scene's final beat around a solitary, silent physical action on an abandoned object after the conversation has completely ceased.",
+            "source": "vasu_leaving_home.txt"
+        }
+    ]
+}
